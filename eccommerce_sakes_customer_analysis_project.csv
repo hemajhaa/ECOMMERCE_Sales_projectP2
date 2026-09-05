@@ -1,0 +1,1501 @@
+﻿order_id,order_date,customer_id,customer_name,gender,age,city,product_name,category,price,quantity,discount_percent,payment_method,order_status,gross_amount,discount_amount,revenue
+O0860,01-01-2023,C009,Karan Malhotra,Male,40,Delhi,Laptop Stand,Electronics,1299,3,10,UPI,Delivered,3897,389.7,3507.3
+O0657,02-01-2023,C039,Ishaan Roy,Male,36,Bangalore,Water Bottle,Home & Kitchen,499,3,10,Credit Card,Delivered,1497,149.7,1347.3
+O1337,03-01-2023,C025,Siddharth Jain,Male,37,Mumbai,Coffee Mug,Home & Kitchen,399,1,5,Credit Card,Delivered,399,19.95,379.05
+O1160,04-01-2023,C048,Ira Chawla,Female,30,Chandigarh,Study Table,Furniture,5999,1,0,Credit Card,Delivered,5999,0,5999
+O1458,05-01-2023,C016,Isha Gupta,Female,34,Pune,Casual Hoodie,Fashion,1799,1,15,Credit Card,Delivered,1799,269.85,1529.15
+O0412,06-01-2023,C032,Sakshi Jain,Female,33,Indore,Formal Shirt,Fashion,1299,3,10,Net Banking,Delivered,3897,389.7,3507.3
+O0048,07-01-2023,C018,Simran Kaur,Female,23,Delhi,Mechanical Keyboard,Electronics,2499,1,0,UPI,Returned,2499,0,0
+O1002,08-01-2023,C019,Akash Jain,Male,31,Chennai,Power Bank,Electronics,1499,5,0,Credit Card,Delivered,7495,0,7495
+O0585,09-01-2023,C009,Karan Malhotra,Male,40,Delhi,Study Table,Furniture,5999,2,0,Cash on Delivery,Cancelled,11998,0,0
+O0677,10-01-2023,C026,Aditi Malhotra,Female,29,Delhi,Coffee Mug,Home & Kitchen,399,1,5,UPI,Delivered,399,19.95,379.05
+O0227,11-01-2023,C031,Harsh Agarwal,Male,24,Jaipur,Office Chair,Furniture,7999,4,0,UPI,Delivered,31996,0,31996
+O0939,11-01-2023,C010,Kavya Iyer,Female,24,Chennai,Travel Bag,Accessories,3299,1,0,Debit Card,Returned,3299,0,0
+O0363,11-01-2023,C007,Arjun Patel,Male,31,Ahmedabad,Bluetooth Headphones,Electronics,1999,4,5,UPI,Delivered,7996,399.8,7596.2
+O1148,11-01-2023,C037,Kabir Sethi,Male,30,Mumbai,Cricket Bat,Sports,2499,2,20,Net Banking,Delivered,4998,999.6,3998.4
+O0618,13-01-2023,C008,Sneha Reddy,Female,26,Hyderabad,Water Bottle,Home & Kitchen,499,2,10,Credit Card,Delivered,998,99.8,898.2
+O1132,14-01-2023,C027,Manish Kumar,Male,34,Jaipur,Protein Shaker,Sports,599,1,10,Credit Card,Delivered,599,59.9,539.1
+O0813,14-01-2023,C006,Neha Kapoor,Female,27,Pune,Table Lamp,Home & Kitchen,1499,1,5,Credit Card,Delivered,1499,74.95,1424.05
+O0687,14-01-2023,C032,Sakshi Jain,Female,33,Indore,Table Lamp,Home & Kitchen,1499,3,5,Credit Card,Delivered,4497,224.85,4272.15
+O1312,14-01-2023,C045,Gaurav Singh,Male,43,Noida,Leather Jacket,Fashion,4999,5,10,UPI,Delivered,24995,2499.5,22495.5
+O0004,14-01-2023,C018,Simran Kaur,Female,23,Delhi,Bedsheet Set,Home & Kitchen,1999,3,0,UPI,Delivered,5997,0,5997
+O0344,14-01-2023,C004,Ananya Singh,Female,29,Delhi,Protein Shaker,Sports,599,1,10,Debit Card,Delivered,599,59.9,539.1
+O0027,15-01-2023,C038,Muskan Ali,Female,28,Hyderabad,Denim Jeans,Fashion,1499,1,10,Net Banking,Delivered,1499,149.9,1349.1
+O0529,16-01-2023,C038,Muskan Ali,Female,28,Hyderabad,Smart Watch,Electronics,3999,2,10,Credit Card,Delivered,7998,799.8,7198.2
+O1055,17-01-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Notebook,Stationery,199,4,5,UPI,Returned,796,39.8,0
+O1405,17-01-2023,C039,Ishaan Roy,Male,36,Bangalore,Cricket Bat,Sports,2499,1,0,Debit Card,Delivered,2499,0,2499
+O1190,18-01-2023,C012,Pooja Nair,Female,30,Bangalore,Face Wash,Beauty,449,1,5,UPI,Delivered,449,22.45,426.55
+O1426,19-01-2023,C038,Muskan Ali,Female,28,Hyderabad,Yoga Mat,Sports,899,3,10,Debit Card,Delivered,2697,269.7,2427.3
+O0526,19-01-2023,C050,Kriti Sinha,Female,26,Mumbai,Protein Shaker,Sports,599,2,0,Cash on Delivery,Delivered,1198,0,1198
+O0609,19-01-2023,C049,Samar Bhatia,Male,31,Delhi,Backpack,Accessories,1799,1,0,Debit Card,Delivered,1799,0,1799
+O0682,20-01-2023,C034,Ritika Bose,Female,35,Kolkata,Water Bottle,Home & Kitchen,499,2,0,Credit Card,Delivered,998,0,998
+O0452,20-01-2023,C041,Pranav Rao,Male,26,Chennai,Face Wash,Beauty,449,4,0,Cash on Delivery,Delivered,1796,0,1796
+O1187,20-01-2023,C001,Aarav Sharma,Male,28,Delhi,Laptop Stand,Electronics,1299,2,5,Debit Card,Cancelled,2598,129.9,0
+O1136,21-01-2023,C029,Nikhil Bansal,Male,39,Gurgaon,USB Cable,Electronics,299,2,5,UPI,Delivered,598,29.9,568.1
+O1209,22-01-2023,C015,Rohan Kapoor,Male,27,Delhi,Perfume,Beauty,1899,2,5,Debit Card,Delivered,3798,189.9,3608.1
+O0998,22-01-2023,C020,Nisha Sharma,Female,28,Mumbai,Sunglasses,Accessories,999,3,10,UPI,Cancelled,2997,299.7,0
+O0623,23-01-2023,C042,Sonal Mishra,Female,38,Delhi,Casual Hoodie,Fashion,1799,2,5,UPI,Delivered,3598,179.9,3418.1
+O1244,25-01-2023,C026,Aditi Malhotra,Female,29,Delhi,Notebook,Stationery,199,2,5,UPI,Delivered,398,19.9,378.1
+O0464,25-01-2023,C009,Karan Malhotra,Male,40,Delhi,Smart Watch,Electronics,3999,1,10,UPI,Delivered,3999,399.9,3599.1
+O0439,26-01-2023,C012,Pooja Nair,Female,30,Bangalore,Smart Watch,Electronics,3999,2,10,Net Banking,Delivered,7998,799.8,7198.2
+O0726,26-01-2023,C025,Siddharth Jain,Male,37,Mumbai,Face Wash,Beauty,449,1,10,Debit Card,Delivered,449,44.9,404.1
+O0594,27-01-2023,C028,Shreya Das,Female,27,Kolkata,Bedsheet Set,Home & Kitchen,1999,2,0,Debit Card,Delivered,3998,0,3998
+O0745,27-01-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Bluetooth Headphones,Electronics,1999,4,0,Cash on Delivery,Delivered,7996,0,7996
+O1466,28-01-2023,C022,Tanya Gupta,Female,26,Bangalore,Office Chair,Furniture,7999,1,0,UPI,Cancelled,7999,0,0
+O1415,28-01-2023,C008,Sneha Reddy,Female,26,Hyderabad,Smart Watch,Electronics,3999,2,10,Credit Card,Delivered,7998,799.8,7198.2
+O1404,28-01-2023,C023,Mohit Arora,Male,30,Pune,Bookshelf,Furniture,4499,3,0,UPI,Delivered,13497,0,13497
+O1068,29-01-2023,C037,Kabir Sethi,Male,30,Mumbai,Smart Watch,Electronics,3999,2,5,Credit Card,Cancelled,7998,399.9,0
+O1387,29-01-2023,C008,Sneha Reddy,Female,26,Hyderabad,Notebook,Stationery,199,2,15,Debit Card,Delivered,398,59.7,338.3
+O0546,29-01-2023,C047,Abhishek Das,Male,34,Bangalore,Casual Hoodie,Fashion,1799,3,10,UPI,Delivered,5397,539.7,4857.3
+O1186,02-02-2023,C039,Ishaan Roy,Male,36,Bangalore,Formal Shirt,Fashion,1299,4,0,Debit Card,Cancelled,5196,0,0
+O0755,03-02-2023,C019,Akash Jain,Male,31,Chennai,Table Lamp,Home & Kitchen,1499,2,20,UPI,Delivered,2998,599.6,2398.4
+O0577,06-02-2023,C048,Ira Chawla,Female,30,Chandigarh,Backpack,Accessories,1799,1,5,UPI,Delivered,1799,89.95,1709.05
+O0781,07-02-2023,C048,Ira Chawla,Female,30,Chandigarh,Power Bank,Electronics,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O0775,07-02-2023,C047,Abhishek Das,Male,34,Bangalore,USB Cable,Electronics,299,1,15,UPI,Delivered,299,44.85,254.15
+O1168,08-02-2023,C035,Dev Malhotra,Male,41,Chandigarh,Power Bank,Electronics,1499,1,0,Cash on Delivery,Delivered,1499,0,1499
+O0285,08-02-2023,C008,Sneha Reddy,Female,26,Hyderabad,Cotton T-Shirt,Fashion,699,1,5,UPI,Delivered,699,34.95,664.05
+O0471,09-02-2023,C034,Ritika Bose,Female,35,Kolkata,Denim Jeans,Fashion,1499,5,10,Credit Card,Delivered,7495,749.5,6745.5
+O0700,10-02-2023,C017,Varun Singh,Male,38,Hyderabad,Casual Hoodie,Fashion,1799,1,5,Debit Card,Delivered,1799,89.95,1709.05
+O1045,10-02-2023,C032,Sakshi Jain,Female,33,Indore,Bedsheet Set,Home & Kitchen,1999,1,15,UPI,Delivered,1999,299.85,1699.15
+O0086,11-02-2023,C013,Aditya Joshi,Male,29,Mumbai,Face Wash,Beauty,449,2,0,UPI,Delivered,898,0,898
+O0118,12-02-2023,C015,Rohan Kapoor,Male,27,Delhi,Sunglasses,Accessories,999,5,10,UPI,Delivered,4995,499.5,4495.5
+O0780,14-02-2023,C030,Divya Menon,Female,31,Kochi,Water Bottle,Home & Kitchen,499,1,15,Credit Card,Delivered,499,74.85,424.15
+O0315,14-02-2023,C020,Nisha Sharma,Female,28,Mumbai,Cricket Bat,Sports,2499,1,10,Credit Card,Delivered,2499,249.9,2249.1
+O0955,16-02-2023,C014,Meera Shah,Female,36,Ahmedabad,Bookshelf,Furniture,4499,1,20,UPI,Delivered,4499,899.8,3599.2
+O0386,16-02-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Smart Watch,Electronics,3999,3,10,UPI,Delivered,11997,1199.7,10797.3
+O1145,17-02-2023,C041,Pranav Rao,Male,26,Chennai,Power Bank,Electronics,1499,1,10,UPI,Delivered,1499,149.9,1349.1
+O0056,18-02-2023,C015,Rohan Kapoor,Male,27,Delhi,Denim Jeans,Fashion,1499,2,5,UPI,Delivered,2998,149.9,2848.1
+O0770,19-02-2023,C039,Ishaan Roy,Male,36,Bangalore,Backpack,Accessories,1799,3,0,Cash on Delivery,Delivered,5397,0,5397
+O1203,19-02-2023,C028,Shreya Das,Female,27,Kolkata,Bedsheet Set,Home & Kitchen,1999,2,10,UPI,Delivered,3998,399.8,3598.2
+O1165,20-02-2023,C011,Rahul Khanna,Male,33,Pune,Yoga Mat,Sports,899,2,10,Credit Card,Delivered,1798,179.8,1618.2
+O0001,21-02-2023,C041,Pranav Rao,Male,26,Chennai,Smart Watch,Electronics,3999,2,0,UPI,Delivered,7998,0,7998
+O0157,21-02-2023,C015,Rohan Kapoor,Male,27,Delhi,Study Table,Furniture,5999,2,15,Debit Card,Delivered,11998,1799.7,10198.3
+O1201,21-02-2023,C022,Tanya Gupta,Female,26,Bangalore,Bluetooth Headphones,Electronics,1999,5,0,Net Banking,Delivered,9995,0,9995
+O1210,23-02-2023,C007,Arjun Patel,Male,31,Ahmedabad,Formal Shirt,Fashion,1299,2,0,UPI,Delivered,2598,0,2598
+O0183,23-02-2023,C042,Sonal Mishra,Female,38,Delhi,Water Bottle,Home & Kitchen,499,2,10,UPI,Delivered,998,99.8,898.2
+O1462,23-02-2023,C025,Siddharth Jain,Male,37,Mumbai,Cricket Bat,Sports,2499,2,5,UPI,Delivered,4998,249.9,4748.1
+O0428,24-02-2023,C019,Akash Jain,Male,31,Chennai,Protein Shaker,Sports,599,3,10,Credit Card,Delivered,1797,179.7,1617.3
+O0282,24-02-2023,C045,Gaurav Singh,Male,43,Noida,Backpack,Accessories,1799,2,0,Net Banking,Delivered,3598,0,3598
+O0879,25-02-2023,C019,Akash Jain,Male,31,Chennai,Bedsheet Set,Home & Kitchen,1999,1,0,Cash on Delivery,Delivered,1999,0,1999
+O0524,26-02-2023,C006,Neha Kapoor,Female,27,Pune,Leather Jacket,Fashion,4999,1,0,Net Banking,Delivered,4999,0,4999
+O1306,27-02-2023,C041,Pranav Rao,Male,26,Chennai,Yoga Mat,Sports,899,2,10,Credit Card,Delivered,1798,179.8,1618.2
+O0263,28-02-2023,C037,Kabir Sethi,Male,30,Mumbai,Mechanical Keyboard,Electronics,2499,1,15,UPI,Delivered,2499,374.85,2124.15
+O0568,01-03-2023,C023,Mohit Arora,Male,30,Pune,Table Lamp,Home & Kitchen,1499,3,15,Cash on Delivery,Delivered,4497,674.55,3822.45
+O0520,01-03-2023,C034,Ritika Bose,Female,35,Kolkata,Laptop Stand,Electronics,1299,1,15,UPI,Delivered,1299,194.85,1104.15
+O0441,02-03-2023,C008,Sneha Reddy,Female,26,Hyderabad,Protein Shaker,Sports,599,1,5,UPI,Delivered,599,29.95,569.05
+O0399,05-03-2023,C011,Rahul Khanna,Male,33,Pune,Bluetooth Headphones,Electronics,1999,3,0,UPI,Delivered,5997,0,5997
+O0834,06-03-2023,C021,Rajat Verma,Male,42,Delhi,Yoga Mat,Sports,899,1,0,Credit Card,Delivered,899,0,899
+O0724,06-03-2023,C030,Divya Menon,Female,31,Kochi,Yoga Mat,Sports,899,1,10,UPI,Returned,899,89.9,0
+O0247,08-03-2023,C025,Siddharth Jain,Male,37,Mumbai,Coffee Mug,Home & Kitchen,399,2,10,Credit Card,Cancelled,798,79.8,0
+O0690,08-03-2023,C028,Shreya Das,Female,27,Kolkata,Study Table,Furniture,5999,2,5,UPI,Delivered,11998,599.9,11398.1
+O0112,08-03-2023,C031,Harsh Agarwal,Male,24,Jaipur,Leather Jacket,Fashion,4999,1,10,Credit Card,Delivered,4999,499.9,4499.1
+O0596,08-03-2023,C019,Akash Jain,Male,31,Chennai,Cotton T-Shirt,Fashion,699,1,5,Debit Card,Delivered,699,34.95,664.05
+O0486,08-03-2023,C050,Kriti Sinha,Female,26,Mumbai,Coffee Mug,Home & Kitchen,399,1,0,Debit Card,Delivered,399,0,399
+O0355,09-03-2023,C037,Kabir Sethi,Male,30,Mumbai,Sunglasses,Accessories,999,1,15,UPI,Delivered,999,149.85,849.15
+O1206,10-03-2023,C004,Ananya Singh,Female,29,Delhi,Travel Bag,Accessories,3299,1,15,Cash on Delivery,Delivered,3299,494.85,2804.15
+O0727,10-03-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Denim Jeans,Fashion,1499,1,10,Debit Card,Delivered,1499,149.9,1349.1
+O1353,11-03-2023,C026,Aditi Malhotra,Female,29,Delhi,Denim Jeans,Fashion,1499,1,5,Credit Card,Delivered,1499,74.95,1424.05
+O1341,12-03-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Perfume,Beauty,1899,2,0,UPI,Returned,3798,0,0
+O0963,13-03-2023,C014,Meera Shah,Female,36,Ahmedabad,Water Bottle,Home & Kitchen,499,2,20,Credit Card,Delivered,998,199.6,798.4
+O0673,15-03-2023,C011,Rahul Khanna,Male,33,Pune,Sunglasses,Accessories,999,1,10,UPI,Returned,999,99.9,0
+O0050,15-03-2023,C010,Kavya Iyer,Female,24,Chennai,Water Bottle,Home & Kitchen,499,3,5,UPI,Delivered,1497,74.85,1422.15
+O1367,17-03-2023,C003,Rohan Gupta,Male,25,Bangalore,Denim Jeans,Fashion,1499,1,0,Net Banking,Delivered,1499,0,1499
+O1143,17-03-2023,C020,Nisha Sharma,Female,28,Mumbai,Bluetooth Headphones,Electronics,1999,2,5,Cash on Delivery,Delivered,3998,199.9,3798.1
+O0122,17-03-2023,C049,Samar Bhatia,Male,31,Delhi,Water Bottle,Home & Kitchen,499,2,0,Net Banking,Delivered,998,0,998
+O1115,17-03-2023,C036,Palak Arora,Female,22,Delhi,Leather Jacket,Fashion,4999,2,5,Debit Card,Delivered,9998,499.9,9498.1
+O0552,18-03-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Backpack,Accessories,1799,1,10,Debit Card,Delivered,1799,179.9,1619.1
+O1479,18-03-2023,C031,Harsh Agarwal,Male,24,Jaipur,Coffee Mug,Home & Kitchen,399,1,0,Cash on Delivery,Delivered,399,0,399
+O0923,19-03-2023,C012,Pooja Nair,Female,30,Bangalore,Table Lamp,Home & Kitchen,1499,2,10,UPI,Delivered,2998,299.8,2698.2
+O0902,19-03-2023,C001,Aarav Sharma,Male,28,Delhi,Travel Bag,Accessories,3299,2,0,Net Banking,Delivered,6598,0,6598
+O0203,19-03-2023,C030,Divya Menon,Female,31,Kochi,Office Chair,Furniture,7999,1,10,Cash on Delivery,Delivered,7999,799.9,7199.1
+O0799,20-03-2023,C042,Sonal Mishra,Female,38,Delhi,Laptop Stand,Electronics,1299,2,5,UPI,Delivered,2598,129.9,2468.1
+O0433,23-03-2023,C017,Varun Singh,Male,38,Hyderabad,Cotton T-Shirt,Fashion,699,4,15,UPI,Delivered,2796,419.4,2376.6
+O0051,23-03-2023,C020,Nisha Sharma,Female,28,Mumbai,Casual Hoodie,Fashion,1799,3,0,UPI,Delivered,5397,0,5397
+O0117,23-03-2023,C006,Neha Kapoor,Female,27,Pune,Table Lamp,Home & Kitchen,1499,3,10,UPI,Delivered,4497,449.7,4047.3
+O0610,23-03-2023,C040,Ayesha Khan,Female,32,Pune,Denim Jeans,Fashion,1499,2,0,Net Banking,Cancelled,2998,0,0
+O0461,24-03-2023,C044,Nandini Paul,Female,25,Kolkata,Leather Jacket,Fashion,4999,1,15,Debit Card,Delivered,4999,749.85,4249.15
+O1413,25-03-2023,C004,Ananya Singh,Female,29,Delhi,Power Bank,Electronics,1499,1,10,UPI,Delivered,1499,149.9,1349.1
+O0091,26-03-2023,C037,Kabir Sethi,Male,30,Mumbai,Bedsheet Set,Home & Kitchen,1999,1,5,Credit Card,Delivered,1999,99.95,1899.05
+O0888,26-03-2023,C034,Ritika Bose,Female,35,Kolkata,Sunglasses,Accessories,999,1,5,Cash on Delivery,Delivered,999,49.95,949.05
+O0962,26-03-2023,C016,Isha Gupta,Female,34,Pune,Smart Watch,Electronics,3999,5,5,Credit Card,Delivered,19995,999.75,18995.25
+O1129,27-03-2023,C007,Arjun Patel,Male,31,Ahmedabad,Face Wash,Beauty,449,2,0,UPI,Delivered,898,0,898
+O1389,28-03-2023,C034,Ritika Bose,Female,35,Kolkata,Sunglasses,Accessories,999,2,20,Cash on Delivery,Delivered,1998,399.6,1598.4
+O0658,30-03-2023,C024,Riya Kapoor,Female,25,Hyderabad,Perfume,Beauty,1899,2,5,Credit Card,Cancelled,3798,189.9,0
+O0006,30-03-2023,C017,Varun Singh,Male,38,Hyderabad,Bedsheet Set,Home & Kitchen,1999,2,5,Credit Card,Returned,3998,199.9,0
+O1263,31-03-2023,C026,Aditi Malhotra,Female,29,Delhi,Yoga Mat,Sports,899,1,15,Debit Card,Delivered,899,134.85,764.15
+O0060,01-04-2023,C013,Aditya Joshi,Male,29,Mumbai,Running Shoes,Fashion,2999,2,0,Credit Card,Cancelled,5998,0,0
+O0324,01-04-2023,C004,Ananya Singh,Female,29,Delhi,Denim Jeans,Fashion,1499,1,0,Cash on Delivery,Delivered,1499,0,1499
+O1475,02-04-2023,C006,Neha Kapoor,Female,27,Pune,Coffee Mug,Home & Kitchen,399,2,10,UPI,Delivered,798,79.8,718.2
+O1101,03-04-2023,C005,Vikram Mehta,Male,35,Mumbai,Travel Bag,Accessories,3299,2,5,Credit Card,Delivered,6598,329.9,6268.1
+O0918,04-04-2023,C014,Meera Shah,Female,36,Ahmedabad,Protein Shaker,Sports,599,2,0,UPI,Delivered,1198,0,1198
+O1164,04-04-2023,C026,Aditi Malhotra,Female,29,Delhi,Formal Shirt,Fashion,1299,4,15,Debit Card,Delivered,5196,779.4,4416.6
+O1076,04-04-2023,C039,Ishaan Roy,Male,36,Bangalore,Yoga Mat,Sports,899,1,5,Net Banking,Delivered,899,44.95,854.05
+O1229,05-04-2023,C016,Isha Gupta,Female,34,Pune,Travel Bag,Accessories,3299,3,5,UPI,Delivered,9897,494.85,9402.15
+O0840,05-04-2023,C030,Divya Menon,Female,31,Kochi,Laptop Stand,Electronics,1299,1,10,UPI,Delivered,1299,129.9,1169.1
+O0598,07-04-2023,C045,Gaurav Singh,Male,43,Noida,Leather Jacket,Fashion,4999,4,5,Net Banking,Returned,19996,999.8,0
+O0083,13-04-2023,C030,Divya Menon,Female,31,Kochi,Power Bank,Electronics,1499,1,0,UPI,Delivered,1499,0,1499
+O0561,13-04-2023,C017,Varun Singh,Male,38,Hyderabad,Office Chair,Furniture,7999,1,0,UPI,Delivered,7999,0,7999
+O0845,14-04-2023,C035,Dev Malhotra,Male,41,Chandigarh,Office Chair,Furniture,7999,1,5,UPI,Delivered,7999,399.95,7599.05
+O0521,14-04-2023,C003,Rohan Gupta,Male,25,Bangalore,Office Chair,Furniture,7999,4,10,Cash on Delivery,Delivered,31996,3199.6,28796.4
+O1429,16-04-2023,C009,Karan Malhotra,Male,40,Delhi,Running Shoes,Fashion,2999,2,0,Credit Card,Delivered,5998,0,5998
+O0106,16-04-2023,C022,Tanya Gupta,Female,26,Bangalore,Power Bank,Electronics,1499,1,15,UPI,Delivered,1499,224.85,1274.15
+O1208,17-04-2023,C004,Ananya Singh,Female,29,Delhi,Water Bottle,Home & Kitchen,499,1,5,Debit Card,Delivered,499,24.95,474.05
+O0668,17-04-2023,C040,Ayesha Khan,Female,32,Pune,Yoga Mat,Sports,899,1,20,UPI,Delivered,899,179.8,719.2
+O1198,17-04-2023,C028,Shreya Das,Female,27,Kolkata,Backpack,Accessories,1799,3,0,Credit Card,Delivered,5397,0,5397
+O1344,18-04-2023,C015,Rohan Kapoor,Male,27,Delhi,Yoga Mat,Sports,899,4,10,Debit Card,Delivered,3596,359.6,3236.4
+O1274,18-04-2023,C020,Nisha Sharma,Female,28,Mumbai,Office Chair,Furniture,7999,2,0,UPI,Delivered,15998,0,15998
+O0495,20-04-2023,C028,Shreya Das,Female,27,Kolkata,Power Bank,Electronics,1499,1,0,Debit Card,Delivered,1499,0,1499
+O0224,20-04-2023,C002,Priya Verma,Female,32,Mumbai,Pen Set,Stationery,299,1,5,UPI,Delivered,299,14.95,284.05
+O0107,20-04-2023,C032,Sakshi Jain,Female,33,Indore,Bluetooth Headphones,Electronics,1999,1,10,UPI,Cancelled,1999,199.9,0
+O0763,21-04-2023,C041,Pranav Rao,Male,26,Chennai,Notebook,Stationery,199,1,0,UPI,Delivered,199,0,199
+O0599,21-04-2023,C021,Rajat Verma,Male,42,Delhi,Water Bottle,Home & Kitchen,499,1,0,Cash on Delivery,Delivered,499,0,499
+O0708,21-04-2023,C031,Harsh Agarwal,Male,24,Jaipur,Water Bottle,Home & Kitchen,499,1,5,UPI,Delivered,499,24.95,474.05
+O1500,21-04-2023,C017,Varun Singh,Male,38,Hyderabad,Power Bank,Electronics,1499,1,15,Debit Card,Delivered,1499,224.85,1274.15
+O0626,22-04-2023,C008,Sneha Reddy,Female,26,Hyderabad,Power Bank,Electronics,1499,3,15,Credit Card,Returned,4497,674.55,0
+O1053,22-04-2023,C039,Ishaan Roy,Male,36,Bangalore,Mechanical Keyboard,Electronics,2499,2,10,Credit Card,Delivered,4998,499.8,4498.2
+O0579,22-04-2023,C022,Tanya Gupta,Female,26,Bangalore,Casual Hoodie,Fashion,1799,3,10,Debit Card,Delivered,5397,539.7,4857.3
+O0616,22-04-2023,C006,Neha Kapoor,Female,27,Pune,Bluetooth Headphones,Electronics,1999,1,0,Cash on Delivery,Delivered,1999,0,1999
+O1083,22-04-2023,C013,Aditya Joshi,Male,29,Mumbai,USB Cable,Electronics,299,1,0,Debit Card,Delivered,299,0,299
+O0573,22-04-2023,C036,Palak Arora,Female,22,Delhi,Laptop Stand,Electronics,1299,1,15,Credit Card,Delivered,1299,194.85,1104.15
+O0761,25-04-2023,C006,Neha Kapoor,Female,27,Pune,Protein Shaker,Sports,599,4,0,Credit Card,Delivered,2396,0,2396
+O0830,25-04-2023,C027,Manish Kumar,Male,34,Jaipur,Travel Bag,Accessories,3299,3,0,UPI,Delivered,9897,0,9897
+O1490,27-04-2023,C044,Nandini Paul,Female,25,Kolkata,Mechanical Keyboard,Electronics,2499,2,0,UPI,Delivered,4998,0,4998
+O1138,29-04-2023,C010,Kavya Iyer,Female,24,Chennai,Laptop Stand,Electronics,1299,5,20,Cash on Delivery,Delivered,6495,1299,5196
+O0331,29-04-2023,C030,Divya Menon,Female,31,Kochi,Travel Bag,Accessories,3299,2,20,UPI,Delivered,6598,1319.6,5278.4
+O0343,01-05-2023,C012,Pooja Nair,Female,30,Bangalore,Travel Bag,Accessories,3299,2,10,Cash on Delivery,Delivered,6598,659.8,5938.2
+O0733,03-05-2023,C040,Ayesha Khan,Female,32,Pune,Formal Shirt,Fashion,1299,1,10,Cash on Delivery,Delivered,1299,129.9,1169.1
+O1039,03-05-2023,C047,Abhishek Das,Male,34,Bangalore,Backpack,Accessories,1799,2,5,UPI,Delivered,3598,179.9,3418.1
+O0898,04-05-2023,C025,Siddharth Jain,Male,37,Mumbai,Formal Shirt,Fashion,1299,1,10,UPI,Delivered,1299,129.9,1169.1
+O0031,05-05-2023,C042,Sonal Mishra,Female,38,Delhi,Smart Watch,Electronics,3999,1,0,UPI,Delivered,3999,0,3999
+O1423,05-05-2023,C019,Akash Jain,Male,31,Chennai,Mechanical Keyboard,Electronics,2499,3,10,Credit Card,Delivered,7497,749.7,6747.3
+O0503,05-05-2023,C038,Muskan Ali,Female,28,Hyderabad,Denim Jeans,Fashion,1499,3,10,Credit Card,Delivered,4497,449.7,4047.3
+O0746,05-05-2023,C006,Neha Kapoor,Female,27,Pune,Office Chair,Furniture,7999,1,10,Cash on Delivery,Cancelled,7999,799.9,0
+O0878,06-05-2023,C037,Kabir Sethi,Male,30,Mumbai,Running Shoes,Fashion,2999,2,5,Debit Card,Delivered,5998,299.9,5698.1
+O0782,07-05-2023,C033,Yash Thakur,Male,28,Lucknow,Running Shoes,Fashion,2999,2,15,Cash on Delivery,Cancelled,5998,899.7,0
+O0307,08-05-2023,C045,Gaurav Singh,Male,43,Noida,Denim Jeans,Fashion,1499,2,5,Debit Card,Delivered,2998,149.9,2848.1
+O0390,09-05-2023,C018,Simran Kaur,Female,23,Delhi,Protein Shaker,Sports,599,2,10,Credit Card,Delivered,1198,119.8,1078.2
+O0640,09-05-2023,C032,Sakshi Jain,Female,33,Indore,Denim Jeans,Fashion,1499,1,0,Credit Card,Delivered,1499,0,1499
+O1276,10-05-2023,C013,Aditya Joshi,Male,29,Mumbai,Sunglasses,Accessories,999,1,15,Cash on Delivery,Delivered,999,149.85,849.15
+O1125,11-05-2023,C003,Rohan Gupta,Male,25,Bangalore,Bedsheet Set,Home & Kitchen,1999,1,0,Credit Card,Delivered,1999,0,1999
+O1360,11-05-2023,C034,Ritika Bose,Female,35,Kolkata,Study Table,Furniture,5999,2,5,Cash on Delivery,Delivered,11998,599.9,11398.1
+O1259,12-05-2023,C010,Kavya Iyer,Female,24,Chennai,Office Chair,Furniture,7999,3,10,UPI,Delivered,23997,2399.7,21597.3
+O1334,13-05-2023,C050,Kriti Sinha,Female,26,Mumbai,Travel Bag,Accessories,3299,2,5,Debit Card,Delivered,6598,329.9,6268.1
+O0953,15-05-2023,C045,Gaurav Singh,Male,43,Noida,Bedsheet Set,Home & Kitchen,1999,1,15,Credit Card,Delivered,1999,299.85,1699.15
+O0173,15-05-2023,C039,Ishaan Roy,Male,36,Bangalore,USB Cable,Electronics,299,1,10,Debit Card,Delivered,299,29.9,269.1
+O1280,16-05-2023,C030,Divya Menon,Female,31,Kochi,Denim Jeans,Fashion,1499,2,0,UPI,Delivered,2998,0,2998
+O1264,17-05-2023,C019,Akash Jain,Male,31,Chennai,Sunglasses,Accessories,999,2,10,Credit Card,Delivered,1998,199.8,1798.2
+O0982,17-05-2023,C018,Simran Kaur,Female,23,Delhi,Study Table,Furniture,5999,2,5,Credit Card,Delivered,11998,599.9,11398.1
+O1453,18-05-2023,C031,Harsh Agarwal,Male,24,Jaipur,Face Wash,Beauty,449,1,5,UPI,Delivered,449,22.45,426.55
+O1284,19-05-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Study Table,Furniture,5999,1,10,Credit Card,Delivered,5999,599.9,5399.1
+O1211,19-05-2023,C039,Ishaan Roy,Male,36,Bangalore,Yoga Mat,Sports,899,2,10,UPI,Cancelled,1798,179.8,0
+O0826,19-05-2023,C019,Akash Jain,Male,31,Chennai,Running Shoes,Fashion,2999,1,5,UPI,Delivered,2999,149.95,2849.05
+O0818,19-05-2023,C025,Siddharth Jain,Male,37,Mumbai,Face Wash,Beauty,449,3,10,Credit Card,Delivered,1347,134.7,1212.3
+O0675,21-05-2023,C048,Ira Chawla,Female,30,Chandigarh,Yoga Mat,Sports,899,4,5,Credit Card,Delivered,3596,179.8,3416.2
+O0085,21-05-2023,C023,Mohit Arora,Male,30,Pune,Denim Jeans,Fashion,1499,3,10,Net Banking,Delivered,4497,449.7,4047.3
+O0023,22-05-2023,C047,Abhishek Das,Male,34,Bangalore,Study Table,Furniture,5999,5,5,Debit Card,Delivered,29995,1499.75,28495.25
+O0738,22-05-2023,C036,Palak Arora,Female,22,Delhi,Power Bank,Electronics,1499,2,5,Credit Card,Delivered,2998,149.9,2848.1
+O0185,23-05-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Notebook,Stationery,199,1,10,Debit Card,Delivered,199,19.9,179.1
+O0904,24-05-2023,C047,Abhishek Das,Male,34,Bangalore,Protein Shaker,Sports,599,2,0,Cash on Delivery,Returned,1198,0,0
+O0945,25-05-2023,C001,Aarav Sharma,Male,28,Delhi,Perfume,Beauty,1899,1,10,UPI,Delivered,1899,189.9,1709.1
+O1092,25-05-2023,C004,Ananya Singh,Female,29,Delhi,Cricket Bat,Sports,2499,2,10,UPI,Delivered,4998,499.8,4498.2
+O0540,26-05-2023,C004,Ananya Singh,Female,29,Delhi,Perfume,Beauty,1899,2,0,Debit Card,Delivered,3798,0,3798
+O1241,27-05-2023,C007,Arjun Patel,Male,31,Ahmedabad,Smart Watch,Electronics,3999,1,5,Debit Card,Delivered,3999,199.95,3799.05
+O0704,27-05-2023,C026,Aditi Malhotra,Female,29,Delhi,Perfume,Beauty,1899,1,0,Debit Card,Delivered,1899,0,1899
+O0725,27-05-2023,C050,Kriti Sinha,Female,26,Mumbai,Notebook,Stationery,199,2,0,UPI,Cancelled,398,0,0
+O0615,28-05-2023,C028,Shreya Das,Female,27,Kolkata,Backpack,Accessories,1799,2,0,UPI,Delivered,3598,0,3598
+O0913,28-05-2023,C038,Muskan Ali,Female,28,Hyderabad,Denim Jeans,Fashion,1499,1,0,Credit Card,Delivered,1499,0,1499
+O0619,29-05-2023,C045,Gaurav Singh,Male,43,Noida,Perfume,Beauty,1899,1,5,Debit Card,Delivered,1899,94.95,1804.05
+O0069,30-05-2023,C031,Harsh Agarwal,Male,24,Jaipur,Table Lamp,Home & Kitchen,1499,2,15,Debit Card,Delivered,2998,449.7,2548.3
+O0493,01-06-2023,C017,Varun Singh,Male,38,Hyderabad,Smart Watch,Electronics,3999,1,15,UPI,Delivered,3999,599.85,3399.15
+O0136,03-06-2023,C042,Sonal Mishra,Female,38,Delhi,USB Cable,Electronics,299,2,20,Debit Card,Delivered,598,119.6,478.4
+O0634,04-06-2023,C041,Pranav Rao,Male,26,Chennai,Bluetooth Headphones,Electronics,1999,3,10,Cash on Delivery,Delivered,5997,599.7,5397.3
+O0992,06-06-2023,C027,Manish Kumar,Male,34,Jaipur,Office Chair,Furniture,7999,1,0,UPI,Delivered,7999,0,7999
+O1448,06-06-2023,C019,Akash Jain,Male,31,Chennai,Casual Hoodie,Fashion,1799,2,0,Net Banking,Cancelled,3598,0,0
+O0442,07-06-2023,C037,Kabir Sethi,Male,30,Mumbai,Backpack,Accessories,1799,2,5,Cash on Delivery,Delivered,3598,179.9,3418.1
+O0954,07-06-2023,C012,Pooja Nair,Female,30,Bangalore,Leather Jacket,Fashion,4999,1,0,Credit Card,Delivered,4999,0,4999
+O1464,07-06-2023,C006,Neha Kapoor,Female,27,Pune,Denim Jeans,Fashion,1499,1,10,Debit Card,Delivered,1499,149.9,1349.1
+O0759,08-06-2023,C014,Meera Shah,Female,36,Ahmedabad,Cricket Bat,Sports,2499,2,10,Cash on Delivery,Delivered,4998,499.8,4498.2
+O0507,10-06-2023,C003,Rohan Gupta,Male,25,Bangalore,Pen Set,Stationery,299,5,5,Debit Card,Returned,1495,74.75,0
+O0707,13-06-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Running Shoes,Fashion,2999,1,5,Net Banking,Delivered,2999,149.95,2849.05
+O1188,16-06-2023,C049,Samar Bhatia,Male,31,Delhi,Notebook,Stationery,199,3,10,UPI,Delivered,597,59.7,537.3
+O0210,16-06-2023,C010,Kavya Iyer,Female,24,Chennai,Formal Shirt,Fashion,1299,2,0,Net Banking,Delivered,2598,0,2598
+O0311,17-06-2023,C044,Nandini Paul,Female,25,Kolkata,Protein Shaker,Sports,599,2,5,Net Banking,Delivered,1198,59.9,1138.1
+O1006,18-06-2023,C047,Abhishek Das,Male,34,Bangalore,Mechanical Keyboard,Electronics,2499,1,0,Debit Card,Delivered,2499,0,2499
+O0352,19-06-2023,C045,Gaurav Singh,Male,43,Noida,Power Bank,Electronics,1499,2,5,Credit Card,Delivered,2998,149.9,2848.1
+O1269,19-06-2023,C030,Divya Menon,Female,31,Kochi,Bluetooth Headphones,Electronics,1999,2,0,UPI,Returned,3998,0,0
+O0241,19-06-2023,C034,Ritika Bose,Female,35,Kolkata,Running Shoes,Fashion,2999,2,0,Cash on Delivery,Delivered,5998,0,5998
+O0435,21-06-2023,C010,Kavya Iyer,Female,24,Chennai,Running Shoes,Fashion,2999,1,5,Cash on Delivery,Delivered,2999,149.95,2849.05
+O1099,21-06-2023,C042,Sonal Mishra,Female,38,Delhi,Bookshelf,Furniture,4499,1,5,Credit Card,Cancelled,4499,224.95,0
+O1178,21-06-2023,C027,Manish Kumar,Male,34,Jaipur,Office Chair,Furniture,7999,3,5,UPI,Delivered,23997,1199.85,22797.15
+O1441,21-06-2023,C016,Isha Gupta,Female,34,Pune,Protein Shaker,Sports,599,1,15,Cash on Delivery,Delivered,599,89.85,509.15
+O0465,22-06-2023,C026,Aditi Malhotra,Female,29,Delhi,Casual Hoodie,Fashion,1799,2,0,UPI,Delivered,3598,0,3598
+O1169,23-06-2023,C038,Muskan Ali,Female,28,Hyderabad,Office Chair,Furniture,7999,3,10,UPI,Delivered,23997,2399.7,21597.3
+O0366,23-06-2023,C027,Manish Kumar,Male,34,Jaipur,Notebook,Stationery,199,2,5,UPI,Returned,398,19.9,0
+O0187,23-06-2023,C037,Kabir Sethi,Male,30,Mumbai,Table Lamp,Home & Kitchen,1499,3,0,UPI,Delivered,4497,0,4497
+O1166,24-06-2023,C008,Sneha Reddy,Female,26,Hyderabad,Backpack,Accessories,1799,1,10,UPI,Delivered,1799,179.9,1619.1
+O0379,24-06-2023,C035,Dev Malhotra,Male,41,Chandigarh,Table Lamp,Home & Kitchen,1499,1,0,UPI,Delivered,1499,0,1499
+O0624,24-06-2023,C039,Ishaan Roy,Male,36,Bangalore,Notebook,Stationery,199,1,10,UPI,Cancelled,199,19.9,0
+O0772,25-06-2023,C010,Kavya Iyer,Female,24,Chennai,Protein Shaker,Sports,599,1,0,Net Banking,Cancelled,599,0,0
+O0361,25-06-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Notebook,Stationery,199,3,0,UPI,Delivered,597,0,597
+O1111,26-06-2023,C035,Dev Malhotra,Male,41,Chandigarh,Cotton T-Shirt,Fashion,699,1,5,UPI,Delivered,699,34.95,664.05
+O1122,26-06-2023,C019,Akash Jain,Male,31,Chennai,Yoga Mat,Sports,899,2,0,Debit Card,Delivered,1798,0,1798
+O0095,27-06-2023,C016,Isha Gupta,Female,34,Pune,Face Wash,Beauty,449,1,5,Credit Card,Delivered,449,22.45,426.55
+O0002,28-06-2023,C048,Ira Chawla,Female,30,Chandigarh,Laptop Stand,Electronics,1299,2,0,UPI,Delivered,2598,0,2598
+O1383,28-06-2023,C015,Rohan Kapoor,Male,27,Delhi,Leather Jacket,Fashion,4999,4,5,UPI,Delivered,19996,999.8,18996.2
+O0971,28-06-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Sunglasses,Accessories,999,5,5,Debit Card,Delivered,4995,249.75,4745.25
+O0488,01-07-2023,C021,Rajat Verma,Male,42,Delhi,Power Bank,Electronics,1499,3,10,UPI,Delivered,4497,449.7,4047.3
+O0874,01-07-2023,C006,Neha Kapoor,Female,27,Pune,Bookshelf,Furniture,4499,1,10,Debit Card,Delivered,4499,449.9,4049.1
+O0921,02-07-2023,C012,Pooja Nair,Female,30,Bangalore,Travel Bag,Accessories,3299,2,5,Debit Card,Delivered,6598,329.9,6268.1
+O1066,02-07-2023,C015,Rohan Kapoor,Male,27,Delhi,Travel Bag,Accessories,3299,5,0,UPI,Delivered,16495,0,16495
+O1163,02-07-2023,C047,Abhishek Das,Male,34,Bangalore,Formal Shirt,Fashion,1299,3,10,UPI,Delivered,3897,389.7,3507.3
+O0714,03-07-2023,C035,Dev Malhotra,Male,41,Chandigarh,Denim Jeans,Fashion,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O0155,04-07-2023,C036,Palak Arora,Female,22,Delhi,Casual Hoodie,Fashion,1799,3,0,Credit Card,Delivered,5397,0,5397
+O0139,05-07-2023,C019,Akash Jain,Male,31,Chennai,Denim Jeans,Fashion,1499,1,0,Cash on Delivery,Delivered,1499,0,1499
+O0803,05-07-2023,C042,Sonal Mishra,Female,38,Delhi,Office Chair,Furniture,7999,2,0,Net Banking,Delivered,15998,0,15998
+O1293,07-07-2023,C014,Meera Shah,Female,36,Ahmedabad,USB Cable,Electronics,299,1,5,UPI,Delivered,299,14.95,284.05
+O0893,08-07-2023,C003,Rohan Gupta,Male,25,Bangalore,Wireless Mouse,Electronics,799,1,5,UPI,Cancelled,799,39.95,0
+O1033,08-07-2023,C040,Ayesha Khan,Female,32,Pune,Cricket Bat,Sports,2499,2,5,UPI,Delivered,4998,249.9,4748.1
+O1469,08-07-2023,C011,Rahul Khanna,Male,33,Pune,Running Shoes,Fashion,2999,2,20,UPI,Delivered,5998,1199.6,4798.4
+O1308,09-07-2023,C008,Sneha Reddy,Female,26,Hyderabad,Protein Shaker,Sports,599,2,15,Credit Card,Delivered,1198,179.7,1018.3
+O0365,10-07-2023,C023,Mohit Arora,Male,30,Pune,Water Bottle,Home & Kitchen,499,2,10,UPI,Delivered,998,99.8,898.2
+O0351,11-07-2023,C049,Samar Bhatia,Male,31,Delhi,Mechanical Keyboard,Electronics,2499,1,5,Debit Card,Delivered,2499,124.95,2374.05
+O1492,11-07-2023,C030,Divya Menon,Female,31,Kochi,Sunglasses,Accessories,999,1,5,Cash on Delivery,Delivered,999,49.95,949.05
+O1485,12-07-2023,C006,Neha Kapoor,Female,27,Pune,Study Table,Furniture,5999,2,0,UPI,Delivered,11998,0,11998
+O0987,13-07-2023,C012,Pooja Nair,Female,30,Bangalore,Protein Shaker,Sports,599,2,0,UPI,Delivered,1198,0,1198
+O0176,14-07-2023,C026,Aditi Malhotra,Female,29,Delhi,Pen Set,Stationery,299,1,0,Net Banking,Delivered,299,0,299
+O0760,15-07-2023,C045,Gaurav Singh,Male,43,Noida,Yoga Mat,Sports,899,2,0,Credit Card,Delivered,1798,0,1798
+O0348,17-07-2023,C012,Pooja Nair,Female,30,Bangalore,Smart Watch,Electronics,3999,2,0,UPI,Delivered,7998,0,7998
+O0742,17-07-2023,C021,Rajat Verma,Male,42,Delhi,Smart Watch,Electronics,3999,2,0,UPI,Delivered,7998,0,7998
+O0748,18-07-2023,C014,Meera Shah,Female,36,Ahmedabad,Bookshelf,Furniture,4499,1,0,UPI,Delivered,4499,0,4499
+O0150,18-07-2023,C009,Karan Malhotra,Male,40,Delhi,Backpack,Accessories,1799,4,10,Credit Card,Delivered,7196,719.6,6476.4
+O0502,18-07-2023,C045,Gaurav Singh,Male,43,Noida,Sunglasses,Accessories,999,1,0,Net Banking,Delivered,999,0,999
+O1025,19-07-2023,C022,Tanya Gupta,Female,26,Bangalore,Notebook,Stationery,199,1,20,UPI,Delivered,199,39.8,159.2
+O0915,19-07-2023,C020,Nisha Sharma,Female,28,Mumbai,Face Wash,Beauty,449,2,0,Cash on Delivery,Delivered,898,0,898
+O0033,20-07-2023,C005,Vikram Mehta,Male,35,Mumbai,Office Chair,Furniture,7999,1,20,Net Banking,Delivered,7999,1599.8,6399.2
+O1375,20-07-2023,C018,Simran Kaur,Female,23,Delhi,Wireless Mouse,Electronics,799,1,20,UPI,Delivered,799,159.8,639.2
+O0516,21-07-2023,C045,Gaurav Singh,Male,43,Noida,Sunglasses,Accessories,999,5,0,Debit Card,Delivered,4995,0,4995
+O1001,22-07-2023,C037,Kabir Sethi,Male,30,Mumbai,Bluetooth Headphones,Electronics,1999,3,10,Debit Card,Delivered,5997,599.7,5397.3
+O1015,23-07-2023,C009,Karan Malhotra,Male,40,Delhi,Wireless Mouse,Electronics,799,2,10,UPI,Delivered,1598,159.8,1438.2
+O1171,23-07-2023,C006,Neha Kapoor,Female,27,Pune,Smart Watch,Electronics,3999,2,0,Debit Card,Delivered,7998,0,7998
+O0110,23-07-2023,C004,Ananya Singh,Female,29,Delhi,Table Lamp,Home & Kitchen,1499,4,0,Debit Card,Delivered,5996,0,5996
+O0695,24-07-2023,C015,Rohan Kapoor,Male,27,Delhi,Face Wash,Beauty,449,2,10,Cash on Delivery,Delivered,898,89.8,808.2
+O0511,25-07-2023,C038,Muskan Ali,Female,28,Hyderabad,Protein Shaker,Sports,599,4,5,UPI,Delivered,2396,119.8,2276.2
+O1327,25-07-2023,C031,Harsh Agarwal,Male,24,Jaipur,Sunglasses,Accessories,999,2,0,UPI,Delivered,1998,0,1998
+O0474,25-07-2023,C015,Rohan Kapoor,Male,27,Delhi,Power Bank,Electronics,1499,1,0,Cash on Delivery,Delivered,1499,0,1499
+O1478,26-07-2023,C048,Ira Chawla,Female,30,Chandigarh,Bookshelf,Furniture,4499,2,10,Cash on Delivery,Delivered,8998,899.8,8098.2
+O0555,26-07-2023,C020,Nisha Sharma,Female,28,Mumbai,Pen Set,Stationery,299,2,0,UPI,Delivered,598,0,598
+O0482,26-07-2023,C026,Aditi Malhotra,Female,29,Delhi,Coffee Mug,Home & Kitchen,399,1,0,Debit Card,Returned,399,0,0
+O1414,26-07-2023,C018,Simran Kaur,Female,23,Delhi,Travel Bag,Accessories,3299,1,0,UPI,Delivered,3299,0,3299
+O1177,27-07-2023,C036,Palak Arora,Female,22,Delhi,Coffee Mug,Home & Kitchen,399,1,5,UPI,Delivered,399,19.95,379.05
+O1396,27-07-2023,C023,Mohit Arora,Male,30,Pune,Wireless Mouse,Electronics,799,1,0,Cash on Delivery,Delivered,799,0,799
+O0560,27-07-2023,C033,Yash Thakur,Male,28,Lucknow,Bluetooth Headphones,Electronics,1999,4,10,Net Banking,Delivered,7996,799.6,7196.4
+O0090,28-07-2023,C041,Pranav Rao,Male,26,Chennai,Denim Jeans,Fashion,1499,2,0,Cash on Delivery,Delivered,2998,0,2998
+O1350,28-07-2023,C024,Riya Kapoor,Female,25,Hyderabad,Cricket Bat,Sports,2499,2,20,Net Banking,Delivered,4998,999.6,3998.4
+O1010,28-07-2023,C026,Aditi Malhotra,Female,29,Delhi,Yoga Mat,Sports,899,2,15,Credit Card,Delivered,1798,269.7,1528.3
+O0843,29-07-2023,C036,Palak Arora,Female,22,Delhi,Bookshelf,Furniture,4499,1,5,UPI,Delivered,4499,224.95,4274.05
+O0199,30-07-2023,C010,Kavya Iyer,Female,24,Chennai,Denim Jeans,Fashion,1499,1,0,Debit Card,Delivered,1499,0,1499
+O0045,01-08-2023,C036,Palak Arora,Female,22,Delhi,Leather Jacket,Fashion,4999,4,0,UPI,Delivered,19996,0,19996
+O0234,01-08-2023,C023,Mohit Arora,Male,30,Pune,Denim Jeans,Fashion,1499,3,10,UPI,Delivered,4497,449.7,4047.3
+O0453,01-08-2023,C047,Abhishek Das,Male,34,Bangalore,Leather Jacket,Fashion,4999,1,20,Net Banking,Delivered,4999,999.8,3999.2
+O0892,01-08-2023,C007,Arjun Patel,Male,31,Ahmedabad,Bookshelf,Furniture,4499,2,5,UPI,Delivered,8998,449.9,8548.1
+O0614,01-08-2023,C044,Nandini Paul,Female,25,Kolkata,Pen Set,Stationery,299,1,10,Debit Card,Delivered,299,29.9,269.1
+O0487,02-08-2023,C041,Pranav Rao,Male,26,Chennai,Coffee Mug,Home & Kitchen,399,4,0,UPI,Delivered,1596,0,1596
+O0383,03-08-2023,C002,Priya Verma,Female,32,Mumbai,Study Table,Furniture,5999,1,15,Cash on Delivery,Delivered,5999,899.85,5099.15
+O0196,05-08-2023,C006,Neha Kapoor,Female,27,Pune,Pen Set,Stationery,299,1,5,Credit Card,Delivered,299,14.95,284.05
+O1442,06-08-2023,C001,Aarav Sharma,Male,28,Delhi,Bedsheet Set,Home & Kitchen,1999,2,10,UPI,Delivered,3998,399.8,3598.2
+O0268,06-08-2023,C024,Riya Kapoor,Female,25,Hyderabad,Bookshelf,Furniture,4499,1,5,UPI,Delivered,4499,224.95,4274.05
+O0900,06-08-2023,C014,Meera Shah,Female,36,Ahmedabad,Table Lamp,Home & Kitchen,1499,4,10,UPI,Delivered,5996,599.6,5396.4
+O1433,06-08-2023,C035,Dev Malhotra,Male,41,Chandigarh,Sunglasses,Accessories,999,2,10,UPI,Cancelled,1998,199.8,0
+O1417,06-08-2023,C006,Neha Kapoor,Female,27,Pune,Laptop Stand,Electronics,1299,1,10,Credit Card,Delivered,1299,129.9,1169.1
+O0071,07-08-2023,C050,Kriti Sinha,Female,26,Mumbai,Laptop Stand,Electronics,1299,3,0,Debit Card,Delivered,3897,0,3897
+O1339,07-08-2023,C038,Muskan Ali,Female,28,Hyderabad,Denim Jeans,Fashion,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O0908,07-08-2023,C045,Gaurav Singh,Male,43,Noida,Notebook,Stationery,199,2,5,Debit Card,Delivered,398,19.9,378.1
+O0743,08-08-2023,C003,Rohan Gupta,Male,25,Bangalore,Cotton T-Shirt,Fashion,699,2,0,Cash on Delivery,Delivered,1398,0,1398
+O0553,10-08-2023,C039,Ishaan Roy,Male,36,Bangalore,Mechanical Keyboard,Electronics,2499,2,0,Credit Card,Delivered,4998,0,4998
+O0181,10-08-2023,C015,Rohan Kapoor,Male,27,Delhi,Perfume,Beauty,1899,1,5,UPI,Delivered,1899,94.95,1804.05
+O0172,10-08-2023,C026,Aditi Malhotra,Female,29,Delhi,Pen Set,Stationery,299,2,15,UPI,Delivered,598,89.7,508.3
+O1252,11-08-2023,C013,Aditya Joshi,Male,29,Mumbai,Study Table,Furniture,5999,1,20,UPI,Delivered,5999,1199.8,4799.2
+O1316,12-08-2023,C027,Manish Kumar,Male,34,Jaipur,Office Chair,Furniture,7999,3,0,Credit Card,Delivered,23997,0,23997
+O0281,13-08-2023,C024,Riya Kapoor,Female,25,Hyderabad,Formal Shirt,Fashion,1299,5,5,Debit Card,Delivered,6495,324.75,6170.25
+O0016,13-08-2023,C004,Ananya Singh,Female,29,Delhi,Perfume,Beauty,1899,1,0,Credit Card,Delivered,1899,0,1899
+O1021,13-08-2023,C025,Siddharth Jain,Male,37,Mumbai,Study Table,Furniture,5999,2,5,Credit Card,Delivered,11998,599.9,11398.1
+O1005,14-08-2023,C008,Sneha Reddy,Female,26,Hyderabad,Office Chair,Furniture,7999,2,5,UPI,Delivered,15998,799.9,15198.1
+O1459,14-08-2023,C009,Karan Malhotra,Male,40,Delhi,Travel Bag,Accessories,3299,1,0,Cash on Delivery,Delivered,3299,0,3299
+O1440,14-08-2023,C025,Siddharth Jain,Male,37,Mumbai,Wireless Mouse,Electronics,799,3,10,UPI,Delivered,2397,239.7,2157.3
+O0931,14-08-2023,C021,Rajat Verma,Male,42,Delhi,Denim Jeans,Fashion,1499,1,0,Cash on Delivery,Delivered,1499,0,1499
+O0559,15-08-2023,C006,Neha Kapoor,Female,27,Pune,Travel Bag,Accessories,3299,3,10,UPI,Delivered,9897,989.7,8907.3
+O1400,15-08-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Cotton T-Shirt,Fashion,699,1,0,Debit Card,Delivered,699,0,699
+O1128,16-08-2023,C030,Divya Menon,Female,31,Kochi,Face Wash,Beauty,449,5,10,Cash on Delivery,Delivered,2245,224.5,2020.5
+O0996,17-08-2023,C049,Samar Bhatia,Male,31,Delhi,Bedsheet Set,Home & Kitchen,1999,1,10,UPI,Delivered,1999,199.9,1799.1
+O0430,19-08-2023,C032,Sakshi Jain,Female,33,Indore,Notebook,Stationery,199,1,10,Cash on Delivery,Delivered,199,19.9,179.1
+O1447,19-08-2023,C025,Siddharth Jain,Male,37,Mumbai,Sunglasses,Accessories,999,2,20,Net Banking,Delivered,1998,399.6,1598.4
+O0769,19-08-2023,C037,Kabir Sethi,Male,30,Mumbai,Bluetooth Headphones,Electronics,1999,2,5,UPI,Delivered,3998,199.9,3798.1
+O0322,20-08-2023,C018,Simran Kaur,Female,23,Delhi,Cotton T-Shirt,Fashion,699,1,10,Net Banking,Delivered,699,69.9,629.1
+O0169,21-08-2023,C027,Manish Kumar,Male,34,Jaipur,Bookshelf,Furniture,4499,2,5,Credit Card,Delivered,8998,449.9,8548.1
+O0127,21-08-2023,C015,Rohan Kapoor,Male,27,Delhi,Face Wash,Beauty,449,2,0,Credit Card,Delivered,898,0,898
+O0189,22-08-2023,C049,Samar Bhatia,Male,31,Delhi,Bookshelf,Furniture,4499,1,0,Credit Card,Delivered,4499,0,4499
+O0391,22-08-2023,C013,Aditya Joshi,Male,29,Mumbai,Office Chair,Furniture,7999,1,15,Debit Card,Delivered,7999,1199.85,6799.15
+O1495,23-08-2023,C048,Ira Chawla,Female,30,Chandigarh,Study Table,Furniture,5999,1,0,Credit Card,Delivered,5999,0,5999
+O1268,23-08-2023,C001,Aarav Sharma,Male,28,Delhi,Running Shoes,Fashion,2999,2,0,Credit Card,Delivered,5998,0,5998
+O0499,25-08-2023,C006,Neha Kapoor,Female,27,Pune,Study Table,Furniture,5999,1,5,Debit Card,Delivered,5999,299.95,5699.05
+O0885,26-08-2023,C049,Samar Bhatia,Male,31,Delhi,Face Wash,Beauty,449,1,5,Credit Card,Delivered,449,22.45,426.55
+O1079,28-08-2023,C010,Kavya Iyer,Female,24,Chennai,Running Shoes,Fashion,2999,1,20,Net Banking,Delivered,2999,599.8,2399.2
+O0394,28-08-2023,C016,Isha Gupta,Female,34,Pune,Leather Jacket,Fashion,4999,1,10,Credit Card,Delivered,4999,499.9,4499.1
+O0678,28-08-2023,C019,Akash Jain,Male,31,Chennai,Formal Shirt,Fashion,1299,3,20,Cash on Delivery,Delivered,3897,779.4,3117.6
+O0404,29-08-2023,C006,Neha Kapoor,Female,27,Pune,Office Chair,Furniture,7999,3,0,Credit Card,Delivered,23997,0,23997
+O0842,29-08-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Sunglasses,Accessories,999,1,0,Net Banking,Delivered,999,0,999
+O0556,30-08-2023,C007,Arjun Patel,Male,31,Ahmedabad,Bookshelf,Furniture,4499,1,10,Debit Card,Delivered,4499,449.9,4049.1
+O1392,30-08-2023,C016,Isha Gupta,Female,34,Pune,Face Wash,Beauty,449,1,5,UPI,Delivered,449,22.45,426.55
+O0824,30-08-2023,C041,Pranav Rao,Male,26,Chennai,Bedsheet Set,Home & Kitchen,1999,2,0,Credit Card,Delivered,3998,0,3998
+O0647,31-08-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Face Wash,Beauty,449,2,5,UPI,Delivered,898,44.9,853.1
+O1069,31-08-2023,C044,Nandini Paul,Female,25,Kolkata,Study Table,Furniture,5999,1,0,Cash on Delivery,Cancelled,5999,0,0
+O1019,01-09-2023,C028,Shreya Das,Female,27,Kolkata,Laptop Stand,Electronics,1299,1,0,Credit Card,Delivered,1299,0,1299
+O0276,01-09-2023,C040,Ayesha Khan,Female,32,Pune,Sunglasses,Accessories,999,1,0,Net Banking,Delivered,999,0,999
+O0039,03-09-2023,C016,Isha Gupta,Female,34,Pune,Notebook,Stationery,199,4,5,UPI,Delivered,796,39.8,756.2
+O0731,03-09-2023,C018,Simran Kaur,Female,23,Delhi,Coffee Mug,Home & Kitchen,399,1,0,Credit Card,Returned,399,0,0
+O1409,04-09-2023,C010,Kavya Iyer,Female,24,Chennai,Denim Jeans,Fashion,1499,1,0,Net Banking,Returned,1499,0,0
+O0026,05-09-2023,C034,Ritika Bose,Female,35,Kolkata,Office Chair,Furniture,7999,1,0,Credit Card,Delivered,7999,0,7999
+O1174,05-09-2023,C025,Siddharth Jain,Male,37,Mumbai,Face Wash,Beauty,449,1,0,UPI,Delivered,449,0,449
+O0254,06-09-2023,C033,Yash Thakur,Male,28,Lucknow,Denim Jeans,Fashion,1499,5,10,Credit Card,Delivered,7495,749.5,6745.5
+O1265,06-09-2023,C049,Samar Bhatia,Male,31,Delhi,Water Bottle,Home & Kitchen,499,5,0,Debit Card,Delivered,2495,0,2495
+O0894,07-09-2023,C039,Ishaan Roy,Male,36,Bangalore,Backpack,Accessories,1799,2,0,UPI,Delivered,3598,0,3598
+O1183,09-09-2023,C006,Neha Kapoor,Female,27,Pune,Notebook,Stationery,199,3,10,Cash on Delivery,Returned,597,59.7,0
+O1323,09-09-2023,C009,Karan Malhotra,Male,40,Delhi,Wireless Mouse,Electronics,799,3,0,Cash on Delivery,Delivered,2397,0,2397
+O1189,10-09-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Office Chair,Furniture,7999,1,10,Credit Card,Delivered,7999,799.9,7199.1
+O0584,10-09-2023,C003,Rohan Gupta,Male,25,Bangalore,Travel Bag,Accessories,3299,3,5,Net Banking,Delivered,9897,494.85,9402.15
+O0426,10-09-2023,C007,Arjun Patel,Male,31,Ahmedabad,USB Cable,Electronics,299,2,5,UPI,Returned,598,29.9,0
+O0522,11-09-2023,C033,Yash Thakur,Male,28,Lucknow,Notebook,Stationery,199,2,0,Credit Card,Delivered,398,0,398
+O1286,12-09-2023,C049,Samar Bhatia,Male,31,Delhi,Laptop Stand,Electronics,1299,1,10,Debit Card,Delivered,1299,129.9,1169.1
+O0416,12-09-2023,C030,Divya Menon,Female,31,Kochi,Wireless Mouse,Electronics,799,4,0,Net Banking,Delivered,3196,0,3196
+O0062,13-09-2023,C021,Rajat Verma,Male,42,Delhi,Sunglasses,Accessories,999,2,0,Credit Card,Delivered,1998,0,1998
+O0257,14-09-2023,C037,Kabir Sethi,Male,30,Mumbai,Bluetooth Headphones,Electronics,1999,5,10,Debit Card,Delivered,9995,999.5,8995.5
+O0867,15-09-2023,C010,Kavya Iyer,Female,24,Chennai,Leather Jacket,Fashion,4999,1,0,Debit Card,Delivered,4999,0,4999
+O1380,16-09-2023,C010,Kavya Iyer,Female,24,Chennai,Sunglasses,Accessories,999,1,5,Net Banking,Delivered,999,49.95,949.05
+O0922,17-09-2023,C050,Kriti Sinha,Female,26,Mumbai,Study Table,Furniture,5999,1,10,Credit Card,Delivered,5999,599.9,5399.1
+O0485,18-09-2023,C045,Gaurav Singh,Male,43,Noida,Leather Jacket,Fashion,4999,1,0,Credit Card,Delivered,4999,0,4999
+O1213,19-09-2023,C003,Rohan Gupta,Male,25,Bangalore,Mechanical Keyboard,Electronics,2499,1,5,Debit Card,Returned,2499,124.95,0
+O1248,20-09-2023,C037,Kabir Sethi,Male,30,Mumbai,Perfume,Beauty,1899,1,10,Debit Card,Delivered,1899,189.9,1709.1
+O0537,20-09-2023,C007,Arjun Patel,Male,31,Ahmedabad,Study Table,Furniture,5999,2,10,Net Banking,Delivered,11998,1199.8,10798.2
+O0628,20-09-2023,C022,Tanya Gupta,Female,26,Bangalore,Casual Hoodie,Fashion,1799,2,0,UPI,Delivered,3598,0,3598
+O1091,22-09-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Formal Shirt,Fashion,1299,1,0,UPI,Delivered,1299,0,1299
+O0192,22-09-2023,C028,Shreya Das,Female,27,Kolkata,Power Bank,Electronics,1499,1,10,Cash on Delivery,Delivered,1499,149.9,1349.1
+O0822,23-09-2023,C023,Mohit Arora,Male,30,Pune,Travel Bag,Accessories,3299,2,5,Credit Card,Delivered,6598,329.9,6268.1
+O0178,24-09-2023,C048,Ira Chawla,Female,30,Chandigarh,Casual Hoodie,Fashion,1799,2,5,UPI,Delivered,3598,179.9,3418.1
+O0767,25-09-2023,C033,Yash Thakur,Male,28,Lucknow,Pen Set,Stationery,299,3,5,Credit Card,Delivered,897,44.85,852.15
+O1482,26-09-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Bedsheet Set,Home & Kitchen,1999,1,5,Credit Card,Delivered,1999,99.95,1899.05
+O0041,26-09-2023,C017,Varun Singh,Male,38,Hyderabad,Notebook,Stationery,199,2,0,Debit Card,Delivered,398,0,398
+O0125,26-09-2023,C014,Meera Shah,Female,36,Ahmedabad,Running Shoes,Fashion,2999,4,5,UPI,Delivered,11996,599.8,11396.2
+O1095,26-09-2023,C020,Nisha Sharma,Female,28,Mumbai,Laptop Stand,Electronics,1299,1,0,UPI,Delivered,1299,0,1299
+O0551,26-09-2023,C015,Rohan Kapoor,Male,27,Delhi,Cricket Bat,Sports,2499,1,0,UPI,Delivered,2499,0,2499
+O0151,27-09-2023,C038,Muskan Ali,Female,28,Hyderabad,Casual Hoodie,Fashion,1799,1,0,UPI,Delivered,1799,0,1799
+O0314,28-09-2023,C004,Ananya Singh,Female,29,Delhi,Office Chair,Furniture,7999,2,5,Credit Card,Delivered,15998,799.9,15198.1
+O1077,28-09-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Casual Hoodie,Fashion,1799,4,5,UPI,Delivered,7196,359.8,6836.2
+O0417,28-09-2023,C028,Shreya Das,Female,27,Kolkata,Cotton T-Shirt,Fashion,699,3,0,Cash on Delivery,Delivered,2097,0,2097
+O0566,29-09-2023,C011,Rahul Khanna,Male,33,Pune,Smart Watch,Electronics,3999,2,0,UPI,Cancelled,7998,0,0
+O0880,29-09-2023,C018,Simran Kaur,Female,23,Delhi,Running Shoes,Fashion,2999,2,0,Debit Card,Delivered,5998,0,5998
+O0838,29-09-2023,C034,Ritika Bose,Female,35,Kolkata,Sunglasses,Accessories,999,1,0,Cash on Delivery,Delivered,999,0,999
+O0043,29-09-2023,C033,Yash Thakur,Male,28,Lucknow,Running Shoes,Fashion,2999,4,15,Credit Card,Delivered,11996,1799.4,10196.6
+O0319,30-09-2023,C025,Siddharth Jain,Male,37,Mumbai,Bluetooth Headphones,Electronics,1999,2,0,Credit Card,Delivered,3998,0,3998
+O1073,30-09-2023,C001,Aarav Sharma,Male,28,Delhi,Study Table,Furniture,5999,3,20,UPI,Delivered,17997,3599.4,14397.6
+O1283,30-09-2023,C044,Nandini Paul,Female,25,Kolkata,Travel Bag,Accessories,3299,1,10,UPI,Cancelled,3299,329.9,0
+O1431,01-10-2023,C036,Palak Arora,Female,22,Delhi,Running Shoes,Fashion,2999,1,10,UPI,Delivered,2999,299.9,2699.1
+O0309,01-10-2023,C015,Rohan Kapoor,Male,27,Delhi,Denim Jeans,Fashion,1499,2,5,Credit Card,Returned,2998,149.9,0
+O0660,02-10-2023,C007,Arjun Patel,Male,31,Ahmedabad,Pen Set,Stationery,299,1,10,UPI,Cancelled,299,29.9,0
+O0793,02-10-2023,C050,Kriti Sinha,Female,26,Mumbai,Study Table,Furniture,5999,2,10,Credit Card,Delivered,11998,1199.8,10798.2
+O1314,03-10-2023,C012,Pooja Nair,Female,30,Bangalore,Yoga Mat,Sports,899,1,0,Credit Card,Cancelled,899,0,0
+O0236,04-10-2023,C012,Pooja Nair,Female,30,Bangalore,Bedsheet Set,Home & Kitchen,1999,1,10,UPI,Delivered,1999,199.9,1799.1
+O1109,04-10-2023,C006,Neha Kapoor,Female,27,Pune,USB Cable,Electronics,299,1,0,Net Banking,Delivered,299,0,299
+O0712,04-10-2023,C036,Palak Arora,Female,22,Delhi,Office Chair,Furniture,7999,4,10,Credit Card,Delivered,31996,3199.6,28796.4
+O0804,05-10-2023,C045,Gaurav Singh,Male,43,Noida,Water Bottle,Home & Kitchen,499,1,0,Credit Card,Delivered,499,0,499
+O0251,05-10-2023,C013,Aditya Joshi,Male,29,Mumbai,Smart Watch,Electronics,3999,3,5,Credit Card,Cancelled,11997,599.85,0
+O0371,06-10-2023,C042,Sonal Mishra,Female,38,Delhi,Table Lamp,Home & Kitchen,1499,1,10,Credit Card,Delivered,1499,149.9,1349.1
+O1061,06-10-2023,C041,Pranav Rao,Male,26,Chennai,Office Chair,Furniture,7999,1,0,Credit Card,Delivered,7999,0,7999
+O0720,07-10-2023,C005,Vikram Mehta,Male,35,Mumbai,Power Bank,Electronics,1499,1,10,UPI,Delivered,1499,149.9,1349.1
+O0715,07-10-2023,C001,Aarav Sharma,Male,28,Delhi,Bookshelf,Furniture,4499,1,5,Net Banking,Delivered,4499,224.95,4274.05
+O0978,08-10-2023,C036,Palak Arora,Female,22,Delhi,Office Chair,Furniture,7999,1,10,Credit Card,Delivered,7999,799.9,7199.1
+O0248,09-10-2023,C049,Samar Bhatia,Male,31,Delhi,Bluetooth Headphones,Electronics,1999,2,5,UPI,Delivered,3998,199.9,3798.1
+O0296,09-10-2023,C031,Harsh Agarwal,Male,24,Jaipur,Smart Watch,Electronics,3999,1,5,Credit Card,Cancelled,3999,199.95,0
+O1225,09-10-2023,C002,Priya Verma,Female,32,Mumbai,Face Wash,Beauty,449,1,10,Net Banking,Delivered,449,44.9,404.1
+O0191,09-10-2023,C020,Nisha Sharma,Female,28,Mumbai,Cotton T-Shirt,Fashion,699,3,0,Credit Card,Delivered,2097,0,2097
+O0786,11-10-2023,C009,Karan Malhotra,Male,40,Delhi,Cotton T-Shirt,Fashion,699,2,10,UPI,Delivered,1398,139.8,1258.2
+O1162,11-10-2023,C039,Ishaan Roy,Male,36,Bangalore,USB Cable,Electronics,299,2,5,Credit Card,Delivered,598,29.9,568.1
+O0993,12-10-2023,C045,Gaurav Singh,Male,43,Noida,Casual Hoodie,Fashion,1799,3,15,Debit Card,Delivered,5397,809.55,4587.45
+O0866,12-10-2023,C012,Pooja Nair,Female,30,Bangalore,Study Table,Furniture,5999,1,5,Cash on Delivery,Cancelled,5999,299.95,0
+O1465,14-10-2023,C031,Harsh Agarwal,Male,24,Jaipur,Cricket Bat,Sports,2499,2,10,Credit Card,Delivered,4998,499.8,4498.2
+O0533,14-10-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Formal Shirt,Fashion,1299,2,10,UPI,Returned,2598,259.8,0
+O1150,14-10-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Coffee Mug,Home & Kitchen,399,2,5,UPI,Delivered,798,39.9,758.1
+O0909,14-10-2023,C048,Ira Chawla,Female,30,Chandigarh,Cotton T-Shirt,Fashion,699,1,0,UPI,Returned,699,0,0
+O1047,15-10-2023,C047,Abhishek Das,Male,34,Bangalore,Face Wash,Beauty,449,1,5,UPI,Delivered,449,22.45,426.55
+O1222,19-10-2023,C036,Palak Arora,Female,22,Delhi,Smart Watch,Electronics,3999,1,0,Debit Card,Delivered,3999,0,3999
+O0989,22-10-2023,C023,Mohit Arora,Male,30,Pune,Face Wash,Beauty,449,1,5,Credit Card,Delivered,449,22.45,426.55
+O0277,23-10-2023,C036,Palak Arora,Female,22,Delhi,Casual Hoodie,Fashion,1799,1,5,UPI,Delivered,1799,89.95,1709.05
+O0622,23-10-2023,C019,Akash Jain,Male,31,Chennai,Backpack,Accessories,1799,1,15,Cash on Delivery,Returned,1799,269.85,0
+O1215,24-10-2023,C001,Aarav Sharma,Male,28,Delhi,Bookshelf,Furniture,4499,1,5,Cash on Delivery,Delivered,4499,224.95,4274.05
+O1052,24-10-2023,C016,Isha Gupta,Female,34,Pune,Running Shoes,Fashion,2999,1,10,UPI,Delivered,2999,299.9,2699.1
+O1349,24-10-2023,C019,Akash Jain,Male,31,Chennai,Laptop Stand,Electronics,1299,1,10,Debit Card,Delivered,1299,129.9,1169.1
+O0809,24-10-2023,C010,Kavya Iyer,Female,24,Chennai,Power Bank,Electronics,1499,1,10,UPI,Delivered,1499,149.9,1349.1
+O0129,24-10-2023,C030,Divya Menon,Female,31,Kochi,Water Bottle,Home & Kitchen,499,1,15,Cash on Delivery,Delivered,499,74.85,424.15
+O1214,26-10-2023,C020,Nisha Sharma,Female,28,Mumbai,Coffee Mug,Home & Kitchen,399,1,0,Credit Card,Delivered,399,0,399
+O0771,26-10-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Table Lamp,Home & Kitchen,1499,1,15,Debit Card,Delivered,1499,224.85,1274.15
+O0789,26-10-2023,C021,Rajat Verma,Male,42,Delhi,Face Wash,Beauty,449,2,10,Credit Card,Cancelled,898,89.8,0
+O0141,26-10-2023,C024,Riya Kapoor,Female,25,Hyderabad,Pen Set,Stationery,299,1,5,UPI,Delivered,299,14.95,284.05
+O0339,26-10-2023,C015,Rohan Kapoor,Male,27,Delhi,Cricket Bat,Sports,2499,1,5,Debit Card,Delivered,2499,124.95,2374.05
+O0639,27-10-2023,C037,Kabir Sethi,Male,30,Mumbai,Sunglasses,Accessories,999,2,5,UPI,Delivered,1998,99.9,1898.1
+O0409,27-10-2023,C009,Karan Malhotra,Male,40,Delhi,Denim Jeans,Fashion,1499,2,10,Debit Card,Delivered,2998,299.8,2698.2
+O0967,29-10-2023,C037,Kabir Sethi,Male,30,Mumbai,Sunglasses,Accessories,999,3,10,UPI,Cancelled,2997,299.7,0
+O0166,30-10-2023,C015,Rohan Kapoor,Male,27,Delhi,Formal Shirt,Fashion,1299,3,5,Net Banking,Delivered,3897,194.85,3702.15
+O1085,31-10-2023,C032,Sakshi Jain,Female,33,Indore,Smart Watch,Electronics,3999,1,0,UPI,Delivered,3999,0,3999
+O0636,01-11-2023,C031,Harsh Agarwal,Male,24,Jaipur,Backpack,Accessories,1799,1,0,Debit Card,Delivered,1799,0,1799
+O1452,01-11-2023,C001,Aarav Sharma,Male,28,Delhi,Perfume,Beauty,1899,3,0,Credit Card,Delivered,5697,0,5697
+O0469,01-11-2023,C018,Simran Kaur,Female,23,Delhi,Office Chair,Furniture,7999,1,10,UPI,Delivered,7999,799.9,7199.1
+O0696,03-11-2023,C013,Aditya Joshi,Male,29,Mumbai,USB Cable,Electronics,299,2,0,UPI,Delivered,598,0,598
+O0445,04-11-2023,C024,Riya Kapoor,Female,25,Hyderabad,Notebook,Stationery,199,1,20,Cash on Delivery,Delivered,199,39.8,159.2
+O1082,06-11-2023,C032,Sakshi Jain,Female,33,Indore,Protein Shaker,Sports,599,2,15,Credit Card,Delivered,1198,179.7,1018.3
+O1449,06-11-2023,C003,Rohan Gupta,Male,25,Bangalore,Table Lamp,Home & Kitchen,1499,1,5,Debit Card,Delivered,1499,74.95,1424.05
+O0881,06-11-2023,C039,Ishaan Roy,Male,36,Bangalore,Power Bank,Electronics,1499,2,5,Cash on Delivery,Delivered,2998,149.9,2848.1
+O0425,07-11-2023,C014,Meera Shah,Female,36,Ahmedabad,Backpack,Accessories,1799,4,10,UPI,Delivered,7196,719.6,6476.4
+O0134,08-11-2023,C025,Siddharth Jain,Male,37,Mumbai,Notebook,Stationery,199,2,0,Credit Card,Delivered,398,0,398
+O1112,09-11-2023,C011,Rahul Khanna,Male,33,Pune,Laptop Stand,Electronics,1299,2,5,UPI,Delivered,2598,129.9,2468.1
+O0785,09-11-2023,C016,Isha Gupta,Female,34,Pune,Coffee Mug,Home & Kitchen,399,1,0,Credit Card,Delivered,399,0,399
+O1406,09-11-2023,C016,Isha Gupta,Female,34,Pune,Table Lamp,Home & Kitchen,1499,2,0,UPI,Delivered,2998,0,2998
+O0093,10-11-2023,C030,Divya Menon,Female,31,Kochi,Yoga Mat,Sports,899,1,10,UPI,Returned,899,89.9,0
+O0259,10-11-2023,C008,Sneha Reddy,Female,26,Hyderabad,Bookshelf,Furniture,4499,1,0,UPI,Cancelled,4499,0,0
+O1372,11-11-2023,C011,Rahul Khanna,Male,33,Pune,Pen Set,Stationery,299,1,10,Net Banking,Delivered,299,29.9,269.1
+O1094,12-11-2023,C019,Akash Jain,Male,31,Chennai,Backpack,Accessories,1799,1,5,Cash on Delivery,Delivered,1799,89.95,1709.05
+O0883,12-11-2023,C010,Kavya Iyer,Female,24,Chennai,Table Lamp,Home & Kitchen,1499,3,10,Credit Card,Delivered,4497,449.7,4047.3
+O0757,13-11-2023,C036,Palak Arora,Female,22,Delhi,Bookshelf,Furniture,4499,1,5,UPI,Delivered,4499,224.95,4274.05
+O0663,13-11-2023,C024,Riya Kapoor,Female,25,Hyderabad,Smart Watch,Electronics,3999,1,5,Credit Card,Delivered,3999,199.95,3799.05
+O0732,14-11-2023,C045,Gaurav Singh,Male,43,Noida,Study Table,Furniture,5999,1,0,UPI,Delivered,5999,0,5999
+O0604,14-11-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Travel Bag,Accessories,3299,1,15,Debit Card,Delivered,3299,494.85,2804.15
+O0709,15-11-2023,C017,Varun Singh,Male,38,Hyderabad,Table Lamp,Home & Kitchen,1499,1,15,UPI,Delivered,1499,224.85,1274.15
+O1435,15-11-2023,C049,Samar Bhatia,Male,31,Delhi,Notebook,Stationery,199,1,10,UPI,Delivered,199,19.9,179.1
+O0829,15-11-2023,C009,Karan Malhotra,Male,40,Delhi,Study Table,Furniture,5999,2,15,UPI,Delivered,11998,1799.7,10198.3
+O0459,15-11-2023,C038,Muskan Ali,Female,28,Hyderabad,Smart Watch,Electronics,3999,1,5,UPI,Delivered,3999,199.95,3799.05
+O0686,16-11-2023,C040,Ayesha Khan,Female,32,Pune,Casual Hoodie,Fashion,1799,3,0,Net Banking,Delivered,5397,0,5397
+O1297,16-11-2023,C048,Ira Chawla,Female,30,Chandigarh,Pen Set,Stationery,299,3,10,Credit Card,Delivered,897,89.7,807.3
+O1022,17-11-2023,C031,Harsh Agarwal,Male,24,Jaipur,Study Table,Furniture,5999,2,5,Net Banking,Delivered,11998,599.9,11398.1
+O1236,18-11-2023,C025,Siddharth Jain,Male,37,Mumbai,Coffee Mug,Home & Kitchen,399,4,5,UPI,Delivered,1596,79.8,1516.2
+O0253,19-11-2023,C020,Nisha Sharma,Female,28,Mumbai,Perfume,Beauty,1899,2,15,Cash on Delivery,Delivered,3798,569.7,3228.3
+O0443,19-11-2023,C011,Rahul Khanna,Male,33,Pune,Casual Hoodie,Fashion,1799,1,0,Debit Card,Delivered,1799,0,1799
+O0266,20-11-2023,C045,Gaurav Singh,Male,43,Noida,Mechanical Keyboard,Electronics,2499,1,5,Debit Card,Delivered,2499,124.95,2374.05
+O0144,20-11-2023,C019,Akash Jain,Male,31,Chennai,Sunglasses,Accessories,999,1,15,UPI,Returned,999,149.85,0
+O0788,20-11-2023,C042,Sonal Mishra,Female,38,Delhi,Travel Bag,Accessories,3299,1,5,UPI,Cancelled,3299,164.95,0
+O0544,21-11-2023,C050,Kriti Sinha,Female,26,Mumbai,Power Bank,Electronics,1499,2,10,Debit Card,Delivered,2998,299.8,2698.2
+O0519,22-11-2023,C033,Yash Thakur,Male,28,Lucknow,Bedsheet Set,Home & Kitchen,1999,1,10,Cash on Delivery,Delivered,1999,199.9,1799.1
+O1345,23-11-2023,C020,Nisha Sharma,Female,28,Mumbai,Face Wash,Beauty,449,5,5,Debit Card,Delivered,2245,112.25,2132.75
+O1331,25-11-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Wireless Mouse,Electronics,799,4,0,UPI,Delivered,3196,0,3196
+O1059,25-11-2023,C007,Arjun Patel,Male,31,Ahmedabad,Face Wash,Beauty,449,2,5,Debit Card,Delivered,898,44.9,853.1
+O0595,26-11-2023,C013,Aditya Joshi,Male,29,Mumbai,Running Shoes,Fashion,2999,5,10,UPI,Delivered,14995,1499.5,13495.5
+O0649,26-11-2023,C003,Rohan Gupta,Male,25,Bangalore,USB Cable,Electronics,299,1,5,UPI,Cancelled,299,14.95,0
+O0121,26-11-2023,C007,Arjun Patel,Male,31,Ahmedabad,Perfume,Beauty,1899,1,10,Net Banking,Delivered,1899,189.9,1709.1
+O1270,27-11-2023,C018,Simran Kaur,Female,23,Delhi,Face Wash,Beauty,449,1,0,UPI,Delivered,449,0,449
+O0667,28-11-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Bedsheet Set,Home & Kitchen,1999,1,5,Cash on Delivery,Delivered,1999,99.95,1899.05
+O1303,29-11-2023,C008,Sneha Reddy,Female,26,Hyderabad,Notebook,Stationery,199,1,5,Net Banking,Delivered,199,9.95,189.05
+O0990,30-11-2023,C022,Tanya Gupta,Female,26,Bangalore,Travel Bag,Accessories,3299,1,0,UPI,Delivered,3299,0,3299
+O0492,30-11-2023,C044,Nandini Paul,Female,25,Kolkata,Denim Jeans,Fashion,1499,2,10,UPI,Delivered,2998,299.8,2698.2
+O0985,01-12-2023,C009,Karan Malhotra,Male,40,Delhi,Casual Hoodie,Fashion,1799,1,5,Net Banking,Delivered,1799,89.95,1709.05
+O0088,02-12-2023,C008,Sneha Reddy,Female,26,Hyderabad,Protein Shaker,Sports,599,4,0,UPI,Delivered,2396,0,2396
+O0806,02-12-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Bedsheet Set,Home & Kitchen,1999,2,0,Credit Card,Delivered,3998,0,3998
+O1202,03-12-2023,C016,Isha Gupta,Female,34,Pune,Cotton T-Shirt,Fashion,699,1,0,UPI,Delivered,699,0,699
+O1137,03-12-2023,C026,Aditi Malhotra,Female,29,Delhi,Protein Shaker,Sports,599,1,5,Net Banking,Delivered,599,29.95,569.05
+O0574,05-12-2023,C032,Sakshi Jain,Female,33,Indore,Perfume,Beauty,1899,1,5,Net Banking,Delivered,1899,94.95,1804.05
+O0638,06-12-2023,C016,Isha Gupta,Female,34,Pune,Perfume,Beauty,1899,3,0,Credit Card,Delivered,5697,0,5697
+O0217,06-12-2023,C012,Pooja Nair,Female,30,Bangalore,Face Wash,Beauty,449,2,0,Debit Card,Delivered,898,0,898
+O0396,08-12-2023,C012,Pooja Nair,Female,30,Bangalore,Water Bottle,Home & Kitchen,499,2,0,Credit Card,Delivered,998,0,998
+O0243,08-12-2023,C046,Tanvi Kapoor,Female,27,Gurgaon,Pen Set,Stationery,299,2,5,Cash on Delivery,Delivered,598,29.9,568.1
+O0884,09-12-2023,C043,Rishabh Jain,Male,29,Ahmedabad,Office Chair,Furniture,7999,1,10,Debit Card,Delivered,7999,799.9,7199.1
+O1277,09-12-2023,C011,Rahul Khanna,Male,33,Pune,Cricket Bat,Sports,2499,1,5,UPI,Delivered,2499,124.95,2374.05
+O0703,10-12-2023,C010,Kavya Iyer,Female,24,Chennai,Perfume,Beauty,1899,2,15,Debit Card,Delivered,3798,569.7,3228.3
+O0877,10-12-2023,C019,Akash Jain,Male,31,Chennai,Leather Jacket,Fashion,4999,1,15,Debit Card,Delivered,4999,749.85,4249.15
+O0342,11-12-2023,C032,Sakshi Jain,Female,33,Indore,Office Chair,Furniture,7999,2,5,Credit Card,Delivered,15998,799.9,15198.1
+O1351,11-12-2023,C028,Shreya Das,Female,27,Kolkata,Sunglasses,Accessories,999,4,0,UPI,Returned,3996,0,0
+O0936,15-12-2023,C039,Ishaan Roy,Male,36,Bangalore,Power Bank,Electronics,1499,2,5,Credit Card,Delivered,2998,149.9,2848.1
+O0563,16-12-2023,C009,Karan Malhotra,Male,40,Delhi,Sunglasses,Accessories,999,1,15,UPI,Returned,999,149.85,0
+O0010,17-12-2023,C039,Ishaan Roy,Male,36,Bangalore,Backpack,Accessories,1799,2,0,UPI,Delivered,3598,0,3598
+O0262,17-12-2023,C038,Muskan Ali,Female,28,Hyderabad,USB Cable,Electronics,299,2,10,Cash on Delivery,Delivered,598,59.8,538.2
+O1364,18-12-2023,C024,Riya Kapoor,Female,25,Hyderabad,Water Bottle,Home & Kitchen,499,1,15,UPI,Delivered,499,74.85,424.15
+O0195,18-12-2023,C002,Priya Verma,Female,32,Mumbai,Formal Shirt,Fashion,1299,3,10,Net Banking,Delivered,3897,389.7,3507.3
+O0513,19-12-2023,C031,Harsh Agarwal,Male,24,Jaipur,Mechanical Keyboard,Electronics,2499,1,0,Debit Card,Delivered,2499,0,2499
+O0506,21-12-2023,C049,Samar Bhatia,Male,31,Delhi,Office Chair,Furniture,7999,4,0,UPI,Delivered,31996,0,31996
+O0111,22-12-2023,C011,Rahul Khanna,Male,33,Pune,Denim Jeans,Fashion,1499,2,0,Debit Card,Delivered,2998,0,2998
+O0064,23-12-2023,C048,Ira Chawla,Female,30,Chandigarh,Laptop Stand,Electronics,1299,2,0,UPI,Delivered,2598,0,2598
+O0701,24-12-2023,C037,Kabir Sethi,Male,30,Mumbai,Coffee Mug,Home & Kitchen,399,5,0,Credit Card,Delivered,1995,0,1995
+O0948,25-12-2023,C024,Riya Kapoor,Female,25,Hyderabad,Casual Hoodie,Fashion,1799,2,10,Debit Card,Delivered,3598,359.8,3238.2
+O0671,25-12-2023,C050,Kriti Sinha,Female,26,Mumbai,Face Wash,Beauty,449,2,5,Debit Card,Delivered,898,44.9,853.1
+O0235,25-12-2023,C035,Dev Malhotra,Male,41,Chandigarh,Formal Shirt,Fashion,1299,3,10,Credit Card,Returned,3897,389.7,0
+O0961,26-12-2023,C019,Akash Jain,Male,31,Chennai,Power Bank,Electronics,1499,3,10,UPI,Delivered,4497,449.7,4047.3
+O1195,26-12-2023,C044,Nandini Paul,Female,25,Kolkata,Table Lamp,Home & Kitchen,1499,1,0,UPI,Delivered,1499,0,1499
+O0299,27-12-2023,C012,Pooja Nair,Female,30,Bangalore,Pen Set,Stationery,299,4,0,Cash on Delivery,Delivered,1196,0,1196
+O0929,27-12-2023,C048,Ira Chawla,Female,30,Chandigarh,Mechanical Keyboard,Electronics,2499,1,0,UPI,Delivered,2499,0,2499
+O0927,28-12-2023,C031,Harsh Agarwal,Male,24,Jaipur,Study Table,Furniture,5999,1,15,Credit Card,Delivered,5999,899.85,5099.15
+O0053,29-12-2023,C011,Rahul Khanna,Male,33,Pune,Bedsheet Set,Home & Kitchen,1999,3,0,UPI,Delivered,5997,0,5997
+O0543,29-12-2023,C022,Tanya Gupta,Female,26,Bangalore,Backpack,Accessories,1799,1,0,UPI,Delivered,1799,0,1799
+O0796,29-12-2023,C014,Meera Shah,Female,36,Ahmedabad,Bluetooth Headphones,Electronics,1999,4,20,Credit Card,Delivered,7996,1599.2,6396.8
+O0200,29-12-2023,C042,Sonal Mishra,Female,38,Delhi,Bluetooth Headphones,Electronics,1999,4,10,Credit Card,Delivered,7996,799.6,7196.4
+O1253,30-12-2023,C011,Rahul Khanna,Male,33,Pune,Smart Watch,Electronics,3999,1,10,UPI,Delivered,3999,399.9,3599.1
+O1272,31-12-2023,C029,Nikhil Bansal,Male,39,Gurgaon,Casual Hoodie,Fashion,1799,1,0,UPI,Delivered,1799,0,1799
+O1233,02-01-2024,C034,Ritika Bose,Female,35,Kolkata,Office Chair,Furniture,7999,1,5,Debit Card,Delivered,7999,399.95,7599.05
+O0665,02-01-2024,C036,Palak Arora,Female,22,Delhi,Study Table,Furniture,5999,1,5,UPI,Delivered,5999,299.95,5699.05
+O0749,02-01-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Denim Jeans,Fashion,1499,2,5,Debit Card,Delivered,2998,149.9,2848.1
+O1239,03-01-2024,C025,Siddharth Jain,Male,37,Mumbai,Wireless Mouse,Electronics,799,1,0,Net Banking,Delivered,799,0,799
+O0981,03-01-2024,C019,Akash Jain,Male,31,Chennai,Pen Set,Stationery,299,2,10,UPI,Delivered,598,59.8,538.2
+O0650,04-01-2024,C011,Rahul Khanna,Male,33,Pune,Running Shoes,Fashion,2999,2,5,Debit Card,Returned,5998,299.9,0
+O0374,04-01-2024,C013,Aditya Joshi,Male,29,Mumbai,Coffee Mug,Home & Kitchen,399,2,5,Credit Card,Returned,798,39.9,0
+O1087,05-01-2024,C001,Aarav Sharma,Male,28,Delhi,Bookshelf,Furniture,4499,1,0,Debit Card,Delivered,4499,0,4499
+O1437,05-01-2024,C032,Sakshi Jain,Female,33,Indore,Cricket Bat,Sports,2499,2,0,UPI,Delivered,4998,0,4998
+O1493,05-01-2024,C007,Arjun Patel,Male,31,Ahmedabad,Bluetooth Headphones,Electronics,1999,2,15,Debit Card,Cancelled,3998,599.7,0
+O1378,06-01-2024,C049,Samar Bhatia,Male,31,Delhi,Notebook,Stationery,199,1,10,Credit Card,Returned,199,19.9,0
+O0882,06-01-2024,C016,Isha Gupta,Female,34,Pune,Study Table,Furniture,5999,3,15,UPI,Delivered,17997,2699.55,15297.45
+O0258,08-01-2024,C023,Mohit Arora,Male,30,Pune,USB Cable,Electronics,299,3,0,Cash on Delivery,Delivered,897,0,897
+O1454,08-01-2024,C021,Rajat Verma,Male,42,Delhi,USB Cable,Electronics,299,3,5,Credit Card,Delivered,897,44.85,852.15
+O0684,10-01-2024,C037,Kabir Sethi,Male,30,Mumbai,Running Shoes,Fashion,2999,4,10,Credit Card,Cancelled,11996,1199.6,0
+O1221,13-01-2024,C014,Meera Shah,Female,36,Ahmedabad,Notebook,Stationery,199,3,0,Credit Card,Delivered,597,0,597
+O0814,14-01-2024,C014,Meera Shah,Female,36,Ahmedabad,Mechanical Keyboard,Electronics,2499,1,10,Cash on Delivery,Delivered,2499,249.9,2249.1
+O0895,14-01-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Protein Shaker,Sports,599,3,10,Credit Card,Delivered,1797,179.7,1617.3
+O0102,15-01-2024,C008,Sneha Reddy,Female,26,Hyderabad,Cricket Bat,Sports,2499,1,10,Credit Card,Delivered,2499,249.9,2249.1
+O0303,17-01-2024,C017,Varun Singh,Male,38,Hyderabad,Yoga Mat,Sports,899,1,0,Debit Card,Delivered,899,0,899
+O1097,17-01-2024,C024,Riya Kapoor,Female,25,Hyderabad,Table Lamp,Home & Kitchen,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O0249,17-01-2024,C008,Sneha Reddy,Female,26,Hyderabad,Wireless Mouse,Electronics,799,2,5,UPI,Delivered,1598,79.9,1518.1
+O0602,18-01-2024,C044,Nandini Paul,Female,25,Kolkata,Bluetooth Headphones,Electronics,1999,4,10,UPI,Delivered,7996,799.6,7196.4
+O1037,18-01-2024,C034,Ritika Bose,Female,35,Kolkata,Perfume,Beauty,1899,2,0,Debit Card,Returned,3798,0,0
+O0231,19-01-2024,C037,Kabir Sethi,Male,30,Mumbai,Pen Set,Stationery,299,2,0,UPI,Returned,598,0,0
+O1105,19-01-2024,C017,Varun Singh,Male,38,Hyderabad,Formal Shirt,Fashion,1299,1,0,UPI,Returned,1299,0,0
+O0721,20-01-2024,C040,Ayesha Khan,Female,32,Pune,Study Table,Furniture,5999,1,0,UPI,Returned,5999,0,0
+O0791,20-01-2024,C010,Kavya Iyer,Female,24,Chennai,Protein Shaker,Sports,599,1,0,Debit Card,Delivered,599,0,599
+O1438,20-01-2024,C026,Aditi Malhotra,Female,29,Delhi,Sunglasses,Accessories,999,1,0,Net Banking,Delivered,999,0,999
+O1336,21-01-2024,C006,Neha Kapoor,Female,27,Pune,Formal Shirt,Fashion,1299,2,0,Cash on Delivery,Delivered,2598,0,2598
+O0205,21-01-2024,C003,Rohan Gupta,Male,25,Bangalore,Office Chair,Furniture,7999,1,5,UPI,Delivered,7999,399.95,7599.05
+O0550,21-01-2024,C032,Sakshi Jain,Female,33,Indore,Casual Hoodie,Fashion,1799,1,15,UPI,Delivered,1799,269.85,1529.15
+O1309,22-01-2024,C006,Neha Kapoor,Female,27,Pune,Bookshelf,Furniture,4499,3,0,Debit Card,Delivered,13497,0,13497
+O1167,23-01-2024,C037,Kabir Sethi,Male,30,Mumbai,Bookshelf,Furniture,4499,3,5,Debit Card,Delivered,13497,674.85,12822.15
+O1071,23-01-2024,C019,Akash Jain,Male,31,Chennai,Cricket Bat,Sports,2499,1,5,UPI,Delivered,2499,124.95,2374.05
+O0149,25-01-2024,C023,Mohit Arora,Male,30,Pune,Denim Jeans,Fashion,1499,2,10,Debit Card,Delivered,2998,299.8,2698.2
+O0335,25-01-2024,C001,Aarav Sharma,Male,28,Delhi,Cotton T-Shirt,Fashion,699,4,0,Credit Card,Returned,2796,0,0
+O1418,26-01-2024,C042,Sonal Mishra,Female,38,Delhi,Face Wash,Beauty,449,1,5,Net Banking,Delivered,449,22.45,426.55
+O0333,26-01-2024,C035,Dev Malhotra,Male,41,Chandigarh,Cricket Bat,Sports,2499,1,5,UPI,Delivered,2499,124.95,2374.05
+O1420,28-01-2024,C003,Rohan Gupta,Male,25,Bangalore,USB Cable,Electronics,299,1,10,Debit Card,Cancelled,299,29.9,0
+O1371,30-01-2024,C018,Simran Kaur,Female,23,Delhi,Backpack,Accessories,1799,2,5,Credit Card,Delivered,3598,179.9,3418.1
+O0735,31-01-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Cricket Bat,Sports,2499,1,5,UPI,Delivered,2499,124.95,2374.05
+O0198,02-02-2024,C034,Ritika Bose,Female,35,Kolkata,Bookshelf,Furniture,4499,4,0,Cash on Delivery,Delivered,17996,0,17996
+O0219,02-02-2024,C031,Harsh Agarwal,Male,24,Jaipur,Laptop Stand,Electronics,1299,1,15,Credit Card,Returned,1299,194.85,0
+O0672,03-02-2024,C034,Ritika Bose,Female,35,Kolkata,Leather Jacket,Fashion,4999,1,5,UPI,Delivered,4999,249.95,4749.05
+O1300,05-02-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Study Table,Furniture,5999,1,0,Credit Card,Delivered,5999,0,5999
+O1216,05-02-2024,C028,Shreya Das,Female,27,Kolkata,Casual Hoodie,Fashion,1799,5,10,UPI,Delivered,8995,899.5,8095.5
+O0340,06-02-2024,C019,Akash Jain,Male,31,Chennai,USB Cable,Electronics,299,1,5,Credit Card,Delivered,299,14.95,284.05
+O0601,07-02-2024,C035,Dev Malhotra,Male,41,Chandigarh,Cricket Bat,Sports,2499,3,20,UPI,Delivered,7497,1499.4,5997.6
+O0061,08-02-2024,C047,Abhishek Das,Male,34,Bangalore,Cricket Bat,Sports,2499,1,0,UPI,Delivered,2499,0,2499
+O0389,09-02-2024,C048,Ira Chawla,Female,30,Chandigarh,Table Lamp,Home & Kitchen,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O1401,12-02-2024,C003,Rohan Gupta,Male,25,Bangalore,Power Bank,Electronics,1499,4,20,UPI,Returned,5996,1199.2,0
+O0003,12-02-2024,C039,Ishaan Roy,Male,36,Bangalore,Wireless Mouse,Electronics,799,2,10,Credit Card,Delivered,1598,159.8,1438.2
+O1223,12-02-2024,C003,Rohan Gupta,Male,25,Bangalore,Wireless Mouse,Electronics,799,1,0,Debit Card,Cancelled,799,0,0
+O0055,13-02-2024,C031,Harsh Agarwal,Male,24,Jaipur,Denim Jeans,Fashion,1499,3,5,Cash on Delivery,Delivered,4497,224.85,4272.15
+O1410,13-02-2024,C028,Shreya Das,Female,27,Kolkata,Wireless Mouse,Electronics,799,1,0,UPI,Delivered,799,0,799
+O0237,13-02-2024,C003,Rohan Gupta,Male,25,Bangalore,Bedsheet Set,Home & Kitchen,1999,3,0,Credit Card,Delivered,5997,0,5997
+O0297,13-02-2024,C031,Harsh Agarwal,Male,24,Jaipur,Study Table,Furniture,5999,3,0,UPI,Delivered,17997,0,17997
+O1011,15-02-2024,C013,Aditya Joshi,Male,29,Mumbai,Formal Shirt,Fashion,1299,2,20,Cash on Delivery,Delivered,2598,519.6,2078.4
+O0776,16-02-2024,C004,Ananya Singh,Female,29,Delhi,Leather Jacket,Fashion,4999,3,10,Debit Card,Delivered,14997,1499.7,13497.3
+O1315,16-02-2024,C014,Meera Shah,Female,36,Ahmedabad,Power Bank,Electronics,1499,1,0,UPI,Delivered,1499,0,1499
+O0025,16-02-2024,C049,Samar Bhatia,Male,31,Delhi,Cricket Bat,Sports,2499,2,5,Credit Card,Delivered,4998,249.9,4748.1
+O0805,18-02-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Laptop Stand,Electronics,1299,3,0,Debit Card,Delivered,3897,0,3897
+O1031,18-02-2024,C024,Riya Kapoor,Female,25,Hyderabad,Pen Set,Stationery,299,2,10,Cash on Delivery,Delivered,598,59.8,538.2
+O0934,19-02-2024,C023,Mohit Arora,Male,30,Pune,Running Shoes,Fashion,2999,1,0,UPI,Delivered,2999,0,2999
+O1258,20-02-2024,C037,Kabir Sethi,Male,30,Mumbai,Leather Jacket,Fashion,4999,2,10,UPI,Delivered,9998,999.8,8998.2
+O0907,20-02-2024,C050,Kriti Sinha,Female,26,Mumbai,Leather Jacket,Fashion,4999,1,0,UPI,Delivered,4999,0,4999
+O1235,20-02-2024,C014,Meera Shah,Female,36,Ahmedabad,Denim Jeans,Fashion,1499,2,0,Credit Card,Delivered,2998,0,2998
+O0332,21-02-2024,C016,Isha Gupta,Female,34,Pune,Running Shoes,Fashion,2999,1,0,Credit Card,Delivered,2999,0,2999
+O0336,23-02-2024,C016,Isha Gupta,Female,34,Pune,Yoga Mat,Sports,899,1,0,UPI,Delivered,899,0,899
+O0165,25-02-2024,C016,Isha Gupta,Female,34,Pune,USB Cable,Electronics,299,1,10,UPI,Delivered,299,29.9,269.1
+O0313,25-02-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Smart Watch,Electronics,3999,2,5,Credit Card,Cancelled,7998,399.9,0
+O1257,26-02-2024,C009,Karan Malhotra,Male,40,Delhi,Perfume,Beauty,1899,1,10,UPI,Delivered,1899,189.9,1709.1
+O0323,27-02-2024,C002,Priya Verma,Female,32,Mumbai,Denim Jeans,Fashion,1499,1,5,Debit Card,Delivered,1499,74.95,1424.05
+O1434,27-02-2024,C041,Pranav Rao,Male,26,Chennai,Backpack,Accessories,1799,3,0,Credit Card,Delivered,5397,0,5397
+O1361,29-02-2024,C008,Sneha Reddy,Female,26,Hyderabad,Protein Shaker,Sports,599,4,15,Credit Card,Delivered,2396,359.4,2036.6
+O0946,29-02-2024,C049,Samar Bhatia,Male,31,Delhi,Running Shoes,Fashion,2999,3,0,Debit Card,Cancelled,8997,0,0
+O1278,29-02-2024,C041,Pranav Rao,Male,26,Chennai,Cotton T-Shirt,Fashion,699,4,5,UPI,Delivered,2796,139.8,2656.2
+O0460,01-03-2024,C023,Mohit Arora,Male,30,Pune,Protein Shaker,Sports,599,2,5,UPI,Delivered,1198,59.9,1138.1
+O0558,01-03-2024,C036,Palak Arora,Female,22,Delhi,Study Table,Furniture,5999,2,5,UPI,Delivered,11998,599.9,11398.1
+O0926,02-03-2024,C041,Pranav Rao,Male,26,Chennai,Sunglasses,Accessories,999,1,0,Debit Card,Delivered,999,0,999
+O0831,02-03-2024,C035,Dev Malhotra,Male,41,Chandigarh,Wireless Mouse,Electronics,799,2,0,Cash on Delivery,Cancelled,1598,0,0
+O1193,04-03-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Yoga Mat,Sports,899,1,20,UPI,Delivered,899,179.8,719.2
+O0841,05-03-2024,C049,Samar Bhatia,Male,31,Delhi,Leather Jacket,Fashion,4999,1,0,UPI,Delivered,4999,0,4999
+O0489,05-03-2024,C001,Aarav Sharma,Male,28,Delhi,Running Shoes,Fashion,2999,1,0,UPI,Delivered,2999,0,2999
+O1330,09-03-2024,C016,Isha Gupta,Female,34,Pune,Denim Jeans,Fashion,1499,1,15,UPI,Delivered,1499,224.85,1274.15
+O0774,09-03-2024,C014,Meera Shah,Female,36,Ahmedabad,Cricket Bat,Sports,2499,1,5,Credit Card,Delivered,2499,124.95,2374.05
+O0164,10-03-2024,C006,Neha Kapoor,Female,27,Pune,Sunglasses,Accessories,999,2,5,Cash on Delivery,Delivered,1998,99.9,1898.1
+O0013,11-03-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Formal Shirt,Fashion,1299,2,5,Credit Card,Cancelled,2598,129.9,0
+O0635,11-03-2024,C038,Muskan Ali,Female,28,Hyderabad,Notebook,Stationery,199,4,5,Net Banking,Delivered,796,39.8,756.2
+O0420,13-03-2024,C007,Arjun Patel,Male,31,Ahmedabad,Wireless Mouse,Electronics,799,2,0,Debit Card,Delivered,1598,0,1598
+O0214,14-03-2024,C020,Nisha Sharma,Female,28,Mumbai,Power Bank,Electronics,1499,1,10,Net Banking,Delivered,1499,149.9,1349.1
+O1050,14-03-2024,C007,Arjun Patel,Male,31,Ahmedabad,Power Bank,Electronics,1499,4,5,Credit Card,Delivered,5996,299.8,5696.2
+O0175,16-03-2024,C008,Sneha Reddy,Female,26,Hyderabad,Perfume,Beauty,1899,1,15,Cash on Delivery,Delivered,1899,284.85,1614.15
+O0272,16-03-2024,C030,Divya Menon,Female,31,Kochi,Denim Jeans,Fashion,1499,2,0,Credit Card,Delivered,2998,0,2998
+O1368,18-03-2024,C039,Ishaan Roy,Male,36,Bangalore,Water Bottle,Home & Kitchen,499,2,0,Credit Card,Delivered,998,0,998
+O0937,19-03-2024,C034,Ritika Bose,Female,35,Kolkata,Study Table,Furniture,5999,2,10,Debit Card,Delivered,11998,1199.8,10798.2
+O0334,20-03-2024,C005,Vikram Mehta,Male,35,Mumbai,Cotton T-Shirt,Fashion,699,2,15,Net Banking,Delivered,1398,209.7,1188.3
+O0723,20-03-2024,C001,Aarav Sharma,Male,28,Delhi,Study Table,Furniture,5999,1,0,Net Banking,Delivered,5999,0,5999
+O0730,22-03-2024,C004,Ananya Singh,Female,29,Delhi,Perfume,Beauty,1899,5,0,UPI,Delivered,9495,0,9495
+O0608,23-03-2024,C024,Riya Kapoor,Female,25,Hyderabad,Leather Jacket,Fashion,4999,4,10,Credit Card,Delivered,19996,1999.6,17996.4
+O1340,24-03-2024,C019,Akash Jain,Male,31,Chennai,Face Wash,Beauty,449,2,5,UPI,Delivered,898,44.9,853.1
+O1470,24-03-2024,C040,Ayesha Khan,Female,32,Pune,Mechanical Keyboard,Electronics,2499,1,10,Debit Card,Returned,2499,249.9,0
+O0475,25-03-2024,C048,Ira Chawla,Female,30,Chandigarh,Mechanical Keyboard,Electronics,2499,2,20,Net Banking,Delivered,4998,999.6,3998.4
+O0652,25-03-2024,C031,Harsh Agarwal,Male,24,Jaipur,Power Bank,Electronics,1499,3,10,Cash on Delivery,Delivered,4497,449.7,4047.3
+O1219,25-03-2024,C003,Rohan Gupta,Male,25,Bangalore,Study Table,Furniture,5999,4,10,Credit Card,Delivered,23996,2399.6,21596.4
+O0011,25-03-2024,C041,Pranav Rao,Male,26,Chennai,Yoga Mat,Sports,899,2,10,UPI,Delivered,1798,179.8,1618.2
+O0606,26-03-2024,C021,Rajat Verma,Male,42,Delhi,Bookshelf,Furniture,4499,4,5,UPI,Delivered,17996,899.8,17096.2
+O0932,27-03-2024,C025,Siddharth Jain,Male,37,Mumbai,Laptop Stand,Electronics,1299,1,5,Credit Card,Delivered,1299,64.95,1234.05
+O0681,27-03-2024,C025,Siddharth Jain,Male,37,Mumbai,Backpack,Accessories,1799,2,0,Net Banking,Delivered,3598,0,3598
+O0080,27-03-2024,C027,Manish Kumar,Male,34,Jaipur,Water Bottle,Home & Kitchen,499,2,0,Credit Card,Delivered,998,0,998
+O0969,27-03-2024,C026,Aditi Malhotra,Female,29,Delhi,Table Lamp,Home & Kitchen,1499,1,0,Debit Card,Delivered,1499,0,1499
+O1192,28-03-2024,C041,Pranav Rao,Male,26,Chennai,Leather Jacket,Fashion,4999,1,5,UPI,Delivered,4999,249.95,4749.05
+O0764,28-03-2024,C033,Yash Thakur,Male,28,Lucknow,Yoga Mat,Sports,899,1,10,Net Banking,Returned,899,89.9,0
+O0970,30-03-2024,C038,Muskan Ali,Female,28,Hyderabad,Bookshelf,Furniture,4499,3,10,UPI,Delivered,13497,1349.7,12147.3
+O0381,30-03-2024,C007,Arjun Patel,Male,31,Ahmedabad,Running Shoes,Fashion,2999,2,5,Credit Card,Delivered,5998,299.9,5698.1
+O1411,30-03-2024,C041,Pranav Rao,Male,26,Chennai,Denim Jeans,Fashion,1499,1,5,Debit Card,Delivered,1499,74.95,1424.05
+O0535,31-03-2024,C022,Tanya Gupta,Female,26,Bangalore,Cricket Bat,Sports,2499,2,10,Net Banking,Delivered,4998,499.8,4498.2
+O1291,31-03-2024,C016,Isha Gupta,Female,34,Pune,Bedsheet Set,Home & Kitchen,1999,2,5,Credit Card,Delivered,3998,199.9,3798.1
+O0320,01-04-2024,C034,Ritika Bose,Female,35,Kolkata,USB Cable,Electronics,299,3,10,Credit Card,Returned,897,89.7,0
+O0575,01-04-2024,C004,Ananya Singh,Female,29,Delhi,Bookshelf,Furniture,4499,2,5,UPI,Delivered,8998,449.9,8548.1
+O0850,03-04-2024,C031,Harsh Agarwal,Male,24,Jaipur,Denim Jeans,Fashion,1499,1,15,Credit Card,Delivered,1499,224.85,1274.15
+O1065,04-04-2024,C025,Siddharth Jain,Male,37,Mumbai,Face Wash,Beauty,449,1,0,Debit Card,Delivered,449,0,449
+O1098,04-04-2024,C030,Divya Menon,Female,31,Kochi,Sunglasses,Accessories,999,2,10,Credit Card,Cancelled,1998,199.8,0
+O0597,04-04-2024,C036,Palak Arora,Female,22,Delhi,Perfume,Beauty,1899,2,5,Cash on Delivery,Delivered,3798,189.9,3608.1
+O1461,04-04-2024,C016,Isha Gupta,Female,34,Pune,Cotton T-Shirt,Fashion,699,1,0,Debit Card,Returned,699,0,0
+O0114,05-04-2024,C028,Shreya Das,Female,27,Kolkata,Smart Watch,Electronics,3999,2,15,UPI,Delivered,7998,1199.7,6798.3
+O1390,05-04-2024,C034,Ritika Bose,Female,35,Kolkata,Laptop Stand,Electronics,1299,1,5,Credit Card,Delivered,1299,64.95,1234.05
+O0950,06-04-2024,C045,Gaurav Singh,Male,43,Noida,Cotton T-Shirt,Fashion,699,1,15,Credit Card,Delivered,699,104.85,594.15
+O0600,06-04-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Face Wash,Beauty,449,4,10,Debit Card,Delivered,1796,179.6,1616.4
+O1249,06-04-2024,C023,Mohit Arora,Male,30,Pune,Formal Shirt,Fashion,1299,1,10,Debit Card,Delivered,1299,129.9,1169.1
+O0525,06-04-2024,C015,Rohan Kapoor,Male,27,Delhi,Backpack,Accessories,1799,2,0,UPI,Delivered,3598,0,3598
+O0870,07-04-2024,C025,Siddharth Jain,Male,37,Mumbai,Casual Hoodie,Fashion,1799,1,10,Cash on Delivery,Delivered,1799,179.9,1619.1
+O0154,07-04-2024,C010,Kavya Iyer,Female,24,Chennai,Protein Shaker,Sports,599,3,10,Net Banking,Returned,1797,179.7,0
+O0762,09-04-2024,C008,Sneha Reddy,Female,26,Hyderabad,Perfume,Beauty,1899,2,10,Debit Card,Cancelled,3798,379.8,0
+O0995,09-04-2024,C010,Kavya Iyer,Female,24,Chennai,Yoga Mat,Sports,899,1,0,Credit Card,Returned,899,0,0
+O1245,09-04-2024,C026,Aditi Malhotra,Female,29,Delhi,Denim Jeans,Fashion,1499,2,0,Credit Card,Delivered,2998,0,2998
+O1196,11-04-2024,C037,Kabir Sethi,Male,30,Mumbai,Perfume,Beauty,1899,3,10,Cash on Delivery,Delivered,5697,569.7,5127.3
+O0283,11-04-2024,C038,Muskan Ali,Female,28,Hyderabad,Coffee Mug,Home & Kitchen,399,2,5,Debit Card,Delivered,798,39.9,758.1
+O0360,12-04-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Study Table,Furniture,5999,1,15,Debit Card,Delivered,5999,899.85,5099.15
+O0654,15-04-2024,C038,Muskan Ali,Female,28,Hyderabad,Bluetooth Headphones,Electronics,1999,1,0,Credit Card,Delivered,1999,0,1999
+O0792,17-04-2024,C018,Simran Kaur,Female,23,Delhi,Table Lamp,Home & Kitchen,1499,2,0,UPI,Delivered,2998,0,2998
+O1480,19-04-2024,C006,Neha Kapoor,Female,27,Pune,Yoga Mat,Sports,899,3,10,Debit Card,Delivered,2697,269.7,2427.3
+O1119,20-04-2024,C023,Mohit Arora,Male,30,Pune,Office Chair,Furniture,7999,2,5,Net Banking,Delivered,15998,799.9,15198.1
+O0298,20-04-2024,C050,Kriti Sinha,Female,26,Mumbai,Bluetooth Headphones,Electronics,1999,2,10,Net Banking,Cancelled,3998,399.8,0
+O0008,21-04-2024,C019,Akash Jain,Male,31,Chennai,Bluetooth Headphones,Electronics,1999,3,5,Cash on Delivery,Delivered,5997,299.85,5697.15
+O0823,21-04-2024,C012,Pooja Nair,Female,30,Bangalore,Laptop Stand,Electronics,1299,2,20,UPI,Delivered,2598,519.6,2078.4
+O0734,21-04-2024,C009,Karan Malhotra,Male,40,Delhi,Study Table,Furniture,5999,1,5,UPI,Delivered,5999,299.95,5699.05
+O1285,21-04-2024,C041,Pranav Rao,Male,26,Chennai,Cricket Bat,Sports,2499,2,10,UPI,Delivered,4998,499.8,4498.2
+O0758,22-04-2024,C038,Muskan Ali,Female,28,Hyderabad,Denim Jeans,Fashion,1499,1,0,Credit Card,Delivered,1499,0,1499
+O0133,23-04-2024,C037,Kabir Sethi,Male,30,Mumbai,Notebook,Stationery,199,3,5,Credit Card,Delivered,597,29.85,567.15
+O1026,25-04-2024,C016,Isha Gupta,Female,34,Pune,Denim Jeans,Fashion,1499,2,5,UPI,Cancelled,2998,149.9,0
+O1075,25-04-2024,C022,Tanya Gupta,Female,26,Bangalore,Travel Bag,Accessories,3299,2,5,Debit Card,Delivered,6598,329.9,6268.1
+O1056,27-04-2024,C006,Neha Kapoor,Female,27,Pune,Travel Bag,Accessories,3299,1,15,Credit Card,Delivered,3299,494.85,2804.15
+O0504,27-04-2024,C031,Harsh Agarwal,Male,24,Jaipur,Coffee Mug,Home & Kitchen,399,2,0,Debit Card,Cancelled,798,0,0
+O0476,29-04-2024,C012,Pooja Nair,Female,30,Bangalore,Power Bank,Electronics,1499,2,10,Net Banking,Delivered,2998,299.8,2698.2
+O0034,29-04-2024,C049,Samar Bhatia,Male,31,Delhi,Perfume,Beauty,1899,1,5,Credit Card,Delivered,1899,94.95,1804.05
+O0168,02-05-2024,C023,Mohit Arora,Male,30,Pune,Bedsheet Set,Home & Kitchen,1999,2,0,UPI,Delivered,3998,0,3998
+O1042,03-05-2024,C016,Isha Gupta,Female,34,Pune,Notebook,Stationery,199,1,0,Cash on Delivery,Delivered,199,0,199
+O1275,03-05-2024,C016,Isha Gupta,Female,34,Pune,Casual Hoodie,Fashion,1799,1,0,UPI,Delivered,1799,0,1799
+O1204,03-05-2024,C007,Arjun Patel,Male,31,Ahmedabad,Study Table,Furniture,5999,4,10,Credit Card,Delivered,23996,2399.6,21596.4
+O0949,03-05-2024,C009,Karan Malhotra,Male,40,Delhi,Formal Shirt,Fashion,1299,2,10,Debit Card,Delivered,2598,259.8,2338.2
+O0740,04-05-2024,C050,Kriti Sinha,Female,26,Mumbai,Table Lamp,Home & Kitchen,1499,1,0,Cash on Delivery,Returned,1499,0,0
+O0126,05-05-2024,C041,Pranav Rao,Male,26,Chennai,Table Lamp,Home & Kitchen,1499,2,0,Credit Card,Delivered,2998,0,2998
+O1321,05-05-2024,C022,Tanya Gupta,Female,26,Bangalore,Formal Shirt,Fashion,1299,4,10,UPI,Delivered,5196,519.6,4676.4
+O1384,06-05-2024,C006,Neha Kapoor,Female,27,Pune,Bluetooth Headphones,Electronics,1999,4,0,Debit Card,Delivered,7996,0,7996
+O1226,06-05-2024,C020,Nisha Sharma,Female,28,Mumbai,Office Chair,Furniture,7999,1,5,Credit Card,Delivered,7999,399.95,7599.05
+O0532,07-05-2024,C010,Kavya Iyer,Female,24,Chennai,Bookshelf,Furniture,4499,3,10,Debit Card,Delivered,13497,1349.7,12147.3
+O0941,07-05-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Study Table,Furniture,5999,1,10,Credit Card,Delivered,5999,599.9,5399.1
+O0098,09-05-2024,C013,Aditya Joshi,Male,29,Mumbai,Bluetooth Headphones,Electronics,1999,2,5,Debit Card,Delivered,3998,199.9,3798.1
+O0685,10-05-2024,C013,Aditya Joshi,Male,29,Mumbai,Denim Jeans,Fashion,1499,3,0,UPI,Delivered,4497,0,4497
+O0890,10-05-2024,C026,Aditi Malhotra,Female,29,Delhi,Office Chair,Furniture,7999,2,5,UPI,Delivered,15998,799.9,15198.1
+O0230,10-05-2024,C041,Pranav Rao,Male,26,Chennai,Bookshelf,Furniture,4499,2,0,Credit Card,Delivered,8998,0,8998
+O1113,11-05-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Coffee Mug,Home & Kitchen,399,1,5,UPI,Delivered,399,19.95,379.05
+O0914,12-05-2024,C040,Ayesha Khan,Female,32,Pune,Mechanical Keyboard,Electronics,2499,2,0,UPI,Delivered,4998,0,4998
+O0451,17-05-2024,C047,Abhishek Das,Male,34,Bangalore,Laptop Stand,Electronics,1299,1,15,Credit Card,Delivered,1299,194.85,1104.15
+O1179,17-05-2024,C035,Dev Malhotra,Male,41,Chandigarh,Power Bank,Electronics,1499,2,5,Credit Card,Cancelled,2998,149.9,0
+O1224,18-05-2024,C022,Tanya Gupta,Female,26,Bangalore,Perfume,Beauty,1899,1,0,Net Banking,Delivered,1899,0,1899
+O0938,20-05-2024,C048,Ira Chawla,Female,30,Chandigarh,Perfume,Beauty,1899,1,5,Net Banking,Delivered,1899,94.95,1804.05
+O0014,20-05-2024,C017,Varun Singh,Male,38,Hyderabad,USB Cable,Electronics,299,2,5,Credit Card,Delivered,598,29.9,568.1
+O1230,21-05-2024,C010,Kavya Iyer,Female,24,Chennai,Formal Shirt,Fashion,1299,1,10,Cash on Delivery,Delivered,1299,129.9,1169.1
+O1407,21-05-2024,C017,Varun Singh,Male,38,Hyderabad,Yoga Mat,Sports,899,2,5,Cash on Delivery,Delivered,1798,89.9,1708.1
+O0054,23-05-2024,C027,Manish Kumar,Male,34,Jaipur,Bedsheet Set,Home & Kitchen,1999,1,10,Cash on Delivery,Delivered,1999,199.9,1799.1
+O0588,23-05-2024,C027,Manish Kumar,Male,34,Jaipur,Table Lamp,Home & Kitchen,1499,1,20,Credit Card,Returned,1499,299.8,0
+O0547,24-05-2024,C001,Aarav Sharma,Male,28,Delhi,Backpack,Accessories,1799,1,15,UPI,Delivered,1799,269.85,1529.15
+O1295,24-05-2024,C012,Pooja Nair,Female,30,Bangalore,Table Lamp,Home & Kitchen,1499,1,5,UPI,Returned,1499,74.95,0
+O0072,25-05-2024,C030,Divya Menon,Female,31,Kochi,Mechanical Keyboard,Electronics,2499,4,0,Credit Card,Delivered,9996,0,9996
+O1381,25-05-2024,C041,Pranav Rao,Male,26,Chennai,Casual Hoodie,Fashion,1799,2,5,Credit Card,Delivered,3598,179.9,3418.1
+O1062,26-05-2024,C008,Sneha Reddy,Female,26,Hyderabad,Power Bank,Electronics,1499,2,20,Debit Card,Delivered,2998,599.6,2398.4
+O0145,27-05-2024,C028,Shreya Das,Female,27,Kolkata,Yoga Mat,Sports,899,2,0,Cash on Delivery,Returned,1798,0,0
+O0221,27-05-2024,C039,Ishaan Roy,Male,36,Bangalore,USB Cable,Electronics,299,1,5,Net Banking,Delivered,299,14.95,284.05
+O0901,28-05-2024,C037,Kabir Sethi,Male,30,Mumbai,Cricket Bat,Sports,2499,3,0,Debit Card,Delivered,7497,0,7497
+O0167,28-05-2024,C009,Karan Malhotra,Male,40,Delhi,Water Bottle,Home & Kitchen,499,3,0,UPI,Delivered,1497,0,1497
+O0928,29-05-2024,C014,Meera Shah,Female,36,Ahmedabad,Pen Set,Stationery,299,1,10,UPI,Delivered,299,29.9,269.1
+O1282,30-05-2024,C037,Kabir Sethi,Male,30,Mumbai,Power Bank,Electronics,1499,4,5,Debit Card,Returned,5996,299.8,0
+O0528,31-05-2024,C023,Mohit Arora,Male,30,Pune,Office Chair,Furniture,7999,1,0,Debit Card,Delivered,7999,0,7999
+O0554,01-06-2024,C025,Siddharth Jain,Male,37,Mumbai,Smart Watch,Electronics,3999,2,0,Debit Card,Delivered,7998,0,7998
+O0811,02-06-2024,C040,Ayesha Khan,Female,32,Pune,Protein Shaker,Sports,599,1,5,Cash on Delivery,Delivered,599,29.95,569.05
+O0238,02-06-2024,C035,Dev Malhotra,Male,41,Chandigarh,Study Table,Furniture,5999,1,10,Cash on Delivery,Delivered,5999,599.9,5399.1
+O1102,02-06-2024,C047,Abhishek Das,Male,34,Bangalore,Coffee Mug,Home & Kitchen,399,1,5,UPI,Delivered,399,19.95,379.05
+O1307,04-06-2024,C044,Nandini Paul,Female,25,Kolkata,USB Cable,Electronics,299,1,5,UPI,Delivered,299,14.95,284.05
+O0143,04-06-2024,C030,Divya Menon,Female,31,Kochi,Backpack,Accessories,1799,2,10,Credit Card,Cancelled,3598,359.8,0
+O0087,08-06-2024,C014,Meera Shah,Female,36,Ahmedabad,Office Chair,Furniture,7999,3,0,Debit Card,Delivered,23997,0,23997
+O1363,09-06-2024,C011,Rahul Khanna,Male,33,Pune,Bluetooth Headphones,Electronics,1999,3,0,Credit Card,Returned,5997,0,0
+O1468,12-06-2024,C030,Divya Menon,Female,31,Kochi,Water Bottle,Home & Kitchen,499,4,5,Credit Card,Delivered,1996,99.8,1896.2
+O0440,14-06-2024,C034,Ritika Bose,Female,35,Kolkata,Bookshelf,Furniture,4499,1,0,UPI,Delivered,4499,0,4499
+O0984,15-06-2024,C002,Priya Verma,Female,32,Mumbai,Perfume,Beauty,1899,1,0,Cash on Delivery,Delivered,1899,0,1899
+O0959,16-06-2024,C020,Nisha Sharma,Female,28,Mumbai,Power Bank,Electronics,1499,1,5,Cash on Delivery,Delivered,1499,74.95,1424.05
+O1369,17-06-2024,C036,Palak Arora,Female,22,Delhi,Running Shoes,Fashion,2999,1,15,UPI,Delivered,2999,449.85,2549.15
+O0058,18-06-2024,C002,Priya Verma,Female,32,Mumbai,Smart Watch,Electronics,3999,1,20,UPI,Delivered,3999,799.8,3199.2
+O1243,18-06-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Cricket Bat,Sports,2499,1,0,Cash on Delivery,Delivered,2499,0,2499
+O1124,18-06-2024,C002,Priya Verma,Female,32,Mumbai,Casual Hoodie,Fashion,1799,1,0,Cash on Delivery,Delivered,1799,0,1799
+O0457,18-06-2024,C016,Isha Gupta,Female,34,Pune,Leather Jacket,Fashion,4999,3,15,Cash on Delivery,Delivered,14997,2249.55,12747.45
+O0156,20-06-2024,C044,Nandini Paul,Female,25,Kolkata,Cricket Bat,Sports,2499,2,10,UPI,Cancelled,4998,499.8,0
+O0019,23-06-2024,C001,Aarav Sharma,Male,28,Delhi,Cricket Bat,Sports,2499,5,10,UPI,Delivered,12495,1249.5,11245.5
+O1081,24-06-2024,C049,Samar Bhatia,Male,31,Delhi,Travel Bag,Accessories,3299,2,5,Debit Card,Delivered,6598,329.9,6268.1
+O0603,25-06-2024,C018,Simran Kaur,Female,23,Delhi,Water Bottle,Home & Kitchen,499,1,5,UPI,Delivered,499,24.95,474.05
+O0113,25-06-2024,C044,Nandini Paul,Female,25,Kolkata,Denim Jeans,Fashion,1499,3,10,Net Banking,Delivered,4497,449.7,4047.3
+O0289,25-06-2024,C042,Sonal Mishra,Female,38,Delhi,Bedsheet Set,Home & Kitchen,1999,2,0,Credit Card,Delivered,3998,0,3998
+O0024,26-06-2024,C036,Palak Arora,Female,22,Delhi,Power Bank,Electronics,1499,2,10,Net Banking,Returned,2998,299.8,0
+O0496,27-06-2024,C047,Abhishek Das,Male,34,Bangalore,Travel Bag,Accessories,3299,2,0,Credit Card,Delivered,6598,0,6598
+O0747,28-06-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Mechanical Keyboard,Electronics,2499,2,10,UPI,Delivered,4998,499.8,4498.2
+O1318,28-06-2024,C001,Aarav Sharma,Male,28,Delhi,Mechanical Keyboard,Electronics,2499,3,0,Net Banking,Delivered,7497,0,7497
+O0018,30-06-2024,C047,Abhishek Das,Male,34,Bangalore,Smart Watch,Electronics,3999,3,0,UPI,Delivered,11997,0,11997
+O1444,01-07-2024,C035,Dev Malhotra,Male,41,Chandigarh,Yoga Mat,Sports,899,2,0,UPI,Delivered,1798,0,1798
+O0407,01-07-2024,C019,Akash Jain,Male,31,Chennai,Leather Jacket,Fashion,4999,4,5,Cash on Delivery,Cancelled,19996,999.8,0
+O1117,02-07-2024,C036,Palak Arora,Female,22,Delhi,Bluetooth Headphones,Electronics,1999,3,5,Credit Card,Delivered,5997,299.85,5697.15
+O0401,02-07-2024,C037,Kabir Sethi,Male,30,Mumbai,Smart Watch,Electronics,3999,3,10,Cash on Delivery,Delivered,11997,1199.7,10797.3
+O1234,03-07-2024,C032,Sakshi Jain,Female,33,Indore,Study Table,Furniture,5999,2,10,Debit Card,Delivered,11998,1199.8,10798.2
+O0414,03-07-2024,C014,Meera Shah,Female,36,Ahmedabad,Study Table,Furniture,5999,1,0,UPI,Delivered,5999,0,5999
+O0410,04-07-2024,C032,Sakshi Jain,Female,33,Indore,USB Cable,Electronics,299,2,5,Cash on Delivery,Delivered,598,29.9,568.1
+O1090,05-07-2024,C030,Divya Menon,Female,31,Kochi,Backpack,Accessories,1799,2,0,Debit Card,Returned,3598,0,0
+O0722,05-07-2024,C007,Arjun Patel,Male,31,Ahmedabad,Leather Jacket,Fashion,4999,1,5,UPI,Delivered,4999,249.95,4749.05
+O1412,05-07-2024,C020,Nisha Sharma,Female,28,Mumbai,Smart Watch,Electronics,3999,1,15,UPI,Delivered,3999,599.85,3399.15
+O0795,06-07-2024,C001,Aarav Sharma,Male,28,Delhi,Travel Bag,Accessories,3299,4,0,UPI,Delivered,13196,0,13196
+O1373,07-07-2024,C016,Isha Gupta,Female,34,Pune,Bluetooth Headphones,Electronics,1999,1,0,UPI,Delivered,1999,0,1999
+O0354,09-07-2024,C037,Kabir Sethi,Male,30,Mumbai,Study Table,Furniture,5999,1,0,Cash on Delivery,Cancelled,5999,0,0
+O0294,10-07-2024,C035,Dev Malhotra,Male,41,Chandigarh,Running Shoes,Fashion,2999,1,10,UPI,Delivered,2999,299.9,2699.1
+O0719,10-07-2024,C034,Ritika Bose,Female,35,Kolkata,Protein Shaker,Sports,599,1,10,Credit Card,Delivered,599,59.9,539.1
+O0046,11-07-2024,C036,Palak Arora,Female,22,Delhi,USB Cable,Electronics,299,1,0,Debit Card,Delivered,299,0,299
+O0302,12-07-2024,C033,Yash Thakur,Male,28,Lucknow,Office Chair,Furniture,7999,1,0,Credit Card,Delivered,7999,0,7999
+O0889,12-07-2024,C040,Ayesha Khan,Female,32,Pune,Travel Bag,Accessories,3299,1,0,Debit Card,Delivered,3299,0,3299
+O0291,14-07-2024,C036,Palak Arora,Female,22,Delhi,Travel Bag,Accessories,3299,1,5,Cash on Delivery,Delivered,3299,164.95,3134.05
+O1357,14-07-2024,C037,Kabir Sethi,Male,30,Mumbai,Study Table,Furniture,5999,2,0,Credit Card,Delivered,11998,0,11998
+O0147,16-07-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Notebook,Stationery,199,1,15,Net Banking,Delivered,199,29.85,169.15
+O1242,16-07-2024,C017,Varun Singh,Male,38,Hyderabad,Leather Jacket,Fashion,4999,1,10,Cash on Delivery,Delivered,4999,499.9,4499.1
+O0819,16-07-2024,C008,Sneha Reddy,Female,26,Hyderabad,Yoga Mat,Sports,899,1,5,UPI,Delivered,899,44.95,854.05
+O0327,17-07-2024,C027,Manish Kumar,Male,34,Jaipur,Leather Jacket,Fashion,4999,1,15,Net Banking,Delivered,4999,749.85,4249.15
+O0664,18-07-2024,C037,Kabir Sethi,Male,30,Mumbai,Casual Hoodie,Fashion,1799,5,5,Credit Card,Delivered,8995,449.75,8545.25
+O0368,19-07-2024,C011,Rahul Khanna,Male,33,Pune,Pen Set,Stationery,299,1,5,UPI,Delivered,299,14.95,284.05
+O0075,21-07-2024,C016,Isha Gupta,Female,34,Pune,Face Wash,Beauty,449,3,5,UPI,Delivered,1347,67.35,1279.65
+O0531,21-07-2024,C041,Pranav Rao,Male,26,Chennai,Formal Shirt,Fashion,1299,1,10,UPI,Cancelled,1299,129.9,0
+O0427,21-07-2024,C009,Karan Malhotra,Male,40,Delhi,Denim Jeans,Fashion,1499,2,0,Debit Card,Delivered,2998,0,2998
+O1044,22-07-2024,C002,Priya Verma,Female,32,Mumbai,Running Shoes,Fashion,2999,2,0,Net Banking,Delivered,5998,0,5998
+O1200,23-07-2024,C015,Rohan Kapoor,Male,27,Delhi,Mechanical Keyboard,Electronics,2499,4,5,Credit Card,Delivered,9996,499.8,9496.2
+O1012,24-07-2024,C047,Abhishek Das,Male,34,Bangalore,Study Table,Furniture,5999,3,10,Debit Card,Delivered,17997,1799.7,16197.3
+O0097,26-07-2024,C017,Varun Singh,Male,38,Hyderabad,Formal Shirt,Fashion,1299,3,10,UPI,Delivered,3897,389.7,3507.3
+O0783,27-07-2024,C002,Priya Verma,Female,32,Mumbai,Water Bottle,Home & Kitchen,499,1,0,UPI,Delivered,499,0,499
+O0454,27-07-2024,C010,Kavya Iyer,Female,24,Chennai,Yoga Mat,Sports,899,1,15,Credit Card,Cancelled,899,134.85,0
+O0832,28-07-2024,C005,Vikram Mehta,Male,35,Mumbai,USB Cable,Electronics,299,3,0,Credit Card,Delivered,897,0,897
+O0633,28-07-2024,C039,Ishaan Roy,Male,36,Bangalore,Bluetooth Headphones,Electronics,1999,3,0,UPI,Delivered,5997,0,5997
+O1191,29-07-2024,C048,Ira Chawla,Female,30,Chandigarh,Wireless Mouse,Electronics,799,2,10,Cash on Delivery,Delivered,1598,159.8,1438.2
+O0473,29-07-2024,C002,Priya Verma,Female,32,Mumbai,Laptop Stand,Electronics,1299,1,20,Debit Card,Delivered,1299,259.8,1039.2
+O0620,30-07-2024,C039,Ishaan Roy,Male,36,Bangalore,Bluetooth Headphones,Electronics,1999,3,5,Debit Card,Delivered,5997,299.85,5697.15
+O1377,31-07-2024,C034,Ritika Bose,Female,35,Kolkata,Casual Hoodie,Fashion,1799,2,10,UPI,Cancelled,3598,359.8,0
+O0530,01-08-2024,C042,Sonal Mishra,Female,38,Delhi,Table Lamp,Home & Kitchen,1499,1,0,Net Banking,Delivered,1499,0,1499
+O0103,02-08-2024,C049,Samar Bhatia,Male,31,Delhi,Bookshelf,Furniture,4499,5,10,Credit Card,Delivered,22495,2249.5,20245.5
+O0611,02-08-2024,C025,Siddharth Jain,Male,37,Mumbai,Running Shoes,Fashion,2999,1,5,Credit Card,Delivered,2999,149.95,2849.05
+O0651,03-08-2024,C047,Abhishek Das,Male,34,Bangalore,Cricket Bat,Sports,2499,4,0,Credit Card,Delivered,9996,0,9996
+O0844,03-08-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Bedsheet Set,Home & Kitchen,1999,2,0,Cash on Delivery,Delivered,3998,0,3998
+O0260,04-08-2024,C034,Ritika Bose,Female,35,Kolkata,Laptop Stand,Electronics,1299,3,0,Credit Card,Delivered,3897,0,3897
+O1144,04-08-2024,C034,Ritika Bose,Female,35,Kolkata,Water Bottle,Home & Kitchen,499,1,5,UPI,Delivered,499,24.95,474.05
+O0816,05-08-2024,C011,Rahul Khanna,Male,33,Pune,Sunglasses,Accessories,999,2,10,Cash on Delivery,Delivered,1998,199.8,1798.2
+O0960,05-08-2024,C010,Kavya Iyer,Female,24,Chennai,Casual Hoodie,Fashion,1799,2,0,Debit Card,Cancelled,3598,0,0
+O1088,05-08-2024,C022,Tanya Gupta,Female,26,Bangalore,Wireless Mouse,Electronics,799,2,10,Credit Card,Delivered,1598,159.8,1438.2
+O0218,06-08-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Table Lamp,Home & Kitchen,1499,3,10,UPI,Delivered,4497,449.7,4047.3
+O0076,08-08-2024,C005,Vikram Mehta,Male,35,Mumbai,Yoga Mat,Sports,899,1,0,UPI,Cancelled,899,0,0
+O0226,10-08-2024,C009,Karan Malhotra,Male,40,Delhi,Mechanical Keyboard,Electronics,2499,4,5,Debit Card,Delivered,9996,499.8,9496.2
+O0347,10-08-2024,C047,Abhishek Das,Male,34,Bangalore,Running Shoes,Fashion,2999,1,10,Cash on Delivery,Delivered,2999,299.9,2699.1
+O1488,10-08-2024,C003,Rohan Gupta,Male,25,Bangalore,Casual Hoodie,Fashion,1799,1,15,UPI,Cancelled,1799,269.85,0
+O0317,10-08-2024,C031,Harsh Agarwal,Male,24,Jaipur,Mechanical Keyboard,Electronics,2499,1,10,Net Banking,Delivered,2499,249.9,2249.1
+O1032,11-08-2024,C035,Dev Malhotra,Male,41,Chandigarh,Cotton T-Shirt,Fashion,699,1,0,Cash on Delivery,Delivered,699,0,699
+O0810,14-08-2024,C050,Kriti Sinha,Female,26,Mumbai,Office Chair,Furniture,7999,2,0,UPI,Delivered,15998,0,15998
+O0275,14-08-2024,C013,Aditya Joshi,Male,29,Mumbai,Casual Hoodie,Fashion,1799,1,5,UPI,Delivered,1799,89.95,1709.05
+O0290,14-08-2024,C015,Rohan Kapoor,Male,27,Delhi,Leather Jacket,Fashion,4999,2,10,Credit Card,Delivered,9998,999.8,8998.2
+O0300,15-08-2024,C012,Pooja Nair,Female,30,Bangalore,Travel Bag,Accessories,3299,3,0,UPI,Delivered,9897,0,9897
+O0269,17-08-2024,C007,Arjun Patel,Male,31,Ahmedabad,Mechanical Keyboard,Electronics,2499,4,15,Net Banking,Delivered,9996,1499.4,8496.6
+O0591,18-08-2024,C040,Ayesha Khan,Female,32,Pune,Yoga Mat,Sports,899,2,15,Debit Card,Delivered,1798,269.7,1528.3
+O0627,18-08-2024,C036,Palak Arora,Female,22,Delhi,Bluetooth Headphones,Electronics,1999,2,0,Credit Card,Delivered,3998,0,3998
+O0801,19-08-2024,C004,Ananya Singh,Female,29,Delhi,Cotton T-Shirt,Fashion,699,1,15,UPI,Delivered,699,104.85,594.15
+O0581,20-08-2024,C022,Tanya Gupta,Female,26,Bangalore,Casual Hoodie,Fashion,1799,2,5,Cash on Delivery,Delivered,3598,179.9,3418.1
+O0986,20-08-2024,C004,Ananya Singh,Female,29,Delhi,Leather Jacket,Fashion,4999,2,15,Debit Card,Delivered,9998,1499.7,8498.3
+O1130,21-08-2024,C024,Riya Kapoor,Female,25,Hyderabad,Power Bank,Electronics,1499,2,10,Cash on Delivery,Delivered,2998,299.8,2698.2
+O0778,22-08-2024,C007,Arjun Patel,Male,31,Ahmedabad,Wireless Mouse,Electronics,799,3,10,Credit Card,Delivered,2397,239.7,2157.3
+O1365,23-08-2024,C034,Ritika Bose,Female,35,Kolkata,Laptop Stand,Electronics,1299,2,5,Debit Card,Delivered,2598,129.9,2468.1
+O0802,25-08-2024,C011,Rahul Khanna,Male,33,Pune,Pen Set,Stationery,299,2,0,UPI,Delivered,598,0,598
+O0153,27-08-2024,C031,Harsh Agarwal,Male,24,Jaipur,Bedsheet Set,Home & Kitchen,1999,2,0,Net Banking,Delivered,3998,0,3998
+O0966,28-08-2024,C042,Sonal Mishra,Female,38,Delhi,Yoga Mat,Sports,899,2,0,Net Banking,Cancelled,1798,0,0
+O0063,28-08-2024,C026,Aditi Malhotra,Female,29,Delhi,Yoga Mat,Sports,899,2,0,Credit Card,Delivered,1798,0,1798
+O0215,28-08-2024,C010,Kavya Iyer,Female,24,Chennai,Bluetooth Headphones,Electronics,1999,3,0,Cash on Delivery,Delivered,5997,0,5997
+O0403,01-09-2024,C049,Samar Bhatia,Male,31,Delhi,Denim Jeans,Fashion,1499,3,0,Cash on Delivery,Delivered,4497,0,4497
+O1261,01-09-2024,C030,Divya Menon,Female,31,Kochi,Casual Hoodie,Fashion,1799,1,10,Credit Card,Delivered,1799,179.9,1619.1
+O0393,01-09-2024,C044,Nandini Paul,Female,25,Kolkata,Yoga Mat,Sports,899,4,5,UPI,Delivered,3596,179.8,3416.2
+O1499,02-09-2024,C026,Aditi Malhotra,Female,29,Delhi,Bluetooth Headphones,Electronics,1999,3,5,UPI,Delivered,5997,299.85,5697.15
+O1173,02-09-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Mechanical Keyboard,Electronics,2499,1,0,UPI,Delivered,2499,0,2499
+O1395,03-09-2024,C030,Divya Menon,Female,31,Kochi,Formal Shirt,Fashion,1299,1,0,UPI,Cancelled,1299,0,0
+O0815,03-09-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Coffee Mug,Home & Kitchen,399,1,0,Net Banking,Delivered,399,0,399
+O0140,05-09-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Power Bank,Electronics,1499,4,0,UPI,Delivered,5996,0,5996
+O0716,05-09-2024,C049,Samar Bhatia,Male,31,Delhi,Study Table,Furniture,5999,1,5,UPI,Delivered,5999,299.95,5699.05
+O0980,06-09-2024,C010,Kavya Iyer,Female,24,Chennai,Running Shoes,Fashion,2999,4,10,Debit Card,Delivered,11996,1199.6,10796.4
+O1035,06-09-2024,C020,Nisha Sharma,Female,28,Mumbai,Bookshelf,Furniture,4499,1,5,Credit Card,Delivered,4499,224.95,4274.05
+O1040,06-09-2024,C044,Nandini Paul,Female,25,Kolkata,Protein Shaker,Sports,599,3,5,Net Banking,Delivered,1797,89.85,1707.15
+O0536,06-09-2024,C023,Mohit Arora,Male,30,Pune,Bookshelf,Furniture,4499,3,10,UPI,Delivered,13497,1349.7,12147.3
+O0350,06-09-2024,C045,Gaurav Singh,Male,43,Noida,Denim Jeans,Fashion,1499,2,10,Cash on Delivery,Delivered,2998,299.8,2698.2
+O1298,06-09-2024,C006,Neha Kapoor,Female,27,Pune,Protein Shaker,Sports,599,2,0,UPI,Delivered,1198,0,1198
+O1100,07-09-2024,C010,Kavya Iyer,Female,24,Chennai,USB Cable,Electronics,299,3,5,UPI,Delivered,897,44.85,852.15
+O0988,08-09-2024,C044,Nandini Paul,Female,25,Kolkata,Bedsheet Set,Home & Kitchen,1999,1,10,Credit Card,Delivered,1999,199.9,1799.1
+O0605,08-09-2024,C041,Pranav Rao,Male,26,Chennai,Table Lamp,Home & Kitchen,1499,2,5,Cash on Delivery,Delivered,2998,149.9,2848.1
+O1281,09-09-2024,C014,Meera Shah,Female,36,Ahmedabad,Pen Set,Stationery,299,3,5,Debit Card,Returned,897,44.85,0
+O0171,09-09-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Bookshelf,Furniture,4499,2,20,Credit Card,Delivered,8998,1799.6,7198.4
+O1419,09-09-2024,C040,Ayesha Khan,Female,32,Pune,Formal Shirt,Fashion,1299,2,20,Debit Card,Delivered,2598,519.6,2078.4
+O1450,09-09-2024,C010,Kavya Iyer,Female,24,Chennai,Laptop Stand,Electronics,1299,2,0,UPI,Delivered,2598,0,2598
+O0964,09-09-2024,C011,Rahul Khanna,Male,33,Pune,Water Bottle,Home & Kitchen,499,1,0,Debit Card,Cancelled,499,0,0
+O0854,10-09-2024,C042,Sonal Mishra,Female,38,Delhi,Bluetooth Headphones,Electronics,1999,2,5,Debit Card,Delivered,3998,199.9,3798.1
+O0044,11-09-2024,C011,Rahul Khanna,Male,33,Pune,Office Chair,Furniture,7999,2,20,UPI,Delivered,15998,3199.6,12798.4
+O0261,12-09-2024,C009,Karan Malhotra,Male,40,Delhi,Backpack,Accessories,1799,2,0,Credit Card,Delivered,3598,0,3598
+O0202,12-09-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Backpack,Accessories,1799,3,5,UPI,Delivered,5397,269.85,5127.15
+O1020,12-09-2024,C003,Rohan Gupta,Male,25,Bangalore,Power Bank,Electronics,1499,3,0,UPI,Delivered,4497,0,4497
+O0976,13-09-2024,C010,Kavya Iyer,Female,24,Chennai,Cotton T-Shirt,Fashion,699,2,15,UPI,Returned,1398,209.7,0
+O1427,13-09-2024,C034,Ritika Bose,Female,35,Kolkata,Running Shoes,Fashion,2999,3,0,UPI,Delivered,8997,0,8997
+O1348,14-09-2024,C004,Ananya Singh,Female,29,Delhi,Perfume,Beauty,1899,2,0,Debit Card,Delivered,3798,0,3798
+O0979,14-09-2024,C020,Nisha Sharma,Female,28,Mumbai,Face Wash,Beauty,449,2,10,Cash on Delivery,Delivered,898,89.8,808.2
+O0116,14-09-2024,C030,Divya Menon,Female,31,Kochi,Yoga Mat,Sports,899,2,15,Credit Card,Delivered,1798,269.7,1528.3
+O0994,15-09-2024,C022,Tanya Gupta,Female,26,Bangalore,Power Bank,Electronics,1499,1,10,Cash on Delivery,Delivered,1499,149.9,1349.1
+O0578,15-09-2024,C006,Neha Kapoor,Female,27,Pune,Bedsheet Set,Home & Kitchen,1999,3,5,Credit Card,Delivered,5997,299.85,5697.15
+O1158,16-09-2024,C008,Sneha Reddy,Female,26,Hyderabad,Casual Hoodie,Fashion,1799,5,0,Cash on Delivery,Delivered,8995,0,8995
+O0419,17-09-2024,C026,Aditi Malhotra,Female,29,Delhi,Backpack,Accessories,1799,2,10,UPI,Delivered,3598,359.8,3238.2
+O0527,17-09-2024,C015,Rohan Kapoor,Male,27,Delhi,Running Shoes,Fashion,2999,2,10,Cash on Delivery,Delivered,5998,599.8,5398.2
+O0548,18-09-2024,C033,Yash Thakur,Male,28,Lucknow,Coffee Mug,Home & Kitchen,399,1,10,UPI,Delivered,399,39.9,359.1
+O0022,21-09-2024,C024,Riya Kapoor,Female,25,Hyderabad,Laptop Stand,Electronics,1299,1,0,UPI,Delivered,1299,0,1299
+O0115,21-09-2024,C011,Rahul Khanna,Male,33,Pune,Bedsheet Set,Home & Kitchen,1999,2,10,Credit Card,Cancelled,3998,399.8,0
+O0910,22-09-2024,C025,Siddharth Jain,Male,37,Mumbai,Bluetooth Headphones,Electronics,1999,2,20,Net Banking,Delivered,3998,799.6,3198.4
+O0858,22-09-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Power Bank,Electronics,1499,4,0,Cash on Delivery,Delivered,5996,0,5996
+O1302,22-09-2024,C025,Siddharth Jain,Male,37,Mumbai,Study Table,Furniture,5999,2,5,UPI,Delivered,11998,599.9,11398.1
+O0190,23-09-2024,C034,Ritika Bose,Female,35,Kolkata,Sunglasses,Accessories,999,1,5,UPI,Delivered,999,49.95,949.05
+O0184,24-09-2024,C018,Simran Kaur,Female,23,Delhi,Yoga Mat,Sports,899,4,5,UPI,Delivered,3596,179.8,3416.2
+O0478,24-09-2024,C032,Sakshi Jain,Female,33,Indore,Water Bottle,Home & Kitchen,499,1,0,Debit Card,Delivered,499,0,499
+O1474,25-09-2024,C039,Ishaan Roy,Male,36,Bangalore,Wireless Mouse,Electronics,799,1,0,UPI,Cancelled,799,0,0
+O0068,27-09-2024,C016,Isha Gupta,Female,34,Pune,Sunglasses,Accessories,999,1,0,UPI,Delivered,999,0,999
+O0839,28-09-2024,C008,Sneha Reddy,Female,26,Hyderabad,Wireless Mouse,Electronics,799,4,10,UPI,Delivered,3196,319.6,2876.4
+O0308,28-09-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Protein Shaker,Sports,599,2,10,Credit Card,Cancelled,1198,119.8,0
+O0875,01-10-2024,C044,Nandini Paul,Female,25,Kolkata,Backpack,Accessories,1799,2,15,UPI,Delivered,3598,539.7,3058.3
+O0180,01-10-2024,C004,Ananya Singh,Female,29,Delhi,Leather Jacket,Fashion,4999,1,5,Debit Card,Delivered,4999,249.95,4749.05
+O0798,02-10-2024,C025,Siddharth Jain,Male,37,Mumbai,Cricket Bat,Sports,2499,1,15,Credit Card,Delivered,2499,374.85,2124.15
+O0891,03-10-2024,C045,Gaurav Singh,Male,43,Noida,Power Bank,Electronics,1499,2,10,UPI,Delivered,2998,299.8,2698.2
+O0590,04-10-2024,C036,Palak Arora,Female,22,Delhi,Perfume,Beauty,1899,2,15,UPI,Delivered,3798,569.7,3228.3
+O0059,04-10-2024,C028,Shreya Das,Female,27,Kolkata,Casual Hoodie,Fashion,1799,1,20,Cash on Delivery,Delivered,1799,359.8,1439.2
+O1104,04-10-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Leather Jacket,Fashion,4999,2,5,Debit Card,Delivered,9998,499.9,9498.1
+O0037,04-10-2024,C035,Dev Malhotra,Male,41,Chandigarh,Mechanical Keyboard,Electronics,2499,1,5,Cash on Delivery,Delivered,2499,124.95,2374.05
+O1489,04-10-2024,C024,Riya Kapoor,Female,25,Hyderabad,Bookshelf,Furniture,4499,1,10,UPI,Delivered,4499,449.9,4049.1
+O0756,06-10-2024,C015,Rohan Kapoor,Male,27,Delhi,Cotton T-Shirt,Fashion,699,1,10,UPI,Delivered,699,69.9,629.1
+O0752,07-10-2024,C023,Mohit Arora,Male,30,Pune,Laptop Stand,Electronics,1299,2,20,Credit Card,Delivered,2598,519.6,2078.4
+O0012,08-10-2024,C003,Rohan Gupta,Male,25,Bangalore,Bedsheet Set,Home & Kitchen,1999,1,0,Credit Card,Cancelled,1999,0,0
+O0779,08-10-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Smart Watch,Electronics,3999,2,5,UPI,Delivered,7998,399.9,7598.1
+O0431,10-10-2024,C001,Aarav Sharma,Male,28,Delhi,Casual Hoodie,Fashion,1799,1,15,Credit Card,Delivered,1799,269.85,1529.15
+O0073,11-10-2024,C034,Ritika Bose,Female,35,Kolkata,Water Bottle,Home & Kitchen,499,4,15,Debit Card,Delivered,1996,299.4,1696.6
+O0865,13-10-2024,C038,Muskan Ali,Female,28,Hyderabad,Notebook,Stationery,199,2,5,UPI,Delivered,398,19.9,378.1
+O0279,14-10-2024,C009,Karan Malhotra,Male,40,Delhi,Formal Shirt,Fashion,1299,1,20,UPI,Delivered,1299,259.8,1039.2
+O0225,14-10-2024,C015,Rohan Kapoor,Male,27,Delhi,Wireless Mouse,Electronics,799,4,10,Cash on Delivery,Delivered,3196,319.6,2876.4
+O0372,15-10-2024,C012,Pooja Nair,Female,30,Bangalore,Notebook,Stationery,199,1,10,Credit Card,Delivered,199,19.9,179.1
+O0267,15-10-2024,C021,Rajat Verma,Male,42,Delhi,Perfume,Beauty,1899,2,15,UPI,Returned,3798,569.7,0
+O0508,16-10-2024,C039,Ishaan Roy,Male,36,Bangalore,Running Shoes,Fashion,2999,4,15,Credit Card,Delivered,11996,1799.4,10196.6
+O0252,16-10-2024,C006,Neha Kapoor,Female,27,Pune,Bedsheet Set,Home & Kitchen,1999,2,10,UPI,Delivered,3998,399.8,3598.2
+O1496,17-10-2024,C041,Pranav Rao,Male,26,Chennai,Cotton T-Shirt,Fashion,699,2,20,UPI,Delivered,1398,279.6,1118.4
+O0338,17-10-2024,C047,Abhishek Das,Male,34,Bangalore,Study Table,Furniture,5999,4,5,Credit Card,Delivered,23996,1199.8,22796.2
+O0965,17-10-2024,C030,Divya Menon,Female,31,Kochi,Travel Bag,Accessories,3299,1,20,Credit Card,Delivered,3299,659.8,2639.2
+O0326,18-10-2024,C037,Kabir Sethi,Male,30,Mumbai,Table Lamp,Home & Kitchen,1499,1,15,Credit Card,Returned,1499,224.85,0
+O0517,19-10-2024,C050,Kriti Sinha,Female,26,Mumbai,Face Wash,Beauty,449,1,5,UPI,Delivered,449,22.45,426.55
+O0242,19-10-2024,C035,Dev Malhotra,Male,41,Chandigarh,Leather Jacket,Fashion,4999,1,0,Credit Card,Delivered,4999,0,4999
+O0592,22-10-2024,C012,Pooja Nair,Female,30,Bangalore,Bookshelf,Furniture,4499,2,10,Credit Card,Delivered,8998,899.8,8098.2
+O0201,23-10-2024,C038,Muskan Ali,Female,28,Hyderabad,Office Chair,Furniture,7999,3,10,UPI,Delivered,23997,2399.7,21597.3
+O1279,24-10-2024,C007,Arjun Patel,Male,31,Ahmedabad,Casual Hoodie,Fashion,1799,1,5,Credit Card,Delivered,1799,89.95,1709.05
+O0737,24-10-2024,C035,Dev Malhotra,Male,41,Chandigarh,Casual Hoodie,Fashion,1799,2,0,Net Banking,Delivered,3598,0,3598
+O0480,24-10-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Power Bank,Electronics,1499,1,0,UPI,Delivered,1499,0,1499
+O1089,24-10-2024,C007,Arjun Patel,Male,31,Ahmedabad,Face Wash,Beauty,449,1,0,Debit Card,Delivered,449,0,449
+O0753,24-10-2024,C041,Pranav Rao,Male,26,Chennai,Pen Set,Stationery,299,2,5,Debit Card,Delivered,598,29.9,568.1
+O0897,24-10-2024,C050,Kriti Sinha,Female,26,Mumbai,Protein Shaker,Sports,599,1,10,UPI,Delivered,599,59.9,539.1
+O0287,27-10-2024,C014,Meera Shah,Female,36,Ahmedabad,Water Bottle,Home & Kitchen,499,5,5,Net Banking,Delivered,2495,124.75,2370.25
+O0692,28-10-2024,C038,Muskan Ali,Female,28,Hyderabad,Smart Watch,Electronics,3999,1,15,UPI,Delivered,3999,599.85,3399.15
+O0711,28-10-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Casual Hoodie,Fashion,1799,3,5,Net Banking,Delivered,5397,269.85,5127.15
+O1250,29-10-2024,C035,Dev Malhotra,Male,41,Chandigarh,Leather Jacket,Fashion,4999,2,5,UPI,Delivered,9998,499.9,9498.1
+O0509,29-10-2024,C026,Aditi Malhotra,Female,29,Delhi,Water Bottle,Home & Kitchen,499,3,5,UPI,Cancelled,1497,74.85,0
+O1016,31-10-2024,C012,Pooja Nair,Female,30,Bangalore,Notebook,Stationery,199,1,10,UPI,Delivered,199,19.9,179.1
+O1060,31-10-2024,C036,Palak Arora,Female,22,Delhi,Cricket Bat,Sports,2499,2,0,Debit Card,Delivered,4998,0,4998
+O1064,01-11-2024,C017,Varun Singh,Male,38,Hyderabad,Power Bank,Electronics,1499,3,0,UPI,Delivered,4497,0,4497
+O0270,01-11-2024,C011,Rahul Khanna,Male,33,Pune,Face Wash,Beauty,449,4,10,UPI,Delivered,1796,179.6,1616.4
+O0137,03-11-2024,C042,Sonal Mishra,Female,38,Delhi,Bluetooth Headphones,Electronics,1999,3,15,UPI,Delivered,5997,899.55,5097.45
+O0212,03-11-2024,C042,Sonal Mishra,Female,38,Delhi,Bedsheet Set,Home & Kitchen,1999,3,10,Debit Card,Delivered,5997,599.7,5397.3
+O1494,04-11-2024,C013,Aditya Joshi,Male,29,Mumbai,Notebook,Stationery,199,1,0,UPI,Delivered,199,0,199
+O0306,06-11-2024,C049,Samar Bhatia,Male,31,Delhi,Running Shoes,Fashion,2999,1,10,Debit Card,Delivered,2999,299.9,2699.1
+O0851,07-11-2024,C012,Pooja Nair,Female,30,Bangalore,Yoga Mat,Sports,899,3,15,UPI,Delivered,2697,404.55,2292.45
+O1322,07-11-2024,C023,Mohit Arora,Male,30,Pune,Perfume,Beauty,1899,3,0,Credit Card,Delivered,5697,0,5697
+O0539,09-11-2024,C027,Manish Kumar,Male,34,Jaipur,Bedsheet Set,Home & Kitchen,1999,1,5,UPI,Delivered,1999,99.95,1899.05
+O0514,09-11-2024,C003,Rohan Gupta,Male,25,Bangalore,Notebook,Stationery,199,2,0,UPI,Delivered,398,0,398
+O1290,09-11-2024,C015,Rohan Kapoor,Male,27,Delhi,Perfume,Beauty,1899,1,0,Net Banking,Delivered,1899,0,1899
+O0239,10-11-2024,C004,Ananya Singh,Female,29,Delhi,Perfume,Beauty,1899,1,10,Credit Card,Delivered,1899,189.9,1709.1
+O0357,10-11-2024,C025,Siddharth Jain,Male,37,Mumbai,Sunglasses,Accessories,999,1,10,Debit Card,Delivered,999,99.9,899.1
+O1455,13-11-2024,C027,Manish Kumar,Male,34,Jaipur,Table Lamp,Home & Kitchen,1499,1,15,Credit Card,Cancelled,1499,224.85,0
+O1343,13-11-2024,C004,Ananya Singh,Female,29,Delhi,Bedsheet Set,Home & Kitchen,1999,1,10,Net Banking,Delivered,1999,199.9,1799.1
+O0278,13-11-2024,C009,Karan Malhotra,Male,40,Delhi,Yoga Mat,Sports,899,3,5,Cash on Delivery,Delivered,2697,134.85,2562.15
+O1473,18-11-2024,C039,Ishaan Roy,Male,36,Bangalore,Protein Shaker,Sports,599,1,0,UPI,Delivered,599,0,599
+O0538,18-11-2024,C044,Nandini Paul,Female,25,Kolkata,Laptop Stand,Electronics,1299,2,0,Cash on Delivery,Delivered,2598,0,2598
+O1218,18-11-2024,C038,Muskan Ali,Female,28,Hyderabad,Coffee Mug,Home & Kitchen,399,2,5,Credit Card,Delivered,798,39.9,758.1
+O0096,19-11-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Notebook,Stationery,199,1,15,UPI,Delivered,199,29.85,169.15
+O0216,20-11-2024,C034,Ritika Bose,Female,35,Kolkata,Mechanical Keyboard,Electronics,2499,3,10,UPI,Delivered,7497,749.7,6747.3
+O0005,20-11-2024,C014,Meera Shah,Female,36,Ahmedabad,Protein Shaker,Sports,599,1,5,UPI,Delivered,599,29.95,569.05
+O0515,22-11-2024,C024,Riya Kapoor,Female,25,Hyderabad,Wireless Mouse,Electronics,799,3,0,Credit Card,Delivered,2397,0,2397
+O1027,22-11-2024,C020,Nisha Sharma,Female,28,Mumbai,Smart Watch,Electronics,3999,1,5,Debit Card,Delivered,3999,199.95,3799.05
+O0341,22-11-2024,C042,Sonal Mishra,Female,38,Delhi,Sunglasses,Accessories,999,1,10,Debit Card,Returned,999,99.9,0
+O0828,23-11-2024,C013,Aditya Joshi,Male,29,Mumbai,Formal Shirt,Fashion,1299,4,5,UPI,Delivered,5196,259.8,4936.2
+O0208,23-11-2024,C025,Siddharth Jain,Male,37,Mumbai,Pen Set,Stationery,299,2,0,UPI,Delivered,598,0,598
+O0571,23-11-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Perfume,Beauty,1899,2,10,Credit Card,Delivered,3798,379.8,3418.2
+O1078,25-11-2024,C033,Yash Thakur,Male,28,Lucknow,Study Table,Furniture,5999,3,0,Credit Card,Delivered,17997,0,17997
+O0911,25-11-2024,C002,Priya Verma,Female,32,Mumbai,Mechanical Keyboard,Electronics,2499,1,10,UPI,Delivered,2499,249.9,2249.1
+O0197,26-11-2024,C020,Nisha Sharma,Female,28,Mumbai,Cricket Bat,Sports,2499,1,10,Debit Card,Delivered,2499,249.9,2249.1
+O1126,27-11-2024,C032,Sakshi Jain,Female,33,Indore,Running Shoes,Fashion,2999,3,10,Credit Card,Delivered,8997,899.7,8097.3
+O0827,30-11-2024,C044,Nandini Paul,Female,25,Kolkata,Formal Shirt,Fashion,1299,1,5,Cash on Delivery,Returned,1299,64.95,0
+O0683,01-12-2024,C048,Ira Chawla,Female,30,Chandigarh,Face Wash,Beauty,449,1,15,Credit Card,Delivered,449,67.35,381.65
+O1317,01-12-2024,C018,Simran Kaur,Female,23,Delhi,Bluetooth Headphones,Electronics,1999,1,0,Debit Card,Delivered,1999,0,1999
+O0856,01-12-2024,C028,Shreya Das,Female,27,Kolkata,Coffee Mug,Home & Kitchen,399,2,0,UPI,Delivered,798,0,798
+O0693,03-12-2024,C018,Simran Kaur,Female,23,Delhi,Study Table,Furniture,5999,1,5,Debit Card,Delivered,5999,299.95,5699.05
+O0773,04-12-2024,C019,Akash Jain,Male,31,Chennai,Wireless Mouse,Electronics,799,2,0,UPI,Delivered,1598,0,1598
+O0421,04-12-2024,C001,Aarav Sharma,Male,28,Delhi,Wireless Mouse,Electronics,799,3,20,UPI,Delivered,2397,479.4,1917.6
+O0415,04-12-2024,C032,Sakshi Jain,Female,33,Indore,Bedsheet Set,Home & Kitchen,1999,3,10,Debit Card,Delivered,5997,599.7,5397.3
+O1018,04-12-2024,C017,Varun Singh,Male,38,Hyderabad,Water Bottle,Home & Kitchen,499,3,5,Debit Card,Delivered,1497,74.85,1422.15
+O0206,04-12-2024,C007,Arjun Patel,Male,31,Ahmedabad,Bedsheet Set,Home & Kitchen,1999,5,0,UPI,Delivered,9995,0,9995
+O1140,05-12-2024,C021,Rajat Verma,Male,42,Delhi,Travel Bag,Accessories,3299,1,0,Net Banking,Delivered,3299,0,3299
+O0512,05-12-2024,C035,Dev Malhotra,Male,41,Chandigarh,Laptop Stand,Electronics,1299,3,0,Credit Card,Delivered,3897,0,3897
+O1311,06-12-2024,C006,Neha Kapoor,Female,27,Pune,Smart Watch,Electronics,3999,3,0,Debit Card,Delivered,11997,0,11997
+O0316,06-12-2024,C003,Rohan Gupta,Male,25,Bangalore,Pen Set,Stationery,299,2,5,Cash on Delivery,Delivered,598,29.9,568.1
+O1388,07-12-2024,C045,Gaurav Singh,Male,43,Noida,Water Bottle,Home & Kitchen,499,1,10,Cash on Delivery,Returned,499,49.9,0
+O0292,07-12-2024,C026,Aditi Malhotra,Female,29,Delhi,Face Wash,Beauty,449,4,10,UPI,Delivered,1796,179.6,1616.4
+O0973,07-12-2024,C001,Aarav Sharma,Male,28,Delhi,Leather Jacket,Fashion,4999,1,20,UPI,Delivered,4999,999.8,3999.2
+O1142,08-12-2024,C029,Nikhil Bansal,Male,39,Gurgaon,Yoga Mat,Sports,899,3,10,UPI,Delivered,2697,269.7,2427.3
+O0358,09-12-2024,C006,Neha Kapoor,Female,27,Pune,Bookshelf,Furniture,4499,1,5,UPI,Delivered,4499,224.95,4274.05
+O0293,10-12-2024,C046,Tanvi Kapoor,Female,27,Gurgaon,Bluetooth Headphones,Electronics,1999,4,10,UPI,Delivered,7996,799.6,7196.4
+O0676,12-12-2024,C038,Muskan Ali,Female,28,Hyderabad,Casual Hoodie,Fashion,1799,4,0,UPI,Delivered,7196,0,7196
+O1430,12-12-2024,C001,Aarav Sharma,Male,28,Delhi,Backpack,Accessories,1799,2,20,Net Banking,Delivered,3598,719.6,2878.4
+O0384,14-12-2024,C047,Abhishek Das,Male,34,Bangalore,USB Cable,Electronics,299,1,5,Credit Card,Delivered,299,14.95,284.05
+O0523,17-12-2024,C031,Harsh Agarwal,Male,24,Jaipur,Coffee Mug,Home & Kitchen,399,1,10,Cash on Delivery,Delivered,399,39.9,359.1
+O0825,17-12-2024,C003,Rohan Gupta,Male,25,Bangalore,Formal Shirt,Fashion,1299,2,10,UPI,Delivered,2598,259.8,2338.2
+O0659,18-12-2024,C050,Kriti Sinha,Female,26,Mumbai,Notebook,Stationery,199,2,10,Debit Card,Delivered,398,39.8,358.2
+O0406,19-12-2024,C004,Ananya Singh,Female,29,Delhi,Coffee Mug,Home & Kitchen,399,2,5,Net Banking,Delivered,798,39.9,758.1
+O0999,20-12-2024,C013,Aditya Joshi,Male,29,Mumbai,Power Bank,Electronics,1499,1,0,UPI,Delivered,1499,0,1499
+O0057,20-12-2024,C050,Kriti Sinha,Female,26,Mumbai,Running Shoes,Fashion,2999,2,5,Credit Card,Returned,5998,299.9,0
+O0852,20-12-2024,C031,Harsh Agarwal,Male,24,Jaipur,Smart Watch,Electronics,3999,2,10,UPI,Delivered,7998,799.8,7198.2
+O0477,21-12-2024,C002,Priya Verma,Female,32,Mumbai,Yoga Mat,Sports,899,4,5,UPI,Delivered,3596,179.8,3416.2
+O1366,22-12-2024,C034,Ritika Bose,Female,35,Kolkata,Travel Bag,Accessories,3299,2,5,Debit Card,Delivered,6598,329.9,6268.1
+O1000,22-12-2024,C038,Muskan Ali,Female,28,Hyderabad,Casual Hoodie,Fashion,1799,1,5,UPI,Delivered,1799,89.95,1709.05
+O1023,23-12-2024,C040,Ayesha Khan,Female,32,Pune,Sunglasses,Accessories,999,3,0,Credit Card,Delivered,2997,0,2997
+O1486,24-12-2024,C037,Kabir Sethi,Male,30,Mumbai,Casual Hoodie,Fashion,1799,1,0,UPI,Delivered,1799,0,1799
+O0179,25-12-2024,C008,Sneha Reddy,Female,26,Hyderabad,Pen Set,Stationery,299,3,15,Net Banking,Delivered,897,134.55,762.45
+O1147,26-12-2024,C041,Pranav Rao,Male,26,Chennai,Bookshelf,Furniture,4499,1,10,Credit Card,Cancelled,4499,449.9,0
+O0030,26-12-2024,C043,Rishabh Jain,Male,29,Ahmedabad,Pen Set,Stationery,299,1,5,Debit Card,Delivered,299,14.95,284.05
+O1212,28-12-2024,C033,Yash Thakur,Male,28,Lucknow,Running Shoes,Fashion,2999,1,10,UPI,Delivered,2999,299.9,2699.1
+O0009,28-12-2024,C011,Rahul Khanna,Male,33,Pune,Casual Hoodie,Fashion,1799,1,0,Debit Card,Cancelled,1799,0,0
+O1477,29-12-2024,C026,Aditi Malhotra,Female,29,Delhi,Cricket Bat,Sports,2499,5,10,Credit Card,Delivered,12495,1249.5,11245.5
+O1432,29-12-2024,C001,Aarav Sharma,Male,28,Delhi,Face Wash,Beauty,449,1,20,Net Banking,Delivered,449,89.8,359.2
+O1013,30-12-2024,C042,Sonal Mishra,Female,38,Delhi,Notebook,Stationery,199,2,10,Credit Card,Delivered,398,39.8,358.2
+O0484,31-12-2024,C040,Ayesha Khan,Female,32,Pune,Bedsheet Set,Home & Kitchen,1999,1,5,UPI,Delivered,1999,99.95,1899.05
+O1476,31-12-2024,C020,Nisha Sharma,Female,28,Mumbai,Wireless Mouse,Electronics,799,3,20,UPI,Delivered,2397,479.4,1917.6
+O0413,03-01-2025,C041,Pranav Rao,Male,26,Chennai,Sunglasses,Accessories,999,3,10,Net Banking,Delivered,2997,299.7,2697.3
+O0942,04-01-2025,C014,Meera Shah,Female,36,Ahmedabad,USB Cable,Electronics,299,1,10,Credit Card,Delivered,299,29.9,269.1
+O0864,05-01-2025,C004,Ananya Singh,Female,29,Delhi,Wireless Mouse,Electronics,799,1,0,Credit Card,Delivered,799,0,799
+O0337,05-01-2025,C030,Divya Menon,Female,31,Kochi,Water Bottle,Home & Kitchen,499,1,5,Credit Card,Cancelled,499,24.95,0
+O0905,05-01-2025,C031,Harsh Agarwal,Male,24,Jaipur,Smart Watch,Electronics,3999,1,0,Net Banking,Delivered,3999,0,3999
+O0397,05-01-2025,C004,Ananya Singh,Female,29,Delhi,Perfume,Beauty,1899,4,5,Credit Card,Delivered,7596,379.8,7216.2
+O1296,06-01-2025,C031,Harsh Agarwal,Male,24,Jaipur,Bluetooth Headphones,Electronics,1999,1,0,Credit Card,Delivered,1999,0,1999
+O1121,07-01-2025,C044,Nandini Paul,Female,25,Kolkata,Backpack,Accessories,1799,3,10,Debit Card,Delivered,5397,539.7,4857.3
+O0754,07-01-2025,C048,Ira Chawla,Female,30,Chandigarh,Running Shoes,Fashion,2999,4,5,Debit Card,Delivered,11996,599.8,11396.2
+O1325,07-01-2025,C021,Rajat Verma,Male,42,Delhi,Wireless Mouse,Electronics,799,3,20,Debit Card,Delivered,2397,479.4,1917.6
+O0817,07-01-2025,C012,Pooja Nair,Female,30,Bangalore,Office Chair,Furniture,7999,4,0,Credit Card,Delivered,31996,0,31996
+O0418,08-01-2025,C006,Neha Kapoor,Female,27,Pune,Backpack,Accessories,1799,1,5,UPI,Cancelled,1799,89.95,0
+O1108,08-01-2025,C040,Ayesha Khan,Female,32,Pune,Face Wash,Beauty,449,2,20,Cash on Delivery,Delivered,898,179.6,718.4
+O1080,08-01-2025,C018,Simran Kaur,Female,23,Delhi,Cricket Bat,Sports,2499,4,0,Debit Card,Delivered,9996,0,9996
+O1151,09-01-2025,C038,Muskan Ali,Female,28,Hyderabad,Cotton T-Shirt,Fashion,699,2,0,Credit Card,Delivered,1398,0,1398
+O0972,09-01-2025,C033,Yash Thakur,Male,28,Lucknow,Mechanical Keyboard,Electronics,2499,1,10,Credit Card,Delivered,2499,249.9,2249.1
+O0007,10-01-2025,C036,Palak Arora,Female,22,Delhi,Leather Jacket,Fashion,4999,2,10,UPI,Delivered,9998,999.8,8998.2
+O0925,11-01-2025,C007,Arjun Patel,Male,31,Ahmedabad,Table Lamp,Home & Kitchen,1499,3,20,Credit Card,Delivered,4497,899.4,3597.6
+O0015,11-01-2025,C038,Muskan Ali,Female,28,Hyderabad,Notebook,Stationery,199,1,20,UPI,Delivered,199,39.8,159.2
+O0162,12-01-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Denim Jeans,Fashion,1499,1,10,Net Banking,Delivered,1499,149.9,1349.1
+O1054,13-01-2025,C020,Nisha Sharma,Female,28,Mumbai,Backpack,Accessories,1799,4,10,UPI,Delivered,7196,719.6,6476.4
+O1374,13-01-2025,C041,Pranav Rao,Male,26,Chennai,Bluetooth Headphones,Electronics,1999,4,10,Cash on Delivery,Delivered,7996,799.6,7196.4
+O0245,14-01-2025,C041,Pranav Rao,Male,26,Chennai,Notebook,Stationery,199,2,10,UPI,Delivered,398,39.8,358.2
+O0580,14-01-2025,C039,Ishaan Roy,Male,36,Bangalore,Study Table,Furniture,5999,2,0,UPI,Delivered,11998,0,11998
+O1131,14-01-2025,C010,Kavya Iyer,Female,24,Chennai,Backpack,Accessories,1799,1,0,Credit Card,Delivered,1799,0,1799
+O0947,15-01-2025,C004,Ananya Singh,Female,29,Delhi,Bookshelf,Furniture,4499,3,0,Debit Card,Delivered,13497,0,13497
+O1398,16-01-2025,C024,Riya Kapoor,Female,25,Hyderabad,Leather Jacket,Fashion,4999,1,0,UPI,Delivered,4999,0,4999
+O0630,16-01-2025,C037,Kabir Sethi,Male,30,Mumbai,Coffee Mug,Home & Kitchen,399,3,20,UPI,Delivered,1197,239.4,957.6
+O1338,17-01-2025,C028,Shreya Das,Female,27,Kolkata,Formal Shirt,Fashion,1299,3,15,Debit Card,Delivered,3897,584.55,3312.45
+O0906,18-01-2025,C042,Sonal Mishra,Female,38,Delhi,Bluetooth Headphones,Electronics,1999,2,20,Credit Card,Delivered,3998,799.6,3198.4
+O0274,19-01-2025,C017,Varun Singh,Male,38,Hyderabad,Cricket Bat,Sports,2499,3,5,Credit Card,Delivered,7497,374.85,7122.15
+O0152,19-01-2025,C009,Karan Malhotra,Male,40,Delhi,Bedsheet Set,Home & Kitchen,1999,2,15,UPI,Delivered,3998,599.7,3398.3
+O1421,19-01-2025,C036,Palak Arora,Female,22,Delhi,Casual Hoodie,Fashion,1799,1,10,UPI,Cancelled,1799,179.9,0
+O1024,20-01-2025,C009,Karan Malhotra,Male,40,Delhi,Face Wash,Beauty,449,1,10,Cash on Delivery,Delivered,449,44.9,404.1
+O1003,20-01-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Study Table,Furniture,5999,2,0,UPI,Delivered,11998,0,11998
+O0100,25-01-2025,C016,Isha Gupta,Female,34,Pune,Leather Jacket,Fashion,4999,2,5,Debit Card,Delivered,9998,499.9,9498.1
+O1451,25-01-2025,C032,Sakshi Jain,Female,33,Indore,Sunglasses,Accessories,999,4,10,UPI,Delivered,3996,399.6,3596.4
+O0255,25-01-2025,C024,Riya Kapoor,Female,25,Hyderabad,Water Bottle,Home & Kitchen,499,2,20,Cash on Delivery,Delivered,998,199.6,798.4
+O0919,27-01-2025,C027,Manish Kumar,Male,34,Jaipur,Power Bank,Electronics,1499,2,5,UPI,Cancelled,2998,149.9,0
+O1472,30-01-2025,C004,Ananya Singh,Female,29,Delhi,Bedsheet Set,Home & Kitchen,1999,2,0,UPI,Delivered,3998,0,3998
+O0455,01-02-2025,C045,Gaurav Singh,Male,43,Noida,Laptop Stand,Electronics,1299,2,10,Credit Card,Delivered,2598,259.8,2338.2
+O1133,01-02-2025,C006,Neha Kapoor,Female,27,Pune,Running Shoes,Fashion,2999,2,5,UPI,Delivered,5998,299.9,5698.1
+O0951,02-02-2025,C004,Ananya Singh,Female,29,Delhi,Bluetooth Headphones,Electronics,1999,1,5,UPI,Delivered,1999,99.95,1899.05
+O0447,02-02-2025,C005,Vikram Mehta,Male,35,Mumbai,Coffee Mug,Home & Kitchen,399,1,10,UPI,Delivered,399,39.9,359.1
+O0564,02-02-2025,C047,Abhishek Das,Male,34,Bangalore,Bluetooth Headphones,Electronics,1999,3,0,Net Banking,Delivered,5997,0,5997
+O0717,04-02-2025,C001,Aarav Sharma,Male,28,Delhi,Water Bottle,Home & Kitchen,499,1,15,UPI,Delivered,499,74.85,424.15
+O0318,05-02-2025,C042,Sonal Mishra,Female,38,Delhi,Pen Set,Stationery,299,5,5,Net Banking,Delivered,1495,74.75,1420.25
+O1287,06-02-2025,C004,Ananya Singh,Female,29,Delhi,USB Cable,Electronics,299,2,0,Debit Card,Delivered,598,0,598
+O1051,06-02-2025,C032,Sakshi Jain,Female,33,Indore,Water Bottle,Home & Kitchen,499,2,0,Credit Card,Delivered,998,0,998
+O0491,07-02-2025,C025,Siddharth Jain,Male,37,Mumbai,Casual Hoodie,Fashion,1799,1,5,Debit Card,Delivered,1799,89.95,1709.05
+O0089,07-02-2025,C044,Nandini Paul,Female,25,Kolkata,Travel Bag,Accessories,3299,1,10,Debit Card,Delivered,3299,329.9,2969.1
+O1354,07-02-2025,C012,Pooja Nair,Female,30,Bangalore,Backpack,Accessories,1799,3,20,UPI,Delivered,5397,1079.4,4317.6
+O0977,08-02-2025,C038,Muskan Ali,Female,28,Hyderabad,Protein Shaker,Sports,599,1,5,Credit Card,Cancelled,599,29.95,0
+O1491,08-02-2025,C007,Arjun Patel,Male,31,Ahmedabad,Leather Jacket,Fashion,4999,1,5,Credit Card,Delivered,4999,249.95,4749.05
+O0644,09-02-2025,C034,Ritika Bose,Female,35,Kolkata,Running Shoes,Fashion,2999,5,0,Cash on Delivery,Delivered,14995,0,14995
+O0373,09-02-2025,C016,Isha Gupta,Female,34,Pune,Formal Shirt,Fashion,1299,1,10,Net Banking,Delivered,1299,129.9,1169.1
+O0920,09-02-2025,C007,Arjun Patel,Male,31,Ahmedabad,Bedsheet Set,Home & Kitchen,1999,3,0,UPI,Delivered,5997,0,5997
+O0643,10-02-2025,C037,Kabir Sethi,Male,30,Mumbai,Power Bank,Electronics,1499,2,5,Cash on Delivery,Delivered,2998,149.9,2848.1
+O0377,11-02-2025,C028,Shreya Das,Female,27,Kolkata,Bedsheet Set,Home & Kitchen,1999,1,20,Credit Card,Delivered,1999,399.8,1599.2
+O0132,11-02-2025,C049,Samar Bhatia,Male,31,Delhi,Water Bottle,Home & Kitchen,499,2,0,Debit Card,Delivered,998,0,998
+O0859,15-02-2025,C050,Kriti Sinha,Female,26,Mumbai,Face Wash,Beauty,449,1,10,UPI,Delivered,449,44.9,404.1
+O0035,15-02-2025,C004,Ananya Singh,Female,29,Delhi,Power Bank,Electronics,1499,1,5,Cash on Delivery,Cancelled,1499,74.95,0
+O0370,17-02-2025,C026,Aditi Malhotra,Female,29,Delhi,Formal Shirt,Fashion,1299,3,0,Cash on Delivery,Delivered,3897,0,3897
+O0362,17-02-2025,C018,Simran Kaur,Female,23,Delhi,USB Cable,Electronics,299,2,10,UPI,Delivered,598,59.8,538.2
+O0284,17-02-2025,C040,Ayesha Khan,Female,32,Pune,Protein Shaker,Sports,599,1,10,Net Banking,Delivered,599,59.9,539.1
+O0367,18-02-2025,C034,Ritika Bose,Female,35,Kolkata,Power Bank,Electronics,1499,1,0,UPI,Delivered,1499,0,1499
+O0808,18-02-2025,C011,Rahul Khanna,Male,33,Pune,Notebook,Stationery,199,1,0,Cash on Delivery,Delivered,199,0,199
+O0079,18-02-2025,C045,Gaurav Singh,Male,43,Noida,Wireless Mouse,Electronics,799,2,15,Credit Card,Delivered,1598,239.7,1358.3
+O0146,20-02-2025,C007,Arjun Patel,Male,31,Ahmedabad,Denim Jeans,Fashion,1499,2,5,UPI,Returned,2998,149.9,0
+O1355,21-02-2025,C030,Divya Menon,Female,31,Kochi,Perfume,Beauty,1899,1,10,UPI,Delivered,1899,189.9,1709.1
+O0220,21-02-2025,C019,Akash Jain,Male,31,Chennai,Protein Shaker,Sports,599,2,5,UPI,Delivered,1198,59.9,1138.1
+O0468,22-02-2025,C032,Sakshi Jain,Female,33,Indore,Wireless Mouse,Electronics,799,2,0,UPI,Delivered,1598,0,1598
+O1310,22-02-2025,C033,Yash Thakur,Male,28,Lucknow,Water Bottle,Home & Kitchen,499,2,10,Net Banking,Delivered,998,99.8,898.2
+O0142,22-02-2025,C012,Pooja Nair,Female,30,Bangalore,Bluetooth Headphones,Electronics,1999,2,0,UPI,Cancelled,3998,0,0
+O0423,22-02-2025,C020,Nisha Sharma,Female,28,Mumbai,USB Cable,Electronics,299,3,10,Net Banking,Delivered,897,89.7,807.3
+O0077,23-02-2025,C010,Kavya Iyer,Female,24,Chennai,Denim Jeans,Fashion,1499,2,10,Credit Card,Delivered,2998,299.8,2698.2
+O0422,23-02-2025,C005,Vikram Mehta,Male,35,Mumbai,Denim Jeans,Fashion,1499,1,10,Credit Card,Delivered,1499,149.9,1349.1
+O0395,24-02-2025,C009,Karan Malhotra,Male,40,Delhi,Coffee Mug,Home & Kitchen,399,1,5,Net Banking,Delivered,399,19.95,379.05
+O0565,28-02-2025,C018,Simran Kaur,Female,23,Delhi,Face Wash,Beauty,449,2,5,Cash on Delivery,Delivered,898,44.9,853.1
+O1446,28-02-2025,C015,Rohan Kapoor,Male,27,Delhi,Pen Set,Stationery,299,1,10,Cash on Delivery,Delivered,299,29.9,269.1
+O0490,01-03-2025,C001,Aarav Sharma,Male,28,Delhi,Mechanical Keyboard,Electronics,2499,1,5,Credit Card,Delivered,2499,124.95,2374.05
+O1254,01-03-2025,C005,Vikram Mehta,Male,35,Mumbai,Travel Bag,Accessories,3299,1,0,UPI,Delivered,3299,0,3299
+O0240,02-03-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Laptop Stand,Electronics,1299,1,0,Credit Card,Delivered,1299,0,1299
+O0209,02-03-2025,C022,Tanya Gupta,Female,26,Bangalore,Smart Watch,Electronics,3999,1,10,Net Banking,Delivered,3999,399.9,3599.1
+O0233,03-03-2025,C003,Rohan Gupta,Male,25,Bangalore,Backpack,Accessories,1799,5,0,Cash on Delivery,Delivered,8995,0,8995
+O0500,04-03-2025,C006,Neha Kapoor,Female,27,Pune,Backpack,Accessories,1799,1,15,Credit Card,Delivered,1799,269.85,1529.15
+O0587,04-03-2025,C009,Karan Malhotra,Male,40,Delhi,Smart Watch,Electronics,3999,2,10,Cash on Delivery,Delivered,7998,799.8,7198.2
+O1483,04-03-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Protein Shaker,Sports,599,1,20,Net Banking,Delivered,599,119.8,479.2
+O1096,05-03-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Laptop Stand,Electronics,1299,2,5,Debit Card,Delivered,2598,129.9,2468.1
+O0617,05-03-2025,C017,Varun Singh,Male,38,Hyderabad,Pen Set,Stationery,299,2,5,Credit Card,Delivered,598,29.9,568.1
+O0777,06-03-2025,C001,Aarav Sharma,Male,28,Delhi,Bluetooth Headphones,Electronics,1999,2,10,Credit Card,Cancelled,3998,399.8,0
+O0534,06-03-2025,C027,Manish Kumar,Male,34,Jaipur,Notebook,Stationery,199,2,5,Cash on Delivery,Returned,398,19.9,0
+O0728,07-03-2025,C014,Meera Shah,Female,36,Ahmedabad,Study Table,Furniture,5999,2,0,Debit Card,Delivered,11998,0,11998
+O1403,07-03-2025,C026,Aditi Malhotra,Female,29,Delhi,Bookshelf,Furniture,4499,1,20,UPI,Delivered,4499,899.8,3599.2
+O0833,08-03-2025,C011,Rahul Khanna,Male,33,Pune,Coffee Mug,Home & Kitchen,399,1,0,UPI,Delivered,399,0,399
+O1049,09-03-2025,C021,Rajat Verma,Male,42,Delhi,Formal Shirt,Fashion,1299,3,10,UPI,Cancelled,3897,389.7,0
+O0718,09-03-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Cricket Bat,Sports,2499,3,0,Debit Card,Delivered,7497,0,7497
+O1029,10-03-2025,C021,Rajat Verma,Male,42,Delhi,Notebook,Stationery,199,1,0,Debit Card,Delivered,199,0,199
+O1251,11-03-2025,C022,Tanya Gupta,Female,26,Bangalore,Coffee Mug,Home & Kitchen,399,5,0,Credit Card,Delivered,1995,0,1995
+O0436,11-03-2025,C035,Dev Malhotra,Male,41,Chandigarh,Formal Shirt,Fashion,1299,2,10,Debit Card,Delivered,2598,259.8,2338.2
+O1271,11-03-2025,C035,Dev Malhotra,Male,41,Chandigarh,Cricket Bat,Sports,2499,1,10,UPI,Delivered,2499,249.9,2249.1
+O1346,12-03-2025,C023,Mohit Arora,Male,30,Pune,Protein Shaker,Sports,599,1,5,Debit Card,Delivered,599,29.95,569.05
+O0382,12-03-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Casual Hoodie,Fashion,1799,2,10,UPI,Delivered,3598,359.8,3238.2
+O0429,13-03-2025,C033,Yash Thakur,Male,28,Lucknow,Cotton T-Shirt,Fashion,699,1,0,Net Banking,Cancelled,699,0,0
+O0211,13-03-2025,C045,Gaurav Singh,Male,43,Noida,Sunglasses,Accessories,999,1,10,Credit Card,Delivered,999,99.9,899.1
+O0392,14-03-2025,C039,Ishaan Roy,Male,36,Bangalore,Notebook,Stationery,199,2,0,Debit Card,Delivered,398,0,398
+O0899,15-03-2025,C013,Aditya Joshi,Male,29,Mumbai,Table Lamp,Home & Kitchen,1499,1,5,Debit Card,Delivered,1499,74.95,1424.05
+O1393,17-03-2025,C041,Pranav Rao,Male,26,Chennai,Coffee Mug,Home & Kitchen,399,1,0,Debit Card,Cancelled,399,0,0
+O1347,17-03-2025,C013,Aditya Joshi,Male,29,Mumbai,Yoga Mat,Sports,899,1,0,Cash on Delivery,Delivered,899,0,899
+O0082,17-03-2025,C035,Dev Malhotra,Male,41,Chandigarh,Wireless Mouse,Electronics,799,2,10,Credit Card,Delivered,1598,159.8,1438.2
+O0456,18-03-2025,C041,Pranav Rao,Male,26,Chennai,Face Wash,Beauty,449,1,5,Net Banking,Delivered,449,22.45,426.55
+O0705,20-03-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Running Shoes,Fashion,2999,1,5,Credit Card,Delivered,2999,149.95,2849.05
+O0800,21-03-2025,C016,Isha Gupta,Female,34,Pune,Bookshelf,Furniture,4499,5,0,Debit Card,Delivered,22495,0,22495
+O1009,22-03-2025,C044,Nandini Paul,Female,25,Kolkata,Smart Watch,Electronics,3999,1,10,UPI,Delivered,3999,399.9,3599.1
+O0349,23-03-2025,C023,Mohit Arora,Male,30,Pune,Running Shoes,Fashion,2999,1,20,UPI,Delivered,2999,599.8,2399.2
+O0359,23-03-2025,C050,Kriti Sinha,Female,26,Mumbai,Table Lamp,Home & Kitchen,1499,4,0,Cash on Delivery,Delivered,5996,0,5996
+O0193,24-03-2025,C023,Mohit Arora,Male,30,Pune,Bluetooth Headphones,Electronics,1999,3,0,Net Banking,Delivered,5997,0,5997
+O0698,26-03-2025,C037,Kabir Sethi,Male,30,Mumbai,Mechanical Keyboard,Electronics,2499,1,0,UPI,Delivered,2499,0,2499
+O0163,26-03-2025,C023,Mohit Arora,Male,30,Pune,Mechanical Keyboard,Electronics,2499,1,20,Cash on Delivery,Cancelled,2499,499.8,0
+O0256,26-03-2025,C005,Vikram Mehta,Male,35,Mumbai,Leather Jacket,Fashion,4999,5,10,Debit Card,Delivered,24995,2499.5,22495.5
+O0356,26-03-2025,C010,Kavya Iyer,Female,24,Chennai,Protein Shaker,Sports,599,4,0,Credit Card,Delivered,2396,0,2396
+O0666,26-03-2025,C023,Mohit Arora,Male,30,Pune,Protein Shaker,Sports,599,2,15,Debit Card,Delivered,1198,179.7,1018.3
+O1093,27-03-2025,C016,Isha Gupta,Female,34,Pune,Protein Shaker,Sports,599,1,15,Debit Card,Delivered,599,89.85,509.15
+O0674,29-03-2025,C018,Simran Kaur,Female,23,Delhi,Protein Shaker,Sports,599,1,5,Credit Card,Delivered,599,29.95,569.05
+O0070,29-03-2025,C025,Siddharth Jain,Male,37,Mumbai,Study Table,Furniture,5999,1,10,Debit Card,Delivered,5999,599.9,5399.1
+O0380,29-03-2025,C040,Ayesha Khan,Female,32,Pune,Mechanical Keyboard,Electronics,2499,4,0,UPI,Delivered,9996,0,9996
+O1425,31-03-2025,C050,Kriti Sinha,Female,26,Mumbai,Notebook,Stationery,199,2,0,Credit Card,Delivered,398,0,398
+O0694,31-03-2025,C024,Riya Kapoor,Female,25,Hyderabad,Casual Hoodie,Fashion,1799,1,0,Credit Card,Delivered,1799,0,1799
+O0670,31-03-2025,C047,Abhishek Das,Male,34,Bangalore,Notebook,Stationery,199,2,5,Credit Card,Delivered,398,19.9,378.1
+O0448,01-04-2025,C034,Ritika Bose,Female,35,Kolkata,Mechanical Keyboard,Electronics,2499,1,5,Cash on Delivery,Delivered,2499,124.95,2374.05
+O0917,03-04-2025,C022,Tanya Gupta,Female,26,Bangalore,Bedsheet Set,Home & Kitchen,1999,1,20,UPI,Delivered,1999,399.8,1599.2
+O1139,03-04-2025,C019,Akash Jain,Male,31,Chennai,Pen Set,Stationery,299,3,10,Debit Card,Delivered,897,89.7,807.3
+O1379,04-04-2025,C039,Ishaan Roy,Male,36,Bangalore,Laptop Stand,Electronics,1299,2,0,Credit Card,Delivered,2598,0,2598
+O0411,05-04-2025,C050,Kriti Sinha,Female,26,Mumbai,Bluetooth Headphones,Electronics,1999,2,0,Credit Card,Cancelled,3998,0,0
+O0607,06-04-2025,C035,Dev Malhotra,Male,41,Chandigarh,Water Bottle,Home & Kitchen,499,1,0,UPI,Delivered,499,0,499
+O0545,06-04-2025,C041,Pranav Rao,Male,26,Chennai,Pen Set,Stationery,299,1,5,Credit Card,Delivered,299,14.95,284.05
+O0863,07-04-2025,C040,Ayesha Khan,Female,32,Pune,Bookshelf,Furniture,4499,3,15,Net Banking,Delivered,13497,2024.55,11472.45
+O0081,08-04-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Sunglasses,Accessories,999,2,10,Net Banking,Cancelled,1998,199.8,0
+O0388,09-04-2025,C015,Rohan Kapoor,Male,27,Delhi,Bedsheet Set,Home & Kitchen,1999,2,0,Credit Card,Delivered,3998,0,3998
+O1107,09-04-2025,C031,Harsh Agarwal,Male,24,Jaipur,Office Chair,Furniture,7999,3,20,Credit Card,Delivered,23997,4799.4,19197.6
+O1359,10-04-2025,C035,Dev Malhotra,Male,41,Chandigarh,Power Bank,Electronics,1499,3,0,Credit Card,Delivered,4497,0,4497
+O0944,10-04-2025,C050,Kriti Sinha,Female,26,Mumbai,USB Cable,Electronics,299,1,15,Debit Card,Delivered,299,44.85,254.15
+O0304,10-04-2025,C013,Aditya Joshi,Male,29,Mumbai,Power Bank,Electronics,1499,3,5,Debit Card,Delivered,4497,224.85,4272.15
+O1057,12-04-2025,C021,Rajat Verma,Male,42,Delhi,Laptop Stand,Electronics,1299,3,0,Debit Card,Delivered,3897,0,3897
+O0052,12-04-2025,C050,Kriti Sinha,Female,26,Mumbai,Water Bottle,Home & Kitchen,499,5,10,UPI,Cancelled,2495,249.5,0
+O0518,13-04-2025,C014,Meera Shah,Female,36,Ahmedabad,Travel Bag,Accessories,3299,2,10,Cash on Delivery,Delivered,6598,659.8,5938.2
+O1046,13-04-2025,C005,Vikram Mehta,Male,35,Mumbai,Laptop Stand,Electronics,1299,3,10,Credit Card,Cancelled,3897,389.7,0
+O1172,14-04-2025,C010,Kavya Iyer,Female,24,Chennai,Leather Jacket,Fashion,4999,2,0,UPI,Returned,9998,0,0
+O0161,15-04-2025,C032,Sakshi Jain,Female,33,Indore,Table Lamp,Home & Kitchen,1499,4,0,UPI,Delivered,5996,0,5996
+O1157,16-04-2025,C008,Sneha Reddy,Female,26,Hyderabad,Table Lamp,Home & Kitchen,1499,1,5,Credit Card,Delivered,1499,74.95,1424.05
+O0661,16-04-2025,C039,Ishaan Roy,Male,36,Bangalore,Laptop Stand,Electronics,1299,1,0,UPI,Delivered,1299,0,1299
+O0582,18-04-2025,C032,Sakshi Jain,Female,33,Indore,USB Cable,Electronics,299,1,10,Net Banking,Delivered,299,29.9,269.1
+O1063,20-04-2025,C039,Ishaan Roy,Male,36,Bangalore,Sunglasses,Accessories,999,3,0,Debit Card,Delivered,2997,0,2997
+O0408,22-04-2025,C009,Karan Malhotra,Male,40,Delhi,Protein Shaker,Sports,599,4,20,UPI,Delivered,2396,479.2,1916.8
+O1041,24-04-2025,C041,Pranav Rao,Male,26,Chennai,Cotton T-Shirt,Fashion,699,1,0,Debit Card,Delivered,699,0,699
+O0589,25-04-2025,C009,Karan Malhotra,Male,40,Delhi,USB Cable,Electronics,299,2,15,Cash on Delivery,Delivered,598,89.7,508.3
+O1058,25-04-2025,C032,Sakshi Jain,Female,33,Indore,Study Table,Furniture,5999,4,0,Net Banking,Delivered,23996,0,23996
+O0541,26-04-2025,C034,Ritika Bose,Female,35,Kolkata,Leather Jacket,Fashion,4999,1,15,UPI,Delivered,4999,749.85,4249.15
+O0130,29-04-2025,C005,Vikram Mehta,Male,35,Mumbai,Running Shoes,Fashion,2999,1,10,UPI,Delivered,2999,299.9,2699.1
+O0434,30-04-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Bookshelf,Furniture,4499,1,5,Credit Card,Delivered,4499,224.95,4274.05
+O0078,01-05-2025,C035,Dev Malhotra,Male,41,Chandigarh,Office Chair,Furniture,7999,1,10,Debit Card,Delivered,7999,799.9,7199.1
+O1123,01-05-2025,C007,Arjun Patel,Male,31,Ahmedabad,Bedsheet Set,Home & Kitchen,1999,4,5,Credit Card,Delivered,7996,399.8,7596.2
+O0108,02-05-2025,C016,Isha Gupta,Female,34,Pune,Smart Watch,Electronics,3999,2,10,Credit Card,Delivered,7998,799.8,7198.2
+O0264,03-05-2025,C014,Meera Shah,Female,36,Ahmedabad,Protein Shaker,Sports,599,2,0,Credit Card,Cancelled,1198,0,0
+O0593,04-05-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Yoga Mat,Sports,899,2,15,Cash on Delivery,Delivered,1798,269.7,1528.3
+O1247,05-05-2025,C013,Aditya Joshi,Male,29,Mumbai,Pen Set,Stationery,299,1,5,Credit Card,Delivered,299,14.95,284.05
+O1256,06-05-2025,C008,Sneha Reddy,Female,26,Hyderabad,USB Cable,Electronics,299,2,0,Cash on Delivery,Returned,598,0,0
+O0378,06-05-2025,C033,Yash Thakur,Male,28,Lucknow,Travel Bag,Accessories,3299,2,10,Cash on Delivery,Delivered,6598,659.8,5938.2
+O0924,07-05-2025,C020,Nisha Sharma,Female,28,Mumbai,Casual Hoodie,Fashion,1799,1,0,Credit Card,Delivered,1799,0,1799
+O0160,08-05-2025,C024,Riya Kapoor,Female,25,Hyderabad,Sunglasses,Accessories,999,2,10,Debit Card,Cancelled,1998,199.8,0
+O0446,08-05-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Cricket Bat,Sports,2499,1,0,UPI,Cancelled,2499,0,0
+O0655,09-05-2025,C033,Yash Thakur,Male,28,Lucknow,Sunglasses,Accessories,999,3,10,Net Banking,Delivered,2997,299.7,2697.3
+O0186,09-05-2025,C014,Meera Shah,Female,36,Ahmedabad,Notebook,Stationery,199,2,0,UPI,Delivered,398,0,398
+O0092,10-05-2025,C022,Tanya Gupta,Female,26,Bangalore,Wireless Mouse,Electronics,799,3,0,Debit Card,Returned,2397,0,0
+O1159,13-05-2025,C010,Kavya Iyer,Female,24,Chennai,Bedsheet Set,Home & Kitchen,1999,1,15,UPI,Cancelled,1999,299.85,0
+O0084,13-05-2025,C025,Siddharth Jain,Male,37,Mumbai,Running Shoes,Fashion,2999,1,0,Credit Card,Delivered,2999,0,2999
+O1146,15-05-2025,C050,Kriti Sinha,Female,26,Mumbai,Leather Jacket,Fashion,4999,5,0,Credit Card,Delivered,24995,0,24995
+O1074,16-05-2025,C025,Siddharth Jain,Male,37,Mumbai,Yoga Mat,Sports,899,2,0,UPI,Delivered,1798,0,1798
+O1498,16-05-2025,C049,Samar Bhatia,Male,31,Delhi,Sunglasses,Accessories,999,1,10,UPI,Delivered,999,99.9,899.1
+O1004,18-05-2025,C023,Mohit Arora,Male,30,Pune,Notebook,Stationery,199,1,0,Net Banking,Delivered,199,0,199
+O0975,18-05-2025,C047,Abhishek Das,Male,34,Bangalore,Laptop Stand,Electronics,1299,2,5,Credit Card,Delivered,2598,129.9,2468.1
+O0321,18-05-2025,C047,Abhishek Das,Male,34,Bangalore,Water Bottle,Home & Kitchen,499,2,10,UPI,Delivered,998,99.8,898.2
+O1305,18-05-2025,C025,Siddharth Jain,Male,37,Mumbai,Travel Bag,Accessories,3299,2,0,Cash on Delivery,Delivered,6598,0,6598
+O1152,20-05-2025,C006,Neha Kapoor,Female,27,Pune,Mechanical Keyboard,Electronics,2499,3,5,Credit Card,Delivered,7497,374.85,7122.15
+O1370,21-05-2025,C017,Varun Singh,Male,38,Hyderabad,Sunglasses,Accessories,999,4,0,Debit Card,Delivered,3996,0,3996
+O0940,21-05-2025,C033,Yash Thakur,Male,28,Lucknow,Mechanical Keyboard,Electronics,2499,2,5,Cash on Delivery,Delivered,4998,249.9,4748.1
+O0869,21-05-2025,C030,Divya Menon,Female,31,Kochi,Laptop Stand,Electronics,1299,2,5,Cash on Delivery,Delivered,2598,129.9,2468.1
+O0562,22-05-2025,C044,Nandini Paul,Female,25,Kolkata,Formal Shirt,Fashion,1299,2,0,UPI,Delivered,2598,0,2598
+O1294,22-05-2025,C033,Yash Thakur,Male,28,Lucknow,Bluetooth Headphones,Electronics,1999,2,0,UPI,Delivered,3998,0,3998
+O0846,23-05-2025,C004,Ananya Singh,Female,29,Delhi,Bluetooth Headphones,Electronics,1999,1,10,Debit Card,Cancelled,1999,199.9,0
+O0821,24-05-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Leather Jacket,Fashion,4999,2,0,Net Banking,Delivered,9998,0,9998
+O0328,24-05-2025,C041,Pranav Rao,Male,26,Chennai,Sunglasses,Accessories,999,2,0,Debit Card,Delivered,1998,0,1998
+O0049,25-05-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Water Bottle,Home & Kitchen,499,2,0,Debit Card,Cancelled,998,0,0
+O0405,26-05-2025,C023,Mohit Arora,Male,30,Pune,Perfume,Beauty,1899,1,0,UPI,Delivered,1899,0,1899
+O1067,28-05-2025,C026,Aditi Malhotra,Female,29,Delhi,Table Lamp,Home & Kitchen,1499,2,0,UPI,Returned,2998,0,0
+O0182,28-05-2025,C015,Rohan Kapoor,Male,27,Delhi,Bedsheet Set,Home & Kitchen,1999,3,20,Debit Card,Delivered,5997,1199.4,4797.6
+O0194,29-05-2025,C021,Rajat Verma,Male,42,Delhi,Coffee Mug,Home & Kitchen,399,2,10,UPI,Delivered,798,79.8,718.2
+O0065,30-05-2025,C019,Akash Jain,Male,31,Chennai,Cotton T-Shirt,Fashion,699,3,10,Credit Card,Delivered,2097,209.7,1887.3
+O1497,30-05-2025,C024,Riya Kapoor,Female,25,Hyderabad,Bedsheet Set,Home & Kitchen,1999,5,0,UPI,Delivered,9995,0,9995
+O0364,01-06-2025,C006,Neha Kapoor,Female,27,Pune,Power Bank,Electronics,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O1262,03-06-2025,C012,Pooja Nair,Female,30,Bangalore,Laptop Stand,Electronics,1299,2,15,Credit Card,Delivered,2598,389.7,2208.3
+O1114,03-06-2025,C001,Aarav Sharma,Male,28,Delhi,Smart Watch,Electronics,3999,5,10,Credit Card,Delivered,19995,1999.5,17995.5
+O1358,07-06-2025,C042,Sonal Mishra,Female,38,Delhi,Yoga Mat,Sports,899,1,0,Debit Card,Delivered,899,0,899
+O1227,07-06-2025,C040,Ayesha Khan,Female,32,Pune,Laptop Stand,Electronics,1299,3,0,Net Banking,Delivered,3897,0,3897
+O1106,07-06-2025,C044,Nandini Paul,Female,25,Kolkata,Smart Watch,Electronics,3999,2,0,UPI,Delivered,7998,0,7998
+O0887,09-06-2025,C034,Ritika Bose,Female,35,Kolkata,Perfume,Beauty,1899,1,15,Debit Card,Delivered,1899,284.85,1614.15
+O0862,09-06-2025,C044,Nandini Paul,Female,25,Kolkata,Leather Jacket,Fashion,4999,2,15,Credit Card,Returned,9998,1499.7,0
+O0244,09-06-2025,C023,Mohit Arora,Male,30,Pune,Table Lamp,Home & Kitchen,1499,1,20,UPI,Cancelled,1499,299.8,0
+O0713,09-06-2025,C041,Pranav Rao,Male,26,Chennai,Cricket Bat,Sports,2499,2,10,UPI,Delivered,4998,499.8,4498.2
+O0669,10-06-2025,C010,Kavya Iyer,Female,24,Chennai,Study Table,Furniture,5999,1,0,Debit Card,Delivered,5999,0,5999
+O1043,12-06-2025,C030,Divya Menon,Female,31,Kochi,Study Table,Furniture,5999,1,15,UPI,Delivered,5999,899.85,5099.15
+O0631,12-06-2025,C015,Rohan Kapoor,Male,27,Delhi,Yoga Mat,Sports,899,1,5,UPI,Delivered,899,44.95,854.05
+O0868,13-06-2025,C032,Sakshi Jain,Female,33,Indore,Sunglasses,Accessories,999,5,0,Cash on Delivery,Delivered,4995,0,4995
+O1335,13-06-2025,C025,Siddharth Jain,Male,37,Mumbai,Backpack,Accessories,1799,3,0,UPI,Delivered,5397,0,5397
+O0223,14-06-2025,C033,Yash Thakur,Male,28,Lucknow,USB Cable,Electronics,299,1,15,Cash on Delivery,Delivered,299,44.85,254.15
+O1170,14-06-2025,C002,Priya Verma,Female,32,Mumbai,Formal Shirt,Fashion,1299,1,0,Credit Card,Delivered,1299,0,1299
+O0437,14-06-2025,C020,Nisha Sharma,Female,28,Mumbai,Yoga Mat,Sports,899,2,10,UPI,Delivered,1798,179.8,1618.2
+O0736,15-06-2025,C003,Rohan Gupta,Male,25,Bangalore,Study Table,Furniture,5999,2,5,Credit Card,Delivered,11998,599.9,11398.1
+O0385,16-06-2025,C031,Harsh Agarwal,Male,24,Jaipur,Smart Watch,Electronics,3999,2,5,UPI,Delivered,7998,399.9,7598.1
+O0246,16-06-2025,C039,Ishaan Roy,Male,36,Bangalore,Sunglasses,Accessories,999,1,0,Credit Card,Delivered,999,0,999
+O0375,16-06-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Cotton T-Shirt,Fashion,699,3,10,Cash on Delivery,Delivered,2097,209.7,1887.3
+O1205,17-06-2025,C016,Isha Gupta,Female,34,Pune,Bluetooth Headphones,Electronics,1999,3,10,UPI,Delivered,5997,599.7,5397.3
+O1399,18-06-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Sunglasses,Accessories,999,1,5,Credit Card,Delivered,999,49.95,949.05
+O0207,18-06-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Office Chair,Furniture,7999,2,10,Net Banking,Delivered,15998,1599.8,14398.2
+O0135,20-06-2025,C007,Arjun Patel,Male,31,Ahmedabad,Perfume,Beauty,1899,1,15,UPI,Delivered,1899,284.85,1614.15
+O0402,22-06-2025,C003,Rohan Gupta,Male,25,Bangalore,Protein Shaker,Sports,599,2,20,Cash on Delivery,Delivered,1198,239.6,958.4
+O1207,24-06-2025,C004,Ananya Singh,Female,29,Delhi,Travel Bag,Accessories,3299,1,10,UPI,Delivered,3299,329.9,2969.1
+O1487,24-06-2025,C031,Harsh Agarwal,Male,24,Jaipur,Running Shoes,Fashion,2999,2,0,Credit Card,Delivered,5998,0,5998
+O0109,25-06-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Travel Bag,Accessories,3299,1,5,Credit Card,Delivered,3299,164.95,3134.05
+O0679,25-06-2025,C037,Kabir Sethi,Male,30,Mumbai,Running Shoes,Fashion,2999,4,5,Debit Card,Delivered,11996,599.8,11396.2
+O0710,26-06-2025,C048,Ira Chawla,Female,30,Chandigarh,Leather Jacket,Fashion,4999,2,0,UPI,Delivered,9998,0,9998
+O0188,26-06-2025,C006,Neha Kapoor,Female,27,Pune,Running Shoes,Fashion,2999,2,5,UPI,Delivered,5998,299.9,5698.1
+O0790,26-06-2025,C027,Manish Kumar,Male,34,Jaipur,Leather Jacket,Fashion,4999,2,10,Debit Card,Delivered,9998,999.8,8998.2
+O1288,27-06-2025,C016,Isha Gupta,Female,34,Pune,Travel Bag,Accessories,3299,2,0,Debit Card,Delivered,6598,0,6598
+O0466,27-06-2025,C005,Vikram Mehta,Male,35,Mumbai,Cotton T-Shirt,Fashion,699,3,0,Cash on Delivery,Delivered,2097,0,2097
+O1443,28-06-2025,C009,Karan Malhotra,Male,40,Delhi,Study Table,Furniture,5999,3,0,UPI,Delivered,17997,0,17997
+O1007,28-06-2025,C020,Nisha Sharma,Female,28,Mumbai,Sunglasses,Accessories,999,1,5,Credit Card,Returned,999,49.95,0
+O0974,28-06-2025,C047,Abhishek Das,Male,34,Bangalore,Laptop Stand,Electronics,1299,2,5,UPI,Delivered,2598,129.9,2468.1
+O0956,28-06-2025,C023,Mohit Arora,Male,30,Pune,Pen Set,Stationery,299,2,0,UPI,Delivered,598,0,598
+O1237,29-06-2025,C006,Neha Kapoor,Female,27,Pune,Leather Jacket,Fashion,4999,2,0,Credit Card,Delivered,9998,0,9998
+O0930,29-06-2025,C016,Isha Gupta,Female,34,Pune,Cricket Bat,Sports,2499,2,0,Debit Card,Delivered,4998,0,4998
+O0632,01-07-2025,C031,Harsh Agarwal,Male,24,Jaipur,Office Chair,Furniture,7999,1,0,UPI,Delivered,7999,0,7999
+O0847,02-07-2025,C045,Gaurav Singh,Male,43,Noida,Yoga Mat,Sports,899,2,0,Debit Card,Delivered,1798,0,1798
+O1141,02-07-2025,C045,Gaurav Singh,Male,43,Noida,Notebook,Stationery,199,2,15,Debit Card,Delivered,398,59.7,338.3
+O0074,02-07-2025,C033,Yash Thakur,Male,28,Lucknow,Pen Set,Stationery,299,3,10,UPI,Delivered,897,89.7,807.3
+O0250,02-07-2025,C017,Varun Singh,Male,38,Hyderabad,Yoga Mat,Sports,899,1,10,Net Banking,Delivered,899,89.9,809.1
+O0702,04-07-2025,C050,Kriti Sinha,Female,26,Mumbai,Cricket Bat,Sports,2499,3,5,Debit Card,Delivered,7497,374.85,7122.15
+O1362,04-07-2025,C012,Pooja Nair,Female,30,Bangalore,Wireless Mouse,Electronics,799,3,0,UPI,Delivered,2397,0,2397
+O0861,04-07-2025,C040,Ayesha Khan,Female,32,Pune,Coffee Mug,Home & Kitchen,399,1,10,Credit Card,Delivered,399,39.9,359.1
+O0576,06-07-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Bedsheet Set,Home & Kitchen,1999,1,5,Net Banking,Delivered,1999,99.95,1899.05
+O0032,07-07-2025,C013,Aditya Joshi,Male,29,Mumbai,Water Bottle,Home & Kitchen,499,1,0,Cash on Delivery,Delivered,499,0,499
+O1118,07-07-2025,C042,Sonal Mishra,Female,38,Delhi,Casual Hoodie,Fashion,1799,2,0,UPI,Delivered,3598,0,3598
+O0699,10-07-2025,C041,Pranav Rao,Male,26,Chennai,Smart Watch,Electronics,3999,2,0,Credit Card,Delivered,7998,0,7998
+O0706,11-07-2025,C038,Muskan Ali,Female,28,Hyderabad,Bookshelf,Furniture,4499,1,0,Debit Card,Delivered,4499,0,4499
+O1072,12-07-2025,C017,Varun Singh,Male,38,Hyderabad,Denim Jeans,Fashion,1499,4,5,Credit Card,Delivered,5996,299.8,5696.2
+O1266,12-07-2025,C021,Rajat Verma,Male,42,Delhi,Pen Set,Stationery,299,1,0,UPI,Delivered,299,0,299
+O1238,12-07-2025,C022,Tanya Gupta,Female,26,Bangalore,Pen Set,Stationery,299,2,5,UPI,Delivered,598,29.9,568.1
+O1161,15-07-2025,C037,Kabir Sethi,Male,30,Mumbai,Leather Jacket,Fashion,4999,4,10,Debit Card,Delivered,19996,1999.6,17996.4
+O0463,15-07-2025,C026,Aditi Malhotra,Female,29,Delhi,Perfume,Beauty,1899,2,5,UPI,Delivered,3798,189.9,3608.1
+O0458,16-07-2025,C021,Rajat Verma,Male,42,Delhi,Formal Shirt,Fashion,1299,1,0,Debit Card,Delivered,1299,0,1299
+O1185,16-07-2025,C017,Varun Singh,Male,38,Hyderabad,Protein Shaker,Sports,599,1,10,UPI,Delivered,599,59.9,539.1
+O0896,17-07-2025,C005,Vikram Mehta,Male,35,Mumbai,Backpack,Accessories,1799,4,0,Net Banking,Delivered,7196,0,7196
+O0438,17-07-2025,C028,Shreya Das,Female,27,Kolkata,Smart Watch,Electronics,3999,2,0,Debit Card,Delivered,7998,0,7998
+O1036,17-07-2025,C040,Ayesha Khan,Female,32,Pune,Bookshelf,Furniture,4499,2,5,Debit Card,Cancelled,8998,449.9,0
+O1299,17-07-2025,C030,Divya Menon,Female,31,Kochi,Leather Jacket,Fashion,4999,1,5,UPI,Delivered,4999,249.95,4749.05
+O0101,18-07-2025,C022,Tanya Gupta,Female,26,Bangalore,Casual Hoodie,Fashion,1799,1,0,UPI,Delivered,1799,0,1799
+O0301,19-07-2025,C022,Tanya Gupta,Female,26,Bangalore,Leather Jacket,Fashion,4999,5,5,Net Banking,Delivered,24995,1249.75,23745.25
+O0933,20-07-2025,C014,Meera Shah,Female,36,Ahmedabad,Travel Bag,Accessories,3299,1,5,UPI,Delivered,3299,164.95,3134.05
+O1014,20-07-2025,C018,Simran Kaur,Female,23,Delhi,USB Cable,Electronics,299,1,0,Debit Card,Delivered,299,0,299
+O0449,24-07-2025,C021,Rajat Verma,Male,42,Delhi,Bluetooth Headphones,Electronics,1999,1,0,UPI,Delivered,1999,0,1999
+O0229,25-07-2025,C016,Isha Gupta,Female,34,Pune,Pen Set,Stationery,299,1,10,Credit Card,Delivered,299,29.9,269.1
+O0583,25-07-2025,C026,Aditi Malhotra,Female,29,Delhi,Cotton T-Shirt,Fashion,699,3,0,Debit Card,Delivered,2097,0,2097
+O0400,25-07-2025,C019,Akash Jain,Male,31,Chennai,Power Bank,Electronics,1499,2,10,Credit Card,Delivered,2998,299.8,2698.2
+O0797,26-07-2025,C021,Rajat Verma,Male,42,Delhi,Perfume,Beauty,1899,3,5,Debit Card,Delivered,5697,284.85,5412.15
+O0542,26-07-2025,C027,Manish Kumar,Male,34,Jaipur,Coffee Mug,Home & Kitchen,399,1,15,UPI,Delivered,399,59.85,339.15
+O1155,26-07-2025,C032,Sakshi Jain,Female,33,Indore,Yoga Mat,Sports,899,1,10,UPI,Delivered,899,89.9,809.1
+O0042,27-07-2025,C005,Vikram Mehta,Male,35,Mumbai,Wireless Mouse,Electronics,799,2,5,Credit Card,Delivered,1598,79.9,1518.1
+O0750,28-07-2025,C037,Kabir Sethi,Male,30,Mumbai,Casual Hoodie,Fashion,1799,2,5,Cash on Delivery,Delivered,3598,179.9,3418.1
+O1135,28-07-2025,C027,Manish Kumar,Male,34,Jaipur,Laptop Stand,Electronics,1299,4,5,Net Banking,Delivered,5196,259.8,4936.2
+O0943,29-07-2025,C020,Nisha Sharma,Female,28,Mumbai,Power Bank,Electronics,1499,3,10,Credit Card,Delivered,4497,449.7,4047.3
+O1460,31-07-2025,C009,Karan Malhotra,Male,40,Delhi,Leather Jacket,Fashion,4999,1,15,Net Banking,Returned,4999,749.85,0
+O0680,01-08-2025,C050,Kriti Sinha,Female,26,Mumbai,Office Chair,Furniture,7999,3,15,UPI,Delivered,23997,3599.55,20397.45
+O0467,02-08-2025,C008,Sneha Reddy,Female,26,Hyderabad,Mechanical Keyboard,Electronics,2499,1,15,Debit Card,Delivered,2499,374.85,2124.15
+O1267,03-08-2025,C041,Pranav Rao,Male,26,Chennai,Yoga Mat,Sports,899,1,10,Credit Card,Delivered,899,89.9,809.1
+O1103,05-08-2025,C048,Ira Chawla,Female,30,Chandigarh,Sunglasses,Accessories,999,1,0,UPI,Delivered,999,0,999
+O1394,06-08-2025,C003,Rohan Gupta,Male,25,Bangalore,Travel Bag,Accessories,3299,3,10,UPI,Delivered,9897,989.7,8907.3
+O0158,08-08-2025,C042,Sonal Mishra,Female,38,Delhi,Bluetooth Headphones,Electronics,1999,4,0,UPI,Delivered,7996,0,7996
+O0450,08-08-2025,C040,Ayesha Khan,Female,32,Pune,Denim Jeans,Fashion,1499,1,20,Debit Card,Returned,1499,299.8,0
+O1180,09-08-2025,C001,Aarav Sharma,Male,28,Delhi,Face Wash,Beauty,449,4,10,UPI,Delivered,1796,179.6,1616.4
+O0637,09-08-2025,C019,Akash Jain,Male,31,Chennai,USB Cable,Electronics,299,2,0,UPI,Delivered,598,0,598
+O0501,10-08-2025,C017,Varun Singh,Male,38,Hyderabad,Office Chair,Furniture,7999,1,10,UPI,Delivered,7999,799.9,7199.1
+O0935,11-08-2025,C008,Sneha Reddy,Female,26,Hyderabad,Perfume,Beauty,1899,2,0,Cash on Delivery,Delivered,3798,0,3798
+O1329,14-08-2025,C036,Palak Arora,Female,22,Delhi,Perfume,Beauty,1899,1,5,Debit Card,Delivered,1899,94.95,1804.05
+O0017,16-08-2025,C025,Siddharth Jain,Male,37,Mumbai,Notebook,Stationery,199,2,20,UPI,Delivered,398,79.6,318.4
+O0849,17-08-2025,C006,Neha Kapoor,Female,27,Pune,Face Wash,Beauty,449,1,0,Debit Card,Delivered,449,0,449
+O1382,17-08-2025,C023,Mohit Arora,Male,30,Pune,Bedsheet Set,Home & Kitchen,1999,2,0,Net Banking,Delivered,3998,0,3998
+O1471,17-08-2025,C005,Vikram Mehta,Male,35,Mumbai,Face Wash,Beauty,449,2,10,Credit Card,Delivered,898,89.8,808.2
+O1120,17-08-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Sunglasses,Accessories,999,1,0,Net Banking,Delivered,999,0,999
+O1246,17-08-2025,C036,Palak Arora,Female,22,Delhi,Protein Shaker,Sports,599,2,5,UPI,Delivered,1198,59.9,1138.1
+O0876,18-08-2025,C030,Divya Menon,Female,31,Kochi,Bookshelf,Furniture,4499,2,0,Net Banking,Delivered,8998,0,8998
+O0641,19-08-2025,C024,Riya Kapoor,Female,25,Hyderabad,Notebook,Stationery,199,4,15,Debit Card,Delivered,796,119.4,676.6
+O0119,21-08-2025,C049,Samar Bhatia,Male,31,Delhi,Power Bank,Electronics,1499,2,5,Net Banking,Delivered,2998,149.9,2848.1
+O0273,21-08-2025,C042,Sonal Mishra,Female,38,Delhi,Sunglasses,Accessories,999,1,0,UPI,Delivered,999,0,999
+O0310,22-08-2025,C045,Gaurav Singh,Male,43,Noida,Water Bottle,Home & Kitchen,499,3,10,Debit Card,Delivered,1497,149.7,1347.3
+O0432,22-08-2025,C044,Nandini Paul,Female,25,Kolkata,Power Bank,Electronics,1499,4,10,UPI,Delivered,5996,599.6,5396.4
+O0286,23-08-2025,C033,Yash Thakur,Male,28,Lucknow,Protein Shaker,Sports,599,3,10,UPI,Delivered,1797,179.7,1617.3
+O0029,26-08-2025,C037,Kabir Sethi,Male,30,Mumbai,Coffee Mug,Home & Kitchen,399,1,5,UPI,Delivered,399,19.95,379.05
+O0330,27-08-2025,C049,Samar Bhatia,Male,31,Delhi,Water Bottle,Home & Kitchen,499,1,0,UPI,Delivered,499,0,499
+O1156,27-08-2025,C014,Meera Shah,Female,36,Ahmedabad,Office Chair,Furniture,7999,1,0,Net Banking,Delivered,7999,0,7999
+O0794,28-08-2025,C025,Siddharth Jain,Male,37,Mumbai,Study Table,Furniture,5999,1,0,Debit Card,Delivered,5999,0,5999
+O0177,29-08-2025,C044,Nandini Paul,Female,25,Kolkata,Travel Bag,Accessories,3299,1,10,UPI,Delivered,3299,329.9,2969.1
+O1324,31-08-2025,C024,Riya Kapoor,Female,25,Hyderabad,Office Chair,Furniture,7999,2,10,Debit Card,Delivered,15998,1599.8,14398.2
+O0983,01-09-2025,C017,Varun Singh,Male,38,Hyderabad,Backpack,Accessories,1799,5,10,Debit Card,Delivered,8995,899.5,8095.5
+O1217,01-09-2025,C013,Aditya Joshi,Male,29,Mumbai,Sunglasses,Accessories,999,2,20,UPI,Delivered,1998,399.6,1598.4
+O0766,01-09-2025,C022,Tanya Gupta,Female,26,Bangalore,Bluetooth Headphones,Electronics,1999,2,0,UPI,Delivered,3998,0,3998
+O1008,01-09-2025,C005,Vikram Mehta,Male,35,Mumbai,Laptop Stand,Electronics,1299,4,5,Debit Card,Delivered,5196,259.8,4936.2
+O1332,02-09-2025,C047,Abhishek Das,Male,34,Bangalore,Running Shoes,Fashion,2999,4,10,Net Banking,Delivered,11996,1199.6,10796.4
+O1463,03-09-2025,C038,Muskan Ali,Female,28,Hyderabad,Bluetooth Headphones,Electronics,1999,3,15,Credit Card,Delivered,5997,899.55,5097.45
+O0305,04-09-2025,C012,Pooja Nair,Female,30,Bangalore,USB Cable,Electronics,299,1,0,UPI,Delivered,299,0,299
+O0479,05-09-2025,C002,Priya Verma,Female,32,Mumbai,Bookshelf,Furniture,4499,1,15,UPI,Delivered,4499,674.85,3824.15
+O1342,06-09-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Coffee Mug,Home & Kitchen,399,2,0,Net Banking,Delivered,798,0,798
+O0968,07-09-2025,C008,Sneha Reddy,Female,26,Hyderabad,Cricket Bat,Sports,2499,4,0,UPI,Delivered,9996,0,9996
+O0648,08-09-2025,C044,Nandini Paul,Female,25,Kolkata,Study Table,Furniture,5999,1,0,UPI,Delivered,5999,0,5999
+O0470,08-09-2025,C027,Manish Kumar,Male,34,Jaipur,Laptop Stand,Electronics,1299,1,0,UPI,Delivered,1299,0,1299
+O1386,09-09-2025,C047,Abhishek Das,Male,34,Bangalore,USB Cable,Electronics,299,2,10,Credit Card,Delivered,598,59.8,538.2
+O0498,10-09-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Backpack,Accessories,1799,1,0,UPI,Delivered,1799,0,1799
+O1220,11-09-2025,C014,Meera Shah,Female,36,Ahmedabad,Denim Jeans,Fashion,1499,2,20,Debit Card,Delivered,2998,599.6,2398.4
+O1110,12-09-2025,C002,Priya Verma,Female,32,Mumbai,Cotton T-Shirt,Fashion,699,2,10,Debit Card,Delivered,1398,139.8,1258.2
+O0572,13-09-2025,C047,Abhishek Das,Male,34,Bangalore,Denim Jeans,Fashion,1499,1,10,Cash on Delivery,Delivered,1499,149.9,1349.1
+O1181,14-09-2025,C004,Ananya Singh,Female,29,Delhi,Travel Bag,Accessories,3299,1,0,Net Banking,Delivered,3299,0,3299
+O0855,14-09-2025,C036,Palak Arora,Female,22,Delhi,Power Bank,Electronics,1499,1,0,Credit Card,Delivered,1499,0,1499
+O0645,14-09-2025,C023,Mohit Arora,Male,30,Pune,Study Table,Furniture,5999,3,0,Credit Card,Cancelled,17997,0,0
+O0567,15-09-2025,C027,Manish Kumar,Male,34,Jaipur,Travel Bag,Accessories,3299,3,10,Credit Card,Delivered,9897,989.7,8907.3
+O0494,15-09-2025,C006,Neha Kapoor,Female,27,Pune,Formal Shirt,Fashion,1299,2,5,Debit Card,Delivered,2598,129.9,2468.1
+O0265,16-09-2025,C042,Sonal Mishra,Female,38,Delhi,Leather Jacket,Fashion,4999,1,10,Credit Card,Delivered,4999,499.9,4499.1
+O0872,16-09-2025,C003,Rohan Gupta,Male,25,Bangalore,Coffee Mug,Home & Kitchen,399,2,0,Debit Card,Delivered,798,0,798
+O0094,17-09-2025,C035,Dev Malhotra,Male,41,Chandigarh,Protein Shaker,Sports,599,2,10,UPI,Delivered,1198,119.8,1078.2
+O1176,18-09-2025,C027,Manish Kumar,Male,34,Jaipur,Bluetooth Headphones,Electronics,1999,1,10,UPI,Cancelled,1999,199.9,0
+O1326,19-09-2025,C015,Rohan Kapoor,Male,27,Delhi,Table Lamp,Home & Kitchen,1499,1,10,Credit Card,Delivered,1499,149.9,1349.1
+O1320,22-09-2025,C018,Simran Kaur,Female,23,Delhi,Travel Bag,Accessories,3299,2,0,Credit Card,Delivered,6598,0,6598
+O0629,22-09-2025,C013,Aditya Joshi,Male,29,Mumbai,Formal Shirt,Fashion,1299,2,10,Credit Card,Delivered,2598,259.8,2338.2
+O0612,23-09-2025,C033,Yash Thakur,Male,28,Lucknow,Office Chair,Furniture,7999,1,15,Credit Card,Delivered,7999,1199.85,6799.15
+O0036,23-09-2025,C019,Akash Jain,Male,31,Chennai,Pen Set,Stationery,299,1,0,Credit Card,Returned,299,0,0
+O0857,23-09-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Coffee Mug,Home & Kitchen,399,1,5,UPI,Delivered,399,19.95,379.05
+O0483,24-09-2025,C028,Shreya Das,Female,27,Kolkata,Bedsheet Set,Home & Kitchen,1999,2,0,Debit Card,Returned,3998,0,0
+O1397,25-09-2025,C027,Manish Kumar,Male,34,Jaipur,Smart Watch,Electronics,3999,1,10,Credit Card,Delivered,3999,399.9,3599.1
+O0346,26-09-2025,C031,Harsh Agarwal,Male,24,Jaipur,Sunglasses,Accessories,999,1,5,UPI,Delivered,999,49.95,949.05
+O0569,26-09-2025,C031,Harsh Agarwal,Male,24,Jaipur,Travel Bag,Accessories,3299,1,5,UPI,Delivered,3299,164.95,3134.05
+O1116,26-09-2025,C044,Nandini Paul,Female,25,Kolkata,Laptop Stand,Electronics,1299,1,0,Credit Card,Delivered,1299,0,1299
+O0138,26-09-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Laptop Stand,Electronics,1299,3,0,Debit Card,Delivered,3897,0,3897
+O0047,27-09-2025,C017,Varun Singh,Male,38,Hyderabad,Bookshelf,Furniture,4499,1,15,Debit Card,Delivered,4499,674.85,3824.15
+O1356,28-09-2025,C006,Neha Kapoor,Female,27,Pune,Smart Watch,Electronics,3999,2,15,Credit Card,Delivered,7998,1199.7,6798.3
+O1231,28-09-2025,C038,Muskan Ali,Female,28,Hyderabad,Laptop Stand,Electronics,1299,1,0,Debit Card,Delivered,1299,0,1299
+O0131,29-09-2025,C047,Abhishek Das,Male,34,Bangalore,Leather Jacket,Fashion,4999,3,5,UPI,Delivered,14997,749.85,14247.15
+O1154,29-09-2025,C029,Nikhil Bansal,Male,39,Gurgaon,Yoga Mat,Sports,899,2,5,Credit Card,Delivered,1798,89.9,1708.1
+O0497,02-10-2025,C036,Palak Arora,Female,22,Delhi,Face Wash,Beauty,449,1,5,UPI,Delivered,449,22.45,426.55
+O0105,02-10-2025,C009,Karan Malhotra,Male,40,Delhi,Backpack,Accessories,1799,1,0,Credit Card,Delivered,1799,0,1799
+O0099,02-10-2025,C042,Sonal Mishra,Female,38,Delhi,Yoga Mat,Sports,899,1,0,Credit Card,Delivered,899,0,899
+O1260,02-10-2025,C037,Kabir Sethi,Male,30,Mumbai,Laptop Stand,Electronics,1299,2,5,UPI,Delivered,2598,129.9,2468.1
+O1292,03-10-2025,C001,Aarav Sharma,Male,28,Delhi,Bluetooth Headphones,Electronics,1999,1,0,UPI,Delivered,1999,0,1999
+O1301,03-10-2025,C047,Abhishek Das,Male,34,Bangalore,Casual Hoodie,Fashion,1799,1,5,Debit Card,Delivered,1799,89.95,1709.05
+O0120,04-10-2025,C028,Shreya Das,Female,27,Kolkata,Backpack,Accessories,1799,4,5,UPI,Delivered,7196,359.8,6836.2
+O1333,04-10-2025,C041,Pranav Rao,Male,26,Chennai,Cricket Bat,Sports,2499,1,10,Net Banking,Delivered,2499,249.9,2249.1
+O1017,05-10-2025,C049,Samar Bhatia,Male,31,Delhi,Bookshelf,Furniture,4499,3,0,Credit Card,Delivered,13497,0,13497
+O0159,05-10-2025,C003,Rohan Gupta,Male,25,Bangalore,Leather Jacket,Fashion,4999,1,0,Credit Card,Delivered,4999,0,4999
+O0688,05-10-2025,C040,Ayesha Khan,Female,32,Pune,Formal Shirt,Fashion,1299,3,15,UPI,Delivered,3897,584.55,3312.45
+O1385,06-10-2025,C036,Palak Arora,Female,22,Delhi,Travel Bag,Accessories,3299,3,0,Debit Card,Cancelled,9897,0,0
+O0812,07-10-2025,C039,Ishaan Roy,Male,36,Bangalore,Laptop Stand,Electronics,1299,1,5,Credit Card,Delivered,1299,64.95,1234.05
+O1070,09-10-2025,C018,Simran Kaur,Female,23,Delhi,Leather Jacket,Fashion,4999,1,5,UPI,Delivered,4999,249.95,4749.05
+O1084,10-10-2025,C028,Shreya Das,Female,27,Kolkata,Smart Watch,Electronics,3999,1,5,Credit Card,Delivered,3999,199.95,3799.05
+O0398,10-10-2025,C036,Palak Arora,Female,22,Delhi,Bookshelf,Furniture,4499,1,5,Credit Card,Delivered,4499,224.95,4274.05
+O1402,11-10-2025,C032,Sakshi Jain,Female,33,Indore,Water Bottle,Home & Kitchen,499,3,10,Debit Card,Delivered,1497,149.7,1347.3
+O1391,11-10-2025,C004,Ananya Singh,Female,29,Delhi,Pen Set,Stationery,299,1,5,Net Banking,Delivered,299,14.95,284.05
+O1436,12-10-2025,C031,Harsh Agarwal,Male,24,Jaipur,Bluetooth Headphones,Electronics,1999,1,0,UPI,Delivered,1999,0,1999
+O0369,12-10-2025,C016,Isha Gupta,Female,34,Pune,Cricket Bat,Sports,2499,2,0,UPI,Delivered,4998,0,4998
+O0148,14-10-2025,C039,Ishaan Roy,Male,36,Bangalore,Cricket Bat,Sports,2499,3,15,UPI,Delivered,7497,1124.55,6372.45
+O1030,14-10-2025,C014,Meera Shah,Female,36,Ahmedabad,Formal Shirt,Fashion,1299,2,10,Debit Card,Delivered,2598,259.8,2338.2
+O1484,15-10-2025,C037,Kabir Sethi,Male,30,Mumbai,Backpack,Accessories,1799,1,0,UPI,Delivered,1799,0,1799
+O0916,15-10-2025,C007,Arjun Patel,Male,31,Ahmedabad,Smart Watch,Electronics,3999,2,10,UPI,Delivered,7998,799.8,7198.2
+O0741,15-10-2025,C013,Aditya Joshi,Male,29,Mumbai,Bookshelf,Furniture,4499,3,0,Credit Card,Delivered,13497,0,13497
+O0271,18-10-2025,C033,Yash Thakur,Male,28,Lucknow,Office Chair,Furniture,7999,3,5,Credit Card,Delivered,23997,1199.85,22797.15
+O0376,19-10-2025,C027,Manish Kumar,Male,34,Jaipur,Sunglasses,Accessories,999,1,0,UPI,Delivered,999,0,999
+O1194,21-10-2025,C018,Simran Kaur,Female,23,Delhi,Coffee Mug,Home & Kitchen,399,2,5,Credit Card,Delivered,798,39.9,758.1
+O1240,24-10-2025,C019,Akash Jain,Male,31,Chennai,Face Wash,Beauty,449,2,10,Net Banking,Delivered,898,89.8,808.2
+O0871,24-10-2025,C016,Isha Gupta,Female,34,Pune,Yoga Mat,Sports,899,1,15,UPI,Delivered,899,134.85,764.15
+O0472,25-10-2025,C032,Sakshi Jain,Female,33,Indore,Casual Hoodie,Fashion,1799,1,0,Credit Card,Delivered,1799,0,1799
+O1408,25-10-2025,C007,Arjun Patel,Male,31,Ahmedabad,Yoga Mat,Sports,899,2,0,Debit Card,Delivered,1798,0,1798
+O1467,27-10-2025,C049,Samar Bhatia,Male,31,Delhi,Power Bank,Electronics,1499,1,5,Net Banking,Delivered,1499,74.95,1424.05
+O0170,28-10-2025,C007,Arjun Patel,Male,31,Ahmedabad,Office Chair,Furniture,7999,1,10,Net Banking,Delivered,7999,799.9,7199.1
+O0325,28-10-2025,C004,Ananya Singh,Female,29,Delhi,USB Cable,Electronics,299,5,0,Credit Card,Cancelled,1495,0,0
+O1422,28-10-2025,C027,Manish Kumar,Male,34,Jaipur,Bookshelf,Furniture,4499,3,0,Net Banking,Delivered,13497,0,13497
+O0751,30-10-2025,C036,Palak Arora,Female,22,Delhi,Notebook,Stationery,199,1,0,Credit Card,Returned,199,0,0
+O1175,30-10-2025,C033,Yash Thakur,Male,28,Lucknow,Protein Shaker,Sports,599,1,0,Credit Card,Delivered,599,0,599
+O0765,30-10-2025,C049,Samar Bhatia,Male,31,Delhi,Table Lamp,Home & Kitchen,1499,1,5,UPI,Delivered,1499,74.95,1424.05
+O1184,30-10-2025,C014,Meera Shah,Female,36,Ahmedabad,Table Lamp,Home & Kitchen,1499,4,0,UPI,Delivered,5996,0,5996
+O1328,30-10-2025,C034,Ritika Bose,Female,35,Kolkata,Laptop Stand,Electronics,1299,1,5,Cash on Delivery,Delivered,1299,64.95,1234.05
+O0312,01-11-2025,C008,Sneha Reddy,Female,26,Hyderabad,Mechanical Keyboard,Electronics,2499,1,5,Cash on Delivery,Delivered,2499,124.95,2374.05
+O0345,01-11-2025,C001,Aarav Sharma,Male,28,Delhi,Cotton T-Shirt,Fashion,699,2,0,Net Banking,Delivered,1398,0,1398
+O0739,02-11-2025,C030,Divya Menon,Female,31,Kochi,Wireless Mouse,Electronics,799,1,0,Cash on Delivery,Delivered,799,0,799
+O0836,02-11-2025,C006,Neha Kapoor,Female,27,Pune,Office Chair,Furniture,7999,1,5,UPI,Delivered,7999,399.95,7599.05
+O0204,04-11-2025,C006,Neha Kapoor,Female,27,Pune,Table Lamp,Home & Kitchen,1499,1,5,Debit Card,Returned,1499,74.95,0
+O0232,05-11-2025,C034,Ritika Bose,Female,35,Kolkata,Water Bottle,Home & Kitchen,499,3,5,Cash on Delivery,Delivered,1497,74.85,1422.15
+O0020,05-11-2025,C041,Pranav Rao,Male,26,Chennai,Leather Jacket,Fashion,4999,2,0,Credit Card,Delivered,9998,0,9998
+O0853,06-11-2025,C037,Kabir Sethi,Male,30,Mumbai,USB Cable,Electronics,299,1,10,UPI,Delivered,299,29.9,269.1
+O0038,06-11-2025,C011,Rahul Khanna,Male,33,Pune,Mechanical Keyboard,Electronics,2499,1,0,Debit Card,Delivered,2499,0,2499
+O1086,07-11-2025,C011,Rahul Khanna,Male,33,Pune,Cricket Bat,Sports,2499,3,5,UPI,Delivered,7497,374.85,7122.15
+O0586,07-11-2025,C031,Harsh Agarwal,Male,24,Jaipur,Travel Bag,Accessories,3299,3,15,UPI,Delivered,9897,1484.55,8412.45
+O1232,07-11-2025,C005,Vikram Mehta,Male,35,Mumbai,Power Bank,Electronics,1499,1,15,Credit Card,Delivered,1499,224.85,1274.15
+O0128,08-11-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Leather Jacket,Fashion,4999,2,5,Credit Card,Delivered,9998,499.9,9498.1
+O0444,08-11-2025,C015,Rohan Kapoor,Male,27,Delhi,Cricket Bat,Sports,2499,1,15,UPI,Delivered,2499,374.85,2124.15
+O1304,09-11-2025,C047,Abhishek Das,Male,34,Bangalore,Casual Hoodie,Fashion,1799,2,10,UPI,Delivered,3598,359.8,3238.2
+O0280,09-11-2025,C022,Tanya Gupta,Female,26,Bangalore,Bookshelf,Furniture,4499,2,10,Cash on Delivery,Delivered,8998,899.8,8098.2
+O1182,11-11-2025,C041,Pranav Rao,Male,26,Chennai,Cotton T-Shirt,Fashion,699,1,0,UPI,Delivered,699,0,699
+O0689,12-11-2025,C012,Pooja Nair,Female,30,Bangalore,Protein Shaker,Sports,599,1,0,UPI,Delivered,599,0,599
+O0653,12-11-2025,C012,Pooja Nair,Female,30,Bangalore,Table Lamp,Home & Kitchen,1499,1,10,Credit Card,Delivered,1499,149.9,1349.1
+O0066,12-11-2025,C044,Nandini Paul,Female,25,Kolkata,Cotton T-Shirt,Fashion,699,2,15,UPI,Delivered,1398,209.7,1188.3
+O1445,13-11-2025,C019,Akash Jain,Male,31,Chennai,Smart Watch,Electronics,3999,3,5,UPI,Delivered,11997,599.85,11397.15
+O0625,15-11-2025,C027,Manish Kumar,Male,34,Jaipur,Laptop Stand,Electronics,1299,1,0,UPI,Delivered,1299,0,1299
+O1424,17-11-2025,C044,Nandini Paul,Female,25,Kolkata,Water Bottle,Home & Kitchen,499,5,0,Credit Card,Delivered,2495,0,2495
+O0997,17-11-2025,C007,Arjun Patel,Male,31,Ahmedabad,Mechanical Keyboard,Electronics,2499,2,5,UPI,Cancelled,4998,249.9,0
+O0462,17-11-2025,C023,Mohit Arora,Male,30,Pune,Notebook,Stationery,199,1,0,UPI,Delivered,199,0,199
+O0028,18-11-2025,C022,Tanya Gupta,Female,26,Bangalore,Bluetooth Headphones,Electronics,1999,1,10,UPI,Delivered,1999,199.9,1799.1
+O0646,19-11-2025,C015,Rohan Kapoor,Male,27,Delhi,Bluetooth Headphones,Electronics,1999,2,0,Credit Card,Delivered,3998,0,3998
+O0123,19-11-2025,C026,Aditi Malhotra,Female,29,Delhi,Perfume,Beauty,1899,3,0,Credit Card,Delivered,5697,0,5697
+O1028,20-11-2025,C028,Shreya Das,Female,27,Kolkata,Coffee Mug,Home & Kitchen,399,4,0,Credit Card,Delivered,1596,0,1596
+O0067,21-11-2025,C006,Neha Kapoor,Female,27,Pune,Leather Jacket,Fashion,4999,2,10,Net Banking,Delivered,9998,999.8,8998.2
+O0903,21-11-2025,C037,Kabir Sethi,Male,30,Mumbai,Wireless Mouse,Electronics,799,2,10,Credit Card,Delivered,1598,159.8,1438.2
+O1352,21-11-2025,C004,Ananya Singh,Female,29,Delhi,Smart Watch,Electronics,3999,2,5,Debit Card,Returned,7998,399.9,0
+O1127,21-11-2025,C010,Kavya Iyer,Female,24,Chennai,Perfume,Beauty,1899,2,0,Net Banking,Delivered,3798,0,3798
+O0387,22-11-2025,C048,Ira Chawla,Female,30,Chandigarh,Denim Jeans,Fashion,1499,1,0,Net Banking,Delivered,1499,0,1499
+O0222,22-11-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Perfume,Beauty,1899,3,0,UPI,Delivered,5697,0,5697
+O1481,23-11-2025,C011,Rahul Khanna,Male,33,Pune,Bookshelf,Furniture,4499,5,10,Debit Card,Delivered,22495,2249.5,20245.5
+O0505,24-11-2025,C033,Yash Thakur,Male,28,Lucknow,Coffee Mug,Home & Kitchen,399,3,10,UPI,Delivered,1197,119.7,1077.3
+O0691,27-11-2025,C008,Sneha Reddy,Female,26,Hyderabad,Yoga Mat,Sports,899,2,10,UPI,Delivered,1798,179.8,1618.2
+O0124,27-11-2025,C004,Ananya Singh,Female,29,Delhi,Cotton T-Shirt,Fashion,699,1,10,Debit Card,Delivered,699,69.9,629.1
+O1255,27-11-2025,C004,Ananya Singh,Female,29,Delhi,Casual Hoodie,Fashion,1799,1,0,Credit Card,Cancelled,1799,0,0
+O1199,27-11-2025,C008,Sneha Reddy,Female,26,Hyderabad,Sunglasses,Accessories,999,2,5,Cash on Delivery,Delivered,1998,99.9,1898.1
+O1153,28-11-2025,C034,Ritika Bose,Female,35,Kolkata,Notebook,Stationery,199,3,15,Debit Card,Delivered,597,89.55,507.45
+O0662,30-11-2025,C034,Ritika Bose,Female,35,Kolkata,Smart Watch,Electronics,3999,1,10,UPI,Delivered,3999,399.9,3599.1
+O0957,30-11-2025,C015,Rohan Kapoor,Male,27,Delhi,Face Wash,Beauty,449,2,5,Debit Card,Delivered,898,44.9,853.1
+O0729,02-12-2025,C003,Rohan Gupta,Male,25,Bangalore,Cricket Bat,Sports,2499,1,5,Credit Card,Delivered,2499,124.95,2374.05
+O1289,02-12-2025,C049,Samar Bhatia,Male,31,Delhi,Mechanical Keyboard,Electronics,2499,3,5,Debit Card,Delivered,7497,374.85,7122.15
+O0784,02-12-2025,C047,Abhishek Das,Male,34,Bangalore,Notebook,Stationery,199,4,10,UPI,Delivered,796,79.6,716.4
+O0642,03-12-2025,C007,Arjun Patel,Male,31,Ahmedabad,Yoga Mat,Sports,899,2,0,Credit Card,Delivered,1798,0,1798
+O1319,05-12-2025,C007,Arjun Patel,Male,31,Ahmedabad,Cotton T-Shirt,Fashion,699,3,5,Net Banking,Delivered,2097,104.85,1992.15
+O0040,06-12-2025,C006,Neha Kapoor,Female,27,Pune,Pen Set,Stationery,299,1,0,UPI,Delivered,299,0,299
+O0510,06-12-2025,C045,Gaurav Singh,Male,43,Noida,Table Lamp,Home & Kitchen,1499,3,0,Credit Card,Delivered,4497,0,4497
+O1273,06-12-2025,C045,Gaurav Singh,Male,43,Noida,Mechanical Keyboard,Electronics,2499,2,10,Credit Card,Cancelled,4998,499.8,0
+O0912,07-12-2025,C042,Sonal Mishra,Female,38,Delhi,Sunglasses,Accessories,999,2,10,UPI,Delivered,1998,199.8,1798.2
+O0557,07-12-2025,C050,Kriti Sinha,Female,26,Mumbai,Running Shoes,Fashion,2999,5,5,UPI,Delivered,14995,749.75,14245.25
+O0807,08-12-2025,C024,Riya Kapoor,Female,25,Hyderabad,Bluetooth Headphones,Electronics,1999,2,10,Debit Card,Returned,3998,399.8,0
+O0837,08-12-2025,C031,Harsh Agarwal,Male,24,Jaipur,Cricket Bat,Sports,2499,1,0,UPI,Delivered,2499,0,2499
+O0787,08-12-2025,C045,Gaurav Singh,Male,43,Noida,Yoga Mat,Sports,899,4,5,Debit Card,Cancelled,3596,179.8,0
+O0768,09-12-2025,C037,Kabir Sethi,Male,30,Mumbai,Cotton T-Shirt,Fashion,699,1,0,UPI,Delivered,699,0,699
+O0549,09-12-2025,C047,Abhishek Das,Male,34,Bangalore,Bookshelf,Furniture,4499,1,15,UPI,Returned,4499,674.85,0
+O0570,10-12-2025,C021,Rajat Verma,Male,42,Delhi,Wireless Mouse,Electronics,799,3,5,Net Banking,Delivered,2397,119.85,2277.15
+O0329,10-12-2025,C025,Siddharth Jain,Male,37,Mumbai,Bedsheet Set,Home & Kitchen,1999,1,5,Credit Card,Delivered,1999,99.95,1899.05
+O0835,11-12-2025,C020,Nisha Sharma,Female,28,Mumbai,Cotton T-Shirt,Fashion,699,1,0,Debit Card,Delivered,699,0,699
+O1048,11-12-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Face Wash,Beauty,449,1,15,UPI,Delivered,449,67.35,381.65
+O1313,11-12-2025,C045,Gaurav Singh,Male,43,Noida,Pen Set,Stationery,299,1,0,UPI,Delivered,299,0,299
+O0991,12-12-2025,C036,Palak Arora,Female,22,Delhi,Table Lamp,Home & Kitchen,1499,3,10,Cash on Delivery,Delivered,4497,449.7,4047.3
+O0744,12-12-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Study Table,Furniture,5999,2,5,UPI,Delivered,11998,599.9,11398.1
+O0481,13-12-2025,C008,Sneha Reddy,Female,26,Hyderabad,Perfume,Beauty,1899,3,20,Net Banking,Delivered,5697,1139.4,4557.6
+O0873,14-12-2025,C010,Kavya Iyer,Female,24,Chennai,Cricket Bat,Sports,2499,5,20,Credit Card,Delivered,12495,2499,9996
+O1376,14-12-2025,C008,Sneha Reddy,Female,26,Hyderabad,Power Bank,Electronics,1499,2,0,Credit Card,Delivered,2998,0,2998
+O0213,14-12-2025,C044,Nandini Paul,Female,25,Kolkata,Travel Bag,Accessories,3299,1,10,UPI,Delivered,3299,329.9,2969.1
+O1439,14-12-2025,C026,Aditi Malhotra,Female,29,Delhi,Smart Watch,Electronics,3999,1,10,UPI,Delivered,3999,399.9,3599.1
+O1457,15-12-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Pen Set,Stationery,299,2,10,Debit Card,Delivered,598,59.8,538.2
+O0228,16-12-2025,C047,Abhishek Das,Male,34,Bangalore,Table Lamp,Home & Kitchen,1499,1,10,UPI,Delivered,1499,149.9,1349.1
+O0353,17-12-2025,C007,Arjun Patel,Male,31,Ahmedabad,Laptop Stand,Electronics,1299,4,0,Debit Card,Cancelled,5196,0,0
+O0820,19-12-2025,C004,Ananya Singh,Female,29,Delhi,Smart Watch,Electronics,3999,5,5,Net Banking,Delivered,19995,999.75,18995.25
+O1416,19-12-2025,C024,Riya Kapoor,Female,25,Hyderabad,Cricket Bat,Sports,2499,2,0,Credit Card,Delivered,4998,0,4998
+O1134,20-12-2025,C049,Samar Bhatia,Male,31,Delhi,Protein Shaker,Sports,599,1,0,Credit Card,Delivered,599,0,599
+O0958,21-12-2025,C021,Rajat Verma,Male,42,Delhi,Study Table,Furniture,5999,3,5,UPI,Delivered,17997,899.85,17097.15
+O0021,22-12-2025,C050,Kriti Sinha,Female,26,Mumbai,Travel Bag,Accessories,3299,4,5,UPI,Delivered,13196,659.8,12536.2
+O0424,22-12-2025,C010,Kavya Iyer,Female,24,Chennai,Bluetooth Headphones,Electronics,1999,2,10,Credit Card,Delivered,3998,399.8,3598.2
+O0174,22-12-2025,C025,Siddharth Jain,Male,37,Mumbai,Table Lamp,Home & Kitchen,1499,1,5,Cash on Delivery,Delivered,1499,74.95,1424.05
+O0295,23-12-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Laptop Stand,Electronics,1299,1,0,UPI,Delivered,1299,0,1299
+O1034,23-12-2025,C037,Kabir Sethi,Male,30,Mumbai,Bedsheet Set,Home & Kitchen,1999,2,0,Debit Card,Delivered,3998,0,3998
+O0656,24-12-2025,C039,Ishaan Roy,Male,36,Bangalore,Mechanical Keyboard,Electronics,2499,2,0,UPI,Delivered,4998,0,4998
+O1228,26-12-2025,C013,Aditya Joshi,Male,29,Mumbai,Cotton T-Shirt,Fashion,699,1,5,Net Banking,Delivered,699,34.95,664.05
+O0886,26-12-2025,C049,Samar Bhatia,Male,31,Delhi,Travel Bag,Accessories,3299,1,10,UPI,Delivered,3299,329.9,2969.1
+O0288,27-12-2025,C030,Divya Menon,Female,31,Kochi,Travel Bag,Accessories,3299,1,5,Debit Card,Delivered,3299,164.95,3134.05
+O1038,27-12-2025,C030,Divya Menon,Female,31,Kochi,Running Shoes,Fashion,2999,3,15,Net Banking,Cancelled,8997,1349.55,0
+O1197,27-12-2025,C002,Priya Verma,Female,32,Mumbai,Yoga Mat,Sports,899,2,10,UPI,Cancelled,1798,179.8,0
+O0952,27-12-2025,C046,Tanvi Kapoor,Female,27,Gurgaon,Water Bottle,Home & Kitchen,499,3,5,Debit Card,Delivered,1497,74.85,1422.15
+O1428,28-12-2025,C015,Rohan Kapoor,Male,27,Delhi,Mechanical Keyboard,Electronics,2499,1,0,Cash on Delivery,Delivered,2499,0,2499
+O0613,28-12-2025,C007,Arjun Patel,Male,31,Ahmedabad,Power Bank,Electronics,1499,1,0,Debit Card,Delivered,1499,0,1499
+O0621,28-12-2025,C031,Harsh Agarwal,Male,24,Jaipur,Power Bank,Electronics,1499,1,10,Cash on Delivery,Delivered,1499,149.9,1349.1
+O1149,28-12-2025,C037,Kabir Sethi,Male,30,Mumbai,Yoga Mat,Sports,899,3,0,Debit Card,Delivered,2697,0,2697
+O0848,28-12-2025,C043,Rishabh Jain,Male,29,Ahmedabad,Bedsheet Set,Home & Kitchen,1999,1,15,Credit Card,Delivered,1999,299.85,1699.15
+O0697,29-12-2025,C041,Pranav Rao,Male,26,Chennai,Bookshelf,Furniture,4499,2,10,Credit Card,Delivered,8998,899.8,8098.2
+O1456,29-12-2025,C036,Palak Arora,Female,22,Delhi,Study Table,Furniture,5999,2,5,UPI,Delivered,11998,599.9,11398.1
+O0104,29-12-2025,C020,Nisha Sharma,Female,28,Mumbai,Wireless Mouse,Electronics,799,1,0,UPI,Delivered,799,0,799
